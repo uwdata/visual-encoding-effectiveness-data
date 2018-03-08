@@ -1,4 +1,4 @@
-- The order of the experiment progress is labeled by the screenshot file name.
+File names label the order of the experiment progress.
 
 01-screen-out
 02-instruction
@@ -9,6 +9,6 @@
 07-complete
 
 - "05-task-compareAverages", "05-task-compareValues", "05-task-findMaximum", "05-task-readValue" show the UI of each task.
-- The instructions and the practices were adjusted to the following tasks.
+- The instructions and the practices were adjusted to the following tasks (05-task).
 - Repeated UIs are not captured in 05-task.
 (Each participant answers 9 questions (1 engagement check question + 8 main questions) across 12 different visual encodings.)
