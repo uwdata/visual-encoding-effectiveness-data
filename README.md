@@ -4,8 +4,8 @@ This repository contains the supplement material for "Assessing Effects of Task 
 
 
 ## Content
-- study _ui: Screenshots of the user study interfaces.
-- stimuli: Html file that loading experiment stimuli.
+- study _ui : Screenshots of the user study interfaces.
+- stimuli : Html file that loading experiment stimuli.
 - responses : .csv file of user responses we used in our analysis.
 - analysis :
   - R scripts for linear mixed effect model analysis and its post-hoc tests.
