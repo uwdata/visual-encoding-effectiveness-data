@@ -1,0 +1,302 @@
+[
+  {
+    "name": "AL-10",
+    "PRCP": 0,
+    "TMAX": 75.02
+  },
+  {
+    "name": "AL-10",
+    "PRCP": 0,
+    "TMAX": 91.94
+  },
+  {
+    "name": "AL-10",
+    "PRCP": 0,
+    "TMAX": 89.96
+  },
+  {
+    "name": "NM-03",
+    "PRCP": 0,
+    "TMAX": 53.96
+  },
+  {
+    "name": "NM-03",
+    "PRCP": 0,
+    "TMAX": 66.02
+  },
+  {
+    "name": "NM-03",
+    "PRCP": 0,
+    "TMAX": 57.92
+  },
+  {
+    "name": "LA-08",
+    "PRCP": 0,
+    "TMAX": 93.92
+  },
+  {
+    "name": "LA-08",
+    "PRCP": 0,
+    "TMAX": 91.94
+  },
+  {
+    "name": "LA-08",
+    "PRCP": 0.42126,
+    "TMAX": 84.02
+  },
+  {
+    "name": "PA-08",
+    "PRCP": 0,
+    "TMAX": 84.92
+  },
+  {
+    "name": "PA-08",
+    "PRCP": 0,
+    "TMAX": 80.96
+  },
+  {
+    "name": "PA-08",
+    "PRCP": 0,
+    "TMAX": 84.92
+  },
+  {
+    "name": "NE-05",
+    "PRCP": 0.05906,
+    "TMAX": 80.06
+  },
+  {
+    "name": "NE-05",
+    "PRCP": 0.83071,
+    "TMAX": 69.98
+  },
+  {
+    "name": "NE-05",
+    "PRCP": 0,
+    "TMAX": 69.98
+  },
+  {
+    "name": "CA-07",
+    "PRCP": 0,
+    "TMAX": 96.98
+  },
+  {
+    "name": "CA-07",
+    "PRCP": 0,
+    "TMAX": 111.02
+  },
+  {
+    "name": "CA-07",
+    "PRCP": 0,
+    "TMAX": 109.94
+  },
+  {
+    "name": "IA-03",
+    "PRCP": 0,
+    "TMAX": 51.98
+  },
+  {
+    "name": "IA-03",
+    "PRCP": 0,
+    "TMAX": 69.08
+  },
+  {
+    "name": "IA-03",
+    "PRCP": 0.01181,
+    "TMAX": 71.96
+  },
+  {
+    "name": "NJ-04",
+    "PRCP": 0,
+    "TMAX": 44.96
+  },
+  {
+    "name": "NJ-04",
+    "PRCP": 0,
+    "TMAX": 62.06
+  },
+  {
+    "name": "NJ-04",
+    "PRCP": 0,
+    "TMAX": 62.06
+  },
+  {
+    "name": "FL-04",
+    "PRCP": 0.16142,
+    "TMAX": 80.06
+  },
+  {
+    "name": "FL-04",
+    "PRCP": 0,
+    "TMAX": 78.98
+  },
+  {
+    "name": "FL-04",
+    "PRCP": 0,
+    "TMAX": 82.04
+  },
+  {
+    "name": "MD-04",
+    "PRCP": 0,
+    "TMAX": 60.08
+  },
+  {
+    "name": "MD-04",
+    "PRCP": 0,
+    "TMAX": 69.08
+  },
+  {
+    "name": "MD-04",
+    "PRCP": 0,
+    "TMAX": 51.98
+  },
+  {
+    "name": "VT-08",
+    "PRCP": 0,
+    "TMAX": 82.04
+  },
+  {
+    "name": "VT-08",
+    "PRCP": 0,
+    "TMAX": 80.96
+  },
+  {
+    "name": "VT-08",
+    "PRCP": 0,
+    "TMAX": 78.08
+  },
+  {
+    "name": "WA-10",
+    "PRCP": 0.01181,
+    "TMAX": 55.04
+  },
+  {
+    "name": "WA-10",
+    "PRCP": 0,
+    "TMAX": 64.04
+  },
+  {
+    "name": "WA-10",
+    "PRCP": 0.12992,
+    "TMAX": 60.98
+  },
+  {
+    "name": "IN-03",
+    "PRCP": 0.51969,
+    "TMAX": 57.02
+  },
+  {
+    "name": "IN-03",
+    "PRCP": 0.01181,
+    "TMAX": 42.98
+  },
+  {
+    "name": "IN-03",
+    "PRCP": 0,
+    "TMAX": 60.98
+  },
+  {
+    "name": "AR-11",
+    "PRCP": 0,
+    "TMAX": 48.92
+  },
+  {
+    "name": "AR-11",
+    "PRCP": 0,
+    "TMAX": 64.94
+  },
+  {
+    "name": "AR-11",
+    "PRCP": 0,
+    "TMAX": 75.02
+  },
+  {
+    "name": "KY-06",
+    "PRCP": 0,
+    "TMAX": 91.94
+  },
+  {
+    "name": "KY-06",
+    "PRCP": 0,
+    "TMAX": 89.96
+  },
+  {
+    "name": "KY-06",
+    "PRCP": 0,
+    "TMAX": 87.98
+  },
+  {
+    "name": "OK-01",
+    "PRCP": 0,
+    "TMAX": 53.06
+  },
+  {
+    "name": "OK-01",
+    "PRCP": 0,
+    "TMAX": 0
+  },
+  {
+    "name": "OK-01",
+    "PRCP": 0,
+    "TMAX": 48.02
+  },
+  {
+    "name": "SD-08",
+    "PRCP": 0.68898,
+    "TMAX": 84.02
+  },
+  {
+    "name": "SD-08",
+    "PRCP": 0,
+    "TMAX": 96.08
+  },
+  {
+    "name": "SD-08",
+    "PRCP": 0.11024,
+    "TMAX": 87.08
+  },
+  {
+    "name": "NV-09",
+    "PRCP": 0,
+    "TMAX": 89.96
+  },
+  {
+    "name": "NV-09",
+    "PRCP": 0,
+    "TMAX": 86
+  },
+  {
+    "name": "NV-09",
+    "PRCP": 0,
+    "TMAX": 91.94
+  },
+  {
+    "name": "ND-09",
+    "PRCP": 0,
+    "TMAX": 66.02
+  },
+  {
+    "name": "ND-09",
+    "PRCP": 0.57874,
+    "TMAX": 69.08
+  },
+  {
+    "name": "ND-09",
+    "PRCP": 0,
+    "TMAX": 84.02
+  },
+  {
+    "name": "RI-07",
+    "PRCP": 0,
+    "TMAX": 84.02
+  },
+  {
+    "name": "RI-07",
+    "PRCP": 0.40158,
+    "TMAX": 80.06
+  },
+  {
+    "name": "RI-07",
+    "PRCP": 0,
+    "TMAX": 73.94
+  }
+]

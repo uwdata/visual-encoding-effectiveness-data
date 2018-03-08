@@ -1,0 +1,452 @@
+[
+  {
+    "name": "NY-11",
+    "SNOW": 6.41733,
+    "TMIN": 27.14
+  },
+  {
+    "name": "NY-11",
+    "SNOW": 0.19685,
+    "TMIN": 30.2
+  },
+  {
+    "name": "NY-11",
+    "SNOW": 0.11811,
+    "TMIN": 29.12
+  },
+  {
+    "name": "NY-11",
+    "SNOW": 11.18111,
+    "TMIN": 29.12
+  },
+  {
+    "name": "NY-11",
+    "SNOW": 0.3937,
+    "TMIN": 29.12
+  },
+  {
+    "name": "NY-11",
+    "SNOW": 3.50394,
+    "TMIN": 30.2
+  },
+  {
+    "name": "NY-11",
+    "SNOW": 18.3071,
+    "TMIN": 26.24
+  },
+  {
+    "name": "NY-11",
+    "SNOW": 0.11811,
+    "TMIN": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 30.2,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 51.08,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 27.14,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 33.08,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 42.08,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 31.1,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 25.16,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 39.92,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 28.22,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 37.04,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 28.22,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 41,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 35.96,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 35.96,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 41,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 46.94,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 28.22,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 53.06,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 29.12,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "SNOW": 0,
+    "TMIN": 29.12
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 50,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-11",
+    "TMIN": 30.2,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 62.06,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 66.92,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 64.04,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 69.98,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 50,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 51.08,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 59,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 64.04,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 64.04,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 69.98,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 51.98,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 64.04,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 64.04,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 57.02,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 57.02,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 53.06,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 60.08,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 44.06,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 53.96,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 48.92,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 69.08,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 66.02,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 57.92,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 62.96,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 62.96,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 48.02,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 53.96,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 68,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 46.94,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-05",
+    "TMIN": 57.92,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "SNOW": 0.19685,
+    "TMIN": 23.18
+  },
+  {
+    "name": "MO-02",
+    "SNOW": 1.10236,
+    "TMIN": 15.26
+  },
+  {
+    "name": "MO-02",
+    "SNOW": 1.49606,
+    "TMIN": 22.1
+  },
+  {
+    "name": "MO-02",
+    "SNOW": 0.59055,
+    "TMIN": 18.14
+  },
+  {
+    "name": "MO-02",
+    "SNOW": 0.31496,
+    "TMIN": 20.12
+  },
+  {
+    "name": "MO-02",
+    "SNOW": 3.58268,
+    "TMIN": 33.98
+  },
+  {
+    "name": "MO-02",
+    "SNOW": 0.98425,
+    "TMIN": 20.12
+  },
+  {
+    "name": "MO-02",
+    "SNOW": 0.31496,
+    "TMIN": 19.22
+  },
+  {
+    "name": "MO-02",
+    "SNOW": 0.7874,
+    "TMIN": 14.18
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 27.14,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 26.24,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 39.02,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 35.96,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 28.22,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 33.08,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 26.24,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 20.12,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 21.2,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 16.16,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 25.16,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 37.94,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 21.2,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 28.22,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 33.98,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 39.02,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 23.18,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 29.12,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 29.12,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 37.94,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "TMIN": 28.22,
+    "SNOW": 0
+  }
+]

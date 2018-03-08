@@ -1,0 +1,47 @@
+[
+  {
+    "name": "ME-05",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "ME-05",
+    "PRCP": 0.42126,
+    "SNWD": 0
+  },
+  {
+    "name": "ME-05",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "VT-12",
+    "PRCP": 0,
+    "SNWD": 1.96851
+  },
+  {
+    "name": "VT-12",
+    "PRCP": 0,
+    "SNWD": 1.96851
+  },
+  {
+    "name": "VT-12",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "HI-09",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "HI-09",
+    "PRCP": 0.03937,
+    "SNWD": 0
+  },
+  {
+    "name": "HI-09",
+    "PRCP": 0,
+    "SNWD": 0
+  }
+]

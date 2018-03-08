@@ -1,0 +1,152 @@
+[
+  {
+    "name": "MI-10",
+    "PRCP": 0.01181,
+    "TMAX": 80.06
+  },
+  {
+    "name": "MI-10",
+    "PRCP": 0.09055,
+    "TMAX": 42.98
+  },
+  {
+    "name": "MI-10",
+    "PRCP": 0,
+    "TMAX": 71.06
+  },
+  {
+    "name": "OH-08",
+    "PRCP": 0,
+    "TMAX": 87.08
+  },
+  {
+    "name": "OH-08",
+    "PRCP": 0.57874,
+    "TMAX": 87.98
+  },
+  {
+    "name": "OH-08",
+    "PRCP": 0.68898,
+    "TMAX": 87.98
+  },
+  {
+    "name": "CO-10",
+    "PRCP": 0,
+    "TMAX": 64.94
+  },
+  {
+    "name": "CO-10",
+    "PRCP": 0.01969,
+    "TMAX": 71.96
+  },
+  {
+    "name": "CO-10",
+    "PRCP": 0,
+    "TMAX": 75.92
+  },
+  {
+    "name": "IA-03",
+    "PRCP": 0,
+    "TMAX": 44.06
+  },
+  {
+    "name": "IA-03",
+    "PRCP": 0,
+    "TMAX": 60.08
+  },
+  {
+    "name": "IA-03",
+    "PRCP": 0.05118,
+    "TMAX": 55.94
+  },
+  {
+    "name": "NJ-04",
+    "PRCP": 0,
+    "TMAX": 66.92
+  },
+  {
+    "name": "NJ-04",
+    "PRCP": 0,
+    "TMAX": 44.06
+  },
+  {
+    "name": "NJ-04",
+    "PRCP": 0,
+    "TMAX": 57.02
+  },
+  {
+    "name": "WV-02",
+    "PRCP": 0.05118,
+    "TMAX": 42.08
+  },
+  {
+    "name": "WV-02",
+    "PRCP": 0.5,
+    "TMAX": 37.04
+  },
+  {
+    "name": "WV-02",
+    "PRCP": 0.0315,
+    "TMAX": 18.14
+  },
+  {
+    "name": "WY-05",
+    "PRCP": 0,
+    "TMAX": 0
+  },
+  {
+    "name": "WY-05",
+    "PRCP": 0,
+    "TMAX": 0
+  },
+  {
+    "name": "WY-05",
+    "PRCP": 0,
+    "TMAX": 73.04
+  },
+  {
+    "name": "KY-02",
+    "PRCP": 0.11811,
+    "TMAX": 37.04
+  },
+  {
+    "name": "KY-02",
+    "PRCP": 0.24016,
+    "TMAX": 48.92
+  },
+  {
+    "name": "KY-02",
+    "PRCP": 0.05118,
+    "TMAX": 48.02
+  },
+  {
+    "name": "UT-12",
+    "PRCP": 0,
+    "TMAX": 33.08
+  },
+  {
+    "name": "UT-12",
+    "PRCP": 0,
+    "TMAX": 29.12
+  },
+  {
+    "name": "UT-12",
+    "PRCP": 0,
+    "TMAX": 28.22
+  },
+  {
+    "name": "ID-08",
+    "PRCP": 0,
+    "TMAX": 80.06
+  },
+  {
+    "name": "ID-08",
+    "PRCP": 0,
+    "TMAX": 87.98
+  },
+  {
+    "name": "ID-08",
+    "PRCP": 0,
+    "TMAX": 86
+  }
+]

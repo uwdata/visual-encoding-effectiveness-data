@@ -1,0 +1,302 @@
+[
+  {
+    "name": "CO-09",
+    "PRCP": 0,
+    "TMIN": 59
+  },
+  {
+    "name": "CO-09",
+    "PRCP": 0.92913,
+    "TMIN": 50
+  },
+  {
+    "name": "CO-09",
+    "PRCP": 0,
+    "TMIN": 42.98
+  },
+  {
+    "name": "AL-06",
+    "PRCP": 0,
+    "TMIN": 73.04
+  },
+  {
+    "name": "AL-06",
+    "PRCP": 0.24016,
+    "TMIN": 71.06
+  },
+  {
+    "name": "AL-06",
+    "PRCP": 0.27165,
+    "TMIN": 71.06
+  },
+  {
+    "name": "NY-09",
+    "PRCP": 0,
+    "TMIN": 69.08
+  },
+  {
+    "name": "NY-09",
+    "PRCP": 0.07087,
+    "TMIN": 50
+  },
+  {
+    "name": "NY-09",
+    "PRCP": 0,
+    "TMIN": 53.96
+  },
+  {
+    "name": "NM-07",
+    "PRCP": 0,
+    "TMIN": 69.08
+  },
+  {
+    "name": "NM-07",
+    "PRCP": 0,
+    "TMIN": 55.04
+  },
+  {
+    "name": "NM-07",
+    "PRCP": 0,
+    "TMIN": 66.02
+  },
+  {
+    "name": "LA-03",
+    "PRCP": 0,
+    "TMIN": 48.92
+  },
+  {
+    "name": "LA-03",
+    "PRCP": 0,
+    "TMIN": 57.02
+  },
+  {
+    "name": "LA-03",
+    "PRCP": 0.07087,
+    "TMIN": 66.02
+  },
+  {
+    "name": "IA-12",
+    "PRCP": 0,
+    "TMIN": 16.16
+  },
+  {
+    "name": "IA-12",
+    "PRCP": 0,
+    "TMIN": 33.08
+  },
+  {
+    "name": "IA-12",
+    "PRCP": 0,
+    "TMIN": 0
+  },
+  {
+    "name": "NJ-06",
+    "PRCP": 0,
+    "TMIN": 60.08
+  },
+  {
+    "name": "NJ-06",
+    "PRCP": 0,
+    "TMIN": 66.92
+  },
+  {
+    "name": "NJ-06",
+    "PRCP": 0,
+    "TMIN": 57.92
+  },
+  {
+    "name": "FL-06",
+    "PRCP": 0,
+    "TMIN": 78.08
+  },
+  {
+    "name": "FL-06",
+    "PRCP": 0,
+    "TMIN": 68
+  },
+  {
+    "name": "FL-06",
+    "PRCP": 0,
+    "TMIN": 71.96
+  },
+  {
+    "name": "NC-01",
+    "PRCP": 0,
+    "TMIN": 27.14
+  },
+  {
+    "name": "NC-01",
+    "PRCP": 0,
+    "TMIN": 27.14
+  },
+  {
+    "name": "NC-01",
+    "PRCP": 0,
+    "TMIN": 28.22
+  },
+  {
+    "name": "WI-05",
+    "PRCP": 0.16929,
+    "TMIN": 60.98
+  },
+  {
+    "name": "WI-05",
+    "PRCP": 0,
+    "TMIN": 35.96
+  },
+  {
+    "name": "WI-05",
+    "PRCP": 0.11024,
+    "TMIN": 46.04
+  },
+  {
+    "name": "MT-07",
+    "PRCP": 0,
+    "TMIN": 64.94
+  },
+  {
+    "name": "MT-07",
+    "PRCP": 0.01969,
+    "TMIN": 42.98
+  },
+  {
+    "name": "MT-07",
+    "PRCP": 0,
+    "TMIN": 57.92
+  },
+  {
+    "name": "WY-01",
+    "PRCP": 0,
+    "TMIN": 7.16
+  },
+  {
+    "name": "WY-01",
+    "PRCP": 0,
+    "TMIN": 20.12
+  },
+  {
+    "name": "WY-01",
+    "PRCP": 0,
+    "TMIN": 9.14
+  },
+  {
+    "name": "CT-08",
+    "PRCP": 0.01969,
+    "TMIN": 73.94
+  },
+  {
+    "name": "CT-08",
+    "PRCP": 0.16929,
+    "TMIN": 66.92
+  },
+  {
+    "name": "CT-08",
+    "PRCP": 0,
+    "TMIN": 73.04
+  },
+  {
+    "name": "TN-09",
+    "PRCP": 0,
+    "TMIN": 60.98
+  },
+  {
+    "name": "TN-09",
+    "PRCP": 0.53937,
+    "TMIN": 71.06
+  },
+  {
+    "name": "TN-09",
+    "PRCP": 0.03937,
+    "TMIN": 77
+  },
+  {
+    "name": "ID-07",
+    "PRCP": 0,
+    "TMIN": 60.08
+  },
+  {
+    "name": "ID-07",
+    "PRCP": 0,
+    "TMIN": 64.94
+  },
+  {
+    "name": "ID-07",
+    "PRCP": 0,
+    "TMIN": 62.96
+  },
+  {
+    "name": "OK-11",
+    "PRCP": 0,
+    "TMIN": 53.96
+  },
+  {
+    "name": "OK-11",
+    "PRCP": 0,
+    "TMIN": 37.94
+  },
+  {
+    "name": "OK-11",
+    "PRCP": 0,
+    "TMIN": 41
+  },
+  {
+    "name": "NV-06",
+    "PRCP": 0,
+    "TMIN": 55.94
+  },
+  {
+    "name": "NV-06",
+    "PRCP": 0,
+    "TMIN": 60.98
+  },
+  {
+    "name": "NV-06",
+    "PRCP": 0,
+    "TMIN": 53.06
+  },
+  {
+    "name": "HI-07",
+    "PRCP": 0.01181,
+    "TMIN": 75.02
+  },
+  {
+    "name": "HI-07",
+    "PRCP": 0.0315,
+    "TMIN": 71.96
+  },
+  {
+    "name": "HI-07",
+    "PRCP": 0,
+    "TMIN": 75.92
+  },
+  {
+    "name": "ND-04",
+    "PRCP": 0,
+    "TMIN": 17.24
+  },
+  {
+    "name": "ND-04",
+    "PRCP": 0.40158,
+    "TMIN": 35.06
+  },
+  {
+    "name": "ND-04",
+    "PRCP": 0,
+    "TMIN": 35.06
+  },
+  {
+    "name": "RI-02",
+    "PRCP": 0,
+    "TMIN": 16.16
+  },
+  {
+    "name": "RI-02",
+    "PRCP": 0,
+    "TMIN": 39.92
+  },
+  {
+    "name": "RI-02",
+    "PRCP": 0,
+    "TMIN": 19.22
+  }
+]

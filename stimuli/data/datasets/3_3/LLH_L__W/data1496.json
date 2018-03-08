@@ -1,0 +1,47 @@
+[
+  {
+    "name": "OH-04",
+    "SNOW": 0.11811,
+    "SNWD": 3.93701
+  },
+  {
+    "name": "OH-04",
+    "SNOW": 3.8189,
+    "SNWD": 0
+  },
+  {
+    "name": "OH-04",
+    "SNOW": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "NV-04",
+    "SNOW": 0.19685,
+    "SNWD": 0
+  },
+  {
+    "name": "NV-04",
+    "SNOW": 0.3937,
+    "SNWD": 0
+  },
+  {
+    "name": "NV-04",
+    "SNOW": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "AZ-04",
+    "SNOW": 0.19685,
+    "SNWD": 0
+  },
+  {
+    "name": "AZ-04",
+    "SNOW": 2.99213,
+    "SNWD": 0
+  },
+  {
+    "name": "AZ-04",
+    "SNOW": 0,
+    "SNWD": 0
+  }
+]

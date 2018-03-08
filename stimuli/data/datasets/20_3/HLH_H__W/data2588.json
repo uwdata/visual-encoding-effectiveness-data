@@ -1,0 +1,302 @@
+[
+  {
+    "name": "TX-12",
+    "TMAX": 25.16,
+    "SNWD": 0
+  },
+  {
+    "name": "TX-12",
+    "TMAX": 69.98,
+    "SNWD": 0
+  },
+  {
+    "name": "TX-12",
+    "TMAX": 69.08,
+    "SNWD": 0
+  },
+  {
+    "name": "CO-03",
+    "SNWD": 3.14961,
+    "TMAX": 42.98
+  },
+  {
+    "name": "CO-03",
+    "SNWD": 3.14961,
+    "TMAX": 33.98
+  },
+  {
+    "name": "CO-03",
+    "TMAX": 50,
+    "SNWD": 0
+  },
+  {
+    "name": "AL-11",
+    "TMAX": 71.96,
+    "SNWD": 0
+  },
+  {
+    "name": "AL-11",
+    "TMAX": 68,
+    "SNWD": 0
+  },
+  {
+    "name": "AL-11",
+    "TMAX": 78.98,
+    "SNWD": 0
+  },
+  {
+    "name": "GA-09",
+    "TMAX": 86,
+    "SNWD": 0
+  },
+  {
+    "name": "GA-09",
+    "TMAX": 98.06,
+    "SNWD": 0
+  },
+  {
+    "name": "GA-09",
+    "TMAX": 95,
+    "SNWD": 0
+  },
+  {
+    "name": "PA-10",
+    "TMAX": 66.02,
+    "SNWD": 0
+  },
+  {
+    "name": "PA-10",
+    "TMAX": 69.98,
+    "SNWD": 0
+  },
+  {
+    "name": "PA-10",
+    "TMAX": 59,
+    "SNWD": 0
+  },
+  {
+    "name": "NE-01",
+    "SNWD": 1.96851,
+    "TMAX": 46.94
+  },
+  {
+    "name": "NE-01",
+    "SNWD": 3.14961,
+    "TMAX": 33.08
+  },
+  {
+    "name": "NE-01",
+    "TMAX": 44.06,
+    "SNWD": 0
+  },
+  {
+    "name": "CA-03",
+    "SNWD": 2.00788,
+    "TMAX": 37.94
+  },
+  {
+    "name": "CA-03",
+    "SNWD": 2.00788,
+    "TMAX": 46.94
+  },
+  {
+    "name": "CA-03",
+    "TMAX": 93.92,
+    "SNWD": 0
+  },
+  {
+    "name": "AK-04",
+    "SNWD": 27.95277,
+    "TMAX": 42.08
+  },
+  {
+    "name": "AK-04",
+    "SNWD": 22.04726,
+    "TMAX": 39.02
+  },
+  {
+    "name": "AK-04",
+    "TMAX": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "SC-09",
+    "TMAX": 95,
+    "SNWD": 0
+  },
+  {
+    "name": "SC-09",
+    "TMAX": 87.08,
+    "SNWD": 0
+  },
+  {
+    "name": "SC-09",
+    "TMAX": 86,
+    "SNWD": 0
+  },
+  {
+    "name": "FL-07",
+    "TMAX": 93.92,
+    "SNWD": 0
+  },
+  {
+    "name": "FL-07",
+    "TMAX": 93.92,
+    "SNWD": 0
+  },
+  {
+    "name": "FL-07",
+    "TMAX": 95,
+    "SNWD": 0
+  },
+  {
+    "name": "NC-12",
+    "TMAX": 57.92,
+    "SNWD": 0
+  },
+  {
+    "name": "NC-12",
+    "TMAX": 48.92,
+    "SNWD": 0
+  },
+  {
+    "name": "NC-12",
+    "TMAX": 41,
+    "SNWD": 0
+  },
+  {
+    "name": "MT-07",
+    "TMAX": 75.92,
+    "SNWD": 0
+  },
+  {
+    "name": "MT-07",
+    "TMAX": 75.02,
+    "SNWD": 0
+  },
+  {
+    "name": "MT-07",
+    "TMAX": 73.94,
+    "SNWD": 0
+  },
+  {
+    "name": "WV-08",
+    "TMAX": 91.04,
+    "SNWD": 0
+  },
+  {
+    "name": "WV-08",
+    "TMAX": 84.92,
+    "SNWD": 0
+  },
+  {
+    "name": "WV-08",
+    "TMAX": 87.98,
+    "SNWD": 0
+  },
+  {
+    "name": "NH-12",
+    "SNWD": 4.01575,
+    "TMAX": 39.02
+  },
+  {
+    "name": "NH-12",
+    "SNWD": 0.98425,
+    "TMAX": 31.1
+  },
+  {
+    "name": "NH-12",
+    "SNWD": 0,
+    "TMAX": 37.04
+  },
+  {
+    "name": "IN-12",
+    "SNWD": 3.14961,
+    "TMAX": 37.04
+  },
+  {
+    "name": "IN-12",
+    "SNWD": 1.1811,
+    "TMAX": 33.08
+  },
+  {
+    "name": "IN-12",
+    "TMAX": 26.24,
+    "SNWD": 0
+  },
+  {
+    "name": "AR-07",
+    "TMAX": 91.94,
+    "SNWD": 0
+  },
+  {
+    "name": "AR-07",
+    "TMAX": 91.04,
+    "SNWD": 0
+  },
+  {
+    "name": "AR-07",
+    "TMAX": 91.04,
+    "SNWD": 0
+  },
+  {
+    "name": "KY-05",
+    "TMAX": 87.98,
+    "SNWD": 0
+  },
+  {
+    "name": "KY-05",
+    "TMAX": 66.02,
+    "SNWD": 0
+  },
+  {
+    "name": "KY-05",
+    "TMAX": 68,
+    "SNWD": 0
+  },
+  {
+    "name": "ID-07",
+    "TMAX": 86,
+    "SNWD": 0
+  },
+  {
+    "name": "ID-07",
+    "TMAX": 96.08,
+    "SNWD": 0
+  },
+  {
+    "name": "ID-07",
+    "TMAX": 98.06,
+    "SNWD": 0
+  },
+  {
+    "name": "IL-02",
+    "SNWD": 1.96851,
+    "TMAX": 33.08
+  },
+  {
+    "name": "IL-02",
+    "SNWD": 0.98425,
+    "TMAX": 18.14
+  },
+  {
+    "name": "IL-02",
+    "TMAX": 46.04,
+    "SNWD": 0
+  },
+  {
+    "name": "HI-10",
+    "TMAX": 84.92,
+    "SNWD": 0
+  },
+  {
+    "name": "HI-10",
+    "TMAX": 84.02,
+    "SNWD": 0
+  },
+  {
+    "name": "HI-10",
+    "TMAX": 87.98,
+    "SNWD": 0
+  }
+]

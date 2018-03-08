@@ -1,0 +1,152 @@
+[
+  {
+    "name": "MI-05",
+    "TMIN": 31.1,
+    "SNWD": 0
+  },
+  {
+    "name": "MI-05",
+    "TMIN": 48.02,
+    "SNWD": 0
+  },
+  {
+    "name": "MI-05",
+    "TMIN": 46.94,
+    "SNWD": 0
+  },
+  {
+    "name": "MN-02",
+    "SNWD": 11.02363,
+    "TMIN": 11.12
+  },
+  {
+    "name": "MN-02",
+    "SNWD": 12.99213,
+    "TMIN": 17.24
+  },
+  {
+    "name": "MN-02",
+    "TMIN": -6.88,
+    "SNWD": 0
+  },
+  {
+    "name": "PA-02",
+    "SNWD": 3.14961,
+    "TMIN": 10.22
+  },
+  {
+    "name": "PA-02",
+    "SNWD": 3.93701,
+    "TMIN": 6.26
+  },
+  {
+    "name": "PA-02",
+    "TMIN": 17.24,
+    "SNWD": 0
+  },
+  {
+    "name": "CA-02",
+    "SNWD": 22.99214,
+    "TMIN": 41
+  },
+  {
+    "name": "CA-02",
+    "SNWD": 27.99214,
+    "TMIN": 48.02
+  },
+  {
+    "name": "CA-02",
+    "TMIN": 59,
+    "SNWD": 0
+  },
+  {
+    "name": "NJ-02",
+    "SNWD": 1.1811,
+    "TMIN": 0
+  },
+  {
+    "name": "NJ-02",
+    "SNWD": 3.93701,
+    "TMIN": 35.96
+  },
+  {
+    "name": "NJ-02",
+    "TMIN": 29.12,
+    "SNWD": 0
+  },
+  {
+    "name": "MT-09",
+    "TMIN": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "MT-09",
+    "TMIN": 53.06,
+    "SNWD": 0
+  },
+  {
+    "name": "MT-09",
+    "TMIN": 46.04,
+    "SNWD": 0
+  },
+  {
+    "name": "WV-08",
+    "TMIN": 62.96,
+    "SNWD": 0
+  },
+  {
+    "name": "WV-08",
+    "TMIN": 73.94,
+    "SNWD": 0
+  },
+  {
+    "name": "WV-08",
+    "TMIN": 62.06,
+    "SNWD": 0
+  },
+  {
+    "name": "MA-03",
+    "TMIN": 39.92,
+    "SNWD": 0
+  },
+  {
+    "name": "MA-03",
+    "TMIN": 27.14,
+    "SNWD": 0
+  },
+  {
+    "name": "MA-03",
+    "TMIN": 18.14,
+    "SNWD": 0
+  },
+  {
+    "name": "TN-05",
+    "TMIN": 53.96,
+    "SNWD": 0
+  },
+  {
+    "name": "TN-05",
+    "TMIN": 57.02,
+    "SNWD": 0
+  },
+  {
+    "name": "TN-05",
+    "TMIN": 69.98,
+    "SNWD": 0
+  },
+  {
+    "name": "AZ-10",
+    "TMIN": 33.98,
+    "SNWD": 0
+  },
+  {
+    "name": "AZ-10",
+    "TMIN": 55.94,
+    "SNWD": 0
+  },
+  {
+    "name": "AZ-10",
+    "TMIN": 41,
+    "SNWD": 0
+  }
+]

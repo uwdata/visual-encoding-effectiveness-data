@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SC-04",
+    "PRCP": 0,
+    "TMIN": 57.02
+  },
+  {
+    "name": "SC-04",
+    "PRCP": 0.22047,
+    "TMIN": 48.92
+  },
+  {
+    "name": "SC-04",
+    "PRCP": 0,
+    "TMIN": 60.08
+  },
+  {
+    "name": "ND-02",
+    "PRCP": 0,
+    "TMIN": 21.2
+  },
+  {
+    "name": "ND-02",
+    "PRCP": 0,
+    "TMIN": 3.2
+  },
+  {
+    "name": "ND-02",
+    "PRCP": 0,
+    "TMIN": 10.22
+  },
+  {
+    "name": "MS-01",
+    "PRCP": 0,
+    "TMIN": 30.2
+  },
+  {
+    "name": "MS-01",
+    "PRCP": 0,
+    "TMIN": 37.94
+  },
+  {
+    "name": "MS-01",
+    "PRCP": 0,
+    "TMIN": 29.12
+  }
+]

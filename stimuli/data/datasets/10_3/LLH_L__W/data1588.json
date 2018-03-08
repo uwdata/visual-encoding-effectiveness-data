@@ -1,0 +1,152 @@
+[
+  {
+    "name": "CO-11",
+    "PRCP": 0.01181,
+    "SNWD": 0
+  },
+  {
+    "name": "CO-11",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "CO-11",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "NE-03",
+    "PRCP": 0.33858,
+    "SNWD": 3.14961
+  },
+  {
+    "name": "NE-03",
+    "PRCP": 0,
+    "SNWD": 5.11811
+  },
+  {
+    "name": "NE-03",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "CA-12",
+    "PRCP": 0,
+    "SNWD": 7.00788
+  },
+  {
+    "name": "CA-12",
+    "PRCP": 0,
+    "SNWD": 2.00788
+  },
+  {
+    "name": "CA-12",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "IA-04",
+    "PRCP": 0.01969,
+    "SNWD": 0
+  },
+  {
+    "name": "IA-04",
+    "PRCP": 0.09843,
+    "SNWD": 0
+  },
+  {
+    "name": "IA-04",
+    "PRCP": 0.75984,
+    "SNWD": 0
+  },
+  {
+    "name": "FL-10",
+    "PRCP": 0.44095,
+    "SNWD": 0
+  },
+  {
+    "name": "FL-10",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "FL-10",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "NC-12",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "NC-12",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "NC-12",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "WI-12",
+    "PRCP": 0,
+    "SNWD": 5.90551
+  },
+  {
+    "name": "WI-12",
+    "PRCP": 0,
+    "SNWD": 1.96851
+  },
+  {
+    "name": "WI-12",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "OR-12",
+    "PRCP": 0.05118,
+    "SNWD": 0
+  },
+  {
+    "name": "OR-12",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "OR-12",
+    "PRCP": 0.01181,
+    "SNWD": 0
+  },
+  {
+    "name": "WY-05",
+    "PRCP": 0.96063,
+    "SNWD": 0
+  },
+  {
+    "name": "WY-05",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "WY-05",
+    "PRCP": 0.01969,
+    "SNWD": 0
+  },
+  {
+    "name": "IL-08",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "IL-08",
+    "PRCP": 0.0315,
+    "SNWD": 0
+  },
+  {
+    "name": "IL-08",
+    "PRCP": 0.57874,
+    "SNWD": 0
+  }
+]

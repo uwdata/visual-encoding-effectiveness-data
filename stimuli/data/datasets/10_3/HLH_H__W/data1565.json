@@ -1,0 +1,152 @@
+[
+  {
+    "name": "AL-07",
+    "TMAX": 93.92,
+    "SNWD": 0
+  },
+  {
+    "name": "AL-07",
+    "TMAX": 91.04,
+    "SNWD": 0
+  },
+  {
+    "name": "AL-07",
+    "TMAX": 96.08,
+    "SNWD": 0
+  },
+  {
+    "name": "GA-01",
+    "TMAX": 42.08,
+    "SNWD": 0
+  },
+  {
+    "name": "GA-01",
+    "TMAX": 57.02,
+    "SNWD": 0
+  },
+  {
+    "name": "GA-01",
+    "TMAX": 64.04,
+    "SNWD": 0
+  },
+  {
+    "name": "NM-10",
+    "TMAX": 69.98,
+    "SNWD": 0
+  },
+  {
+    "name": "NM-10",
+    "TMAX": 71.96,
+    "SNWD": 0
+  },
+  {
+    "name": "NM-10",
+    "TMAX": 68,
+    "SNWD": 0
+  },
+  {
+    "name": "NJ-02",
+    "SNWD": 1.1811,
+    "TMAX": 51.08
+  },
+  {
+    "name": "NJ-02",
+    "SNWD": 1.1811,
+    "TMAX": 42.98
+  },
+  {
+    "name": "NJ-02",
+    "TMAX": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "MD-06",
+    "TMAX": 87.98,
+    "SNWD": 0
+  },
+  {
+    "name": "MD-06",
+    "TMAX": 89.06,
+    "SNWD": 0
+  },
+  {
+    "name": "MD-06",
+    "TMAX": 80.96,
+    "SNWD": 0
+  },
+  {
+    "name": "MA-01",
+    "TMAX": 37.94,
+    "SNWD": 0
+  },
+  {
+    "name": "MA-01",
+    "TMAX": 57.02,
+    "SNWD": 0
+  },
+  {
+    "name": "MA-01",
+    "TMAX": 23.18,
+    "SNWD": 0
+  },
+  {
+    "name": "CT-05",
+    "TMAX": 71.96,
+    "SNWD": 0
+  },
+  {
+    "name": "CT-05",
+    "TMAX": 80.96,
+    "SNWD": 0
+  },
+  {
+    "name": "CT-05",
+    "TMAX": 66.02,
+    "SNWD": 0
+  },
+  {
+    "name": "TN-04",
+    "TMAX": 75.92,
+    "SNWD": 0
+  },
+  {
+    "name": "TN-04",
+    "TMAX": 80.96,
+    "SNWD": 0
+  },
+  {
+    "name": "TN-04",
+    "TMAX": 66.02,
+    "SNWD": 0
+  },
+  {
+    "name": "UT-05",
+    "TMAX": 73.04,
+    "SNWD": 0
+  },
+  {
+    "name": "UT-05",
+    "TMAX": 75.02,
+    "SNWD": 0
+  },
+  {
+    "name": "UT-05",
+    "TMAX": 66.02,
+    "SNWD": 0
+  },
+  {
+    "name": "SD-06",
+    "TMAX": 86,
+    "SNWD": 0
+  },
+  {
+    "name": "SD-06",
+    "TMAX": 87.98,
+    "SNWD": 0
+  },
+  {
+    "name": "SD-06",
+    "TMAX": 64.04,
+    "SNWD": 0
+  }
+]

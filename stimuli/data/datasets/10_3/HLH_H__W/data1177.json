@@ -1,0 +1,152 @@
+[
+  {
+    "name": "ME-10",
+    "PRCP": 0,
+    "TMIN": 29.12
+  },
+  {
+    "name": "ME-10",
+    "PRCP": 1.11811,
+    "TMIN": 41
+  },
+  {
+    "name": "ME-10",
+    "PRCP": 0.0315,
+    "TMIN": 46.94
+  },
+  {
+    "name": "MT-01",
+    "PRCP": 0.01181,
+    "TMIN": 2.12
+  },
+  {
+    "name": "MT-01",
+    "PRCP": 0,
+    "TMIN": 21.2
+  },
+  {
+    "name": "MT-01",
+    "PRCP": 0,
+    "TMIN": 0.14
+  },
+  {
+    "name": "MD-06",
+    "PRCP": 0,
+    "TMIN": 64.94
+  },
+  {
+    "name": "MD-06",
+    "PRCP": 0.09055,
+    "TMIN": 51.98
+  },
+  {
+    "name": "MD-06",
+    "PRCP": 0,
+    "TMIN": 60.08
+  },
+  {
+    "name": "WV-04",
+    "PRCP": 0.01181,
+    "TMIN": 51.98
+  },
+  {
+    "name": "WV-04",
+    "PRCP": 0.11811,
+    "TMIN": 35.96
+  },
+  {
+    "name": "WV-04",
+    "PRCP": 0.01969,
+    "TMIN": 21.2
+  },
+  {
+    "name": "NH-12",
+    "PRCP": 0,
+    "TMIN": 26.24
+  },
+  {
+    "name": "NH-12",
+    "PRCP": 0,
+    "TMIN": 14.18
+  },
+  {
+    "name": "NH-12",
+    "PRCP": 0,
+    "TMIN": 22.1
+  },
+  {
+    "name": "AR-03",
+    "PRCP": 0,
+    "TMIN": 35.96
+  },
+  {
+    "name": "AR-03",
+    "PRCP": 0.98819,
+    "TMIN": 60.08
+  },
+  {
+    "name": "AR-03",
+    "PRCP": 0.01969,
+    "TMIN": 53.96
+  },
+  {
+    "name": "CT-11",
+    "PRCP": 0,
+    "TMIN": 31.1
+  },
+  {
+    "name": "CT-11",
+    "PRCP": 0,
+    "TMIN": 21.2
+  },
+  {
+    "name": "CT-11",
+    "PRCP": 0,
+    "TMIN": 28.22
+  },
+  {
+    "name": "TN-10",
+    "PRCP": 0.14961,
+    "TMIN": 55.04
+  },
+  {
+    "name": "TN-10",
+    "PRCP": 0,
+    "TMIN": 33.08
+  },
+  {
+    "name": "TN-10",
+    "PRCP": 0,
+    "TMIN": 64.94
+  },
+  {
+    "name": "ID-02",
+    "PRCP": 0,
+    "TMIN": 31.1
+  },
+  {
+    "name": "ID-02",
+    "PRCP": 0,
+    "TMIN": 29.12
+  },
+  {
+    "name": "ID-02",
+    "PRCP": 0,
+    "TMIN": 9.14
+  },
+  {
+    "name": "OK-03",
+    "PRCP": 0,
+    "TMIN": 44.96
+  },
+  {
+    "name": "OK-03",
+    "PRCP": 0,
+    "TMIN": 35.06
+  },
+  {
+    "name": "OK-03",
+    "PRCP": 0,
+    "TMIN": 33.08
+  }
+]

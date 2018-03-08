@@ -1,0 +1,152 @@
+[
+  {
+    "name": "MI-12",
+    "PRCP": 0,
+    "TMAX": 28.22
+  },
+  {
+    "name": "MI-12",
+    "PRCP": 0,
+    "TMAX": 33.98
+  },
+  {
+    "name": "MI-12",
+    "PRCP": 0.0315,
+    "TMAX": 18.14
+  },
+  {
+    "name": "OH-02",
+    "PRCP": 0,
+    "TMAX": 41
+  },
+  {
+    "name": "OH-02",
+    "PRCP": 0,
+    "TMAX": 50
+  },
+  {
+    "name": "OH-02",
+    "PRCP": 0,
+    "TMAX": 42.08
+  },
+  {
+    "name": "CO-08",
+    "PRCP": 0,
+    "TMAX": 87.98
+  },
+  {
+    "name": "CO-08",
+    "PRCP": 0,
+    "TMAX": 91.04
+  },
+  {
+    "name": "CO-08",
+    "PRCP": 0,
+    "TMAX": 82.04
+  },
+  {
+    "name": "LA-12",
+    "PRCP": 0,
+    "TMAX": 53.96
+  },
+  {
+    "name": "LA-12",
+    "PRCP": 0,
+    "TMAX": 68
+  },
+  {
+    "name": "LA-12",
+    "PRCP": 0.55118,
+    "TMAX": 80.96
+  },
+  {
+    "name": "NC-07",
+    "PRCP": 0.09055,
+    "TMAX": 87.08
+  },
+  {
+    "name": "NC-07",
+    "PRCP": 0.22047,
+    "TMAX": 89.96
+  },
+  {
+    "name": "NC-07",
+    "PRCP": 0,
+    "TMAX": 95
+  },
+  {
+    "name": "MD-04",
+    "PRCP": 0,
+    "TMAX": 82.04
+  },
+  {
+    "name": "MD-04",
+    "PRCP": 0,
+    "TMAX": 53.06
+  },
+  {
+    "name": "MD-04",
+    "PRCP": 0.01969,
+    "TMAX": 69.98
+  },
+  {
+    "name": "VT-02",
+    "PRCP": 0,
+    "TMAX": 30.2
+  },
+  {
+    "name": "VT-02",
+    "PRCP": 0.01181,
+    "TMAX": 33.08
+  },
+  {
+    "name": "VT-02",
+    "PRCP": 0,
+    "TMAX": 55.04
+  },
+  {
+    "name": "WV-05",
+    "PRCP": 0.12992,
+    "TMAX": 62.96
+  },
+  {
+    "name": "WV-05",
+    "PRCP": 0.44095,
+    "TMAX": 75.92
+  },
+  {
+    "name": "WV-05",
+    "PRCP": 0.01181,
+    "TMAX": 80.06
+  },
+  {
+    "name": "KY-12",
+    "PRCP": 0.92913,
+    "TMAX": 46.94
+  },
+  {
+    "name": "KY-12",
+    "PRCP": 0,
+    "TMAX": 69.08
+  },
+  {
+    "name": "KY-12",
+    "PRCP": 0,
+    "TMAX": 46.94
+  },
+  {
+    "name": "KS-10",
+    "PRCP": 0,
+    "TMAX": 77
+  },
+  {
+    "name": "KS-10",
+    "PRCP": 0,
+    "TMAX": 75.02
+  },
+  {
+    "name": "KS-10",
+    "PRCP": 0,
+    "TMAX": 82.94
+  }
+]

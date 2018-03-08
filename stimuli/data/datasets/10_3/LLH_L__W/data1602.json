@@ -1,0 +1,152 @@
+[
+  {
+    "name": "CO-12",
+    "PRCP": 0.0315,
+    "SNOW": 1.1811
+  },
+  {
+    "name": "CO-12",
+    "PRCP": 0.1811,
+    "SNOW": 3.8189
+  },
+  {
+    "name": "CO-12",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "GA-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "GA-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "GA-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "CA-02",
+    "PRCP": 0.35039,
+    "SNOW": 10.90552
+  },
+  {
+    "name": "CA-02",
+    "PRCP": 0.01181,
+    "SNOW": 0.19685
+  },
+  {
+    "name": "CA-02",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WA-12",
+    "PRCP": 0.03937,
+    "SNOW": 0.98425
+  },
+  {
+    "name": "WA-12",
+    "PRCP": 0.01969,
+    "SNOW": 0.70866
+  },
+  {
+    "name": "WA-12",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NH-03",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NH-03",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NH-03",
+    "PRCP": 0.31102,
+    "SNOW": 0
+  },
+  {
+    "name": "CT-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "CT-10",
+    "PRCP": 0.88976,
+    "SNOW": 0
+  },
+  {
+    "name": "CT-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "UT-08",
+    "PRCP": 0.16929,
+    "SNOW": 0
+  },
+  {
+    "name": "UT-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "UT-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-11",
+    "PRCP": 0.01181,
+    "SNOW": 0
+  },
+  {
+    "name": "HI-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "HI-01",
+    "PRCP": 0.01969,
+    "SNOW": 0
+  },
+  {
+    "name": "HI-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "RI-12",
+    "PRCP": 0.38976,
+    "SNOW": 0.19685
+  },
+  {
+    "name": "RI-12",
+    "PRCP": 0.07087,
+    "SNOW": 0.59055
+  },
+  {
+    "name": "RI-12",
+    "PRCP": 0.62992,
+    "SNOW": 0
+  }
+]

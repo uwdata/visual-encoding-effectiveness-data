@@ -1,0 +1,47 @@
+[
+  {
+    "name": "NE-04",
+    "PRCP": 0,
+    "TMIN": 33.08
+  },
+  {
+    "name": "NE-04",
+    "PRCP": 0,
+    "TMIN": 28.22
+  },
+  {
+    "name": "NE-04",
+    "PRCP": 0,
+    "TMIN": 48.92
+  },
+  {
+    "name": "CT-09",
+    "PRCP": 0,
+    "TMIN": 51.98
+  },
+  {
+    "name": "CT-09",
+    "PRCP": 0,
+    "TMIN": 69.98
+  },
+  {
+    "name": "CT-09",
+    "PRCP": 0,
+    "TMIN": 55.04
+  },
+  {
+    "name": "HI-03",
+    "PRCP": 0,
+    "TMIN": 64.04
+  },
+  {
+    "name": "HI-03",
+    "PRCP": 0,
+    "TMIN": 69.08
+  },
+  {
+    "name": "HI-03",
+    "PRCP": 1.55118,
+    "TMIN": 66.92
+  }
+]

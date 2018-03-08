@@ -1,0 +1,152 @@
+[
+  {
+    "name": "AL-02",
+    "PRCP": 0,
+    "TMIN": 30.2
+  },
+  {
+    "name": "AL-02",
+    "PRCP": 0,
+    "TMIN": 33.08
+  },
+  {
+    "name": "AL-02",
+    "PRCP": 0,
+    "TMIN": 33.98
+  },
+  {
+    "name": "NM-07",
+    "PRCP": 0,
+    "TMIN": 60.98
+  },
+  {
+    "name": "NM-07",
+    "PRCP": 0.01969,
+    "TMIN": 60.98
+  },
+  {
+    "name": "NM-07",
+    "PRCP": 0.01181,
+    "TMIN": 51.98
+  },
+  {
+    "name": "MN-09",
+    "PRCP": 0,
+    "TMIN": 51.08
+  },
+  {
+    "name": "MN-09",
+    "PRCP": 0,
+    "TMIN": 50
+  },
+  {
+    "name": "MN-09",
+    "PRCP": 0,
+    "TMIN": 46.94
+  },
+  {
+    "name": "SC-08",
+    "PRCP": 0,
+    "TMIN": 75.02
+  },
+  {
+    "name": "SC-08",
+    "PRCP": 0,
+    "TMIN": 69.98
+  },
+  {
+    "name": "SC-08",
+    "PRCP": 0.48819,
+    "TMIN": 73.04
+  },
+  {
+    "name": "FL-02",
+    "PRCP": 1.27953,
+    "TMIN": 64.94
+  },
+  {
+    "name": "FL-02",
+    "PRCP": 0,
+    "TMIN": 37.04
+  },
+  {
+    "name": "FL-02",
+    "PRCP": 0,
+    "TMIN": 57.92
+  },
+  {
+    "name": "WI-11",
+    "PRCP": 0,
+    "TMIN": 0
+  },
+  {
+    "name": "WI-11",
+    "PRCP": 0,
+    "TMIN": 35.06
+  },
+  {
+    "name": "WI-11",
+    "PRCP": 0,
+    "TMIN": 28.22
+  },
+  {
+    "name": "MT-07",
+    "PRCP": 0,
+    "TMIN": 51.98
+  },
+  {
+    "name": "MT-07",
+    "PRCP": 0,
+    "TMIN": 57.02
+  },
+  {
+    "name": "MT-07",
+    "PRCP": 0,
+    "TMIN": 50
+  },
+  {
+    "name": "WA-10",
+    "PRCP": 0.09843,
+    "TMIN": 44.06
+  },
+  {
+    "name": "WA-10",
+    "PRCP": 0.03937,
+    "TMIN": 46.94
+  },
+  {
+    "name": "WA-10",
+    "PRCP": 0.0315,
+    "TMIN": 44.96
+  },
+  {
+    "name": "MA-10",
+    "PRCP": 0,
+    "TMIN": 55.04
+  },
+  {
+    "name": "MA-10",
+    "PRCP": 1.79134,
+    "TMIN": 48.02
+  },
+  {
+    "name": "MA-10",
+    "PRCP": 0,
+    "TMIN": 29.12
+  },
+  {
+    "name": "AZ-03",
+    "PRCP": 0,
+    "TMIN": 35.96
+  },
+  {
+    "name": "AZ-03",
+    "PRCP": 0,
+    "TMIN": 55.94
+  },
+  {
+    "name": "AZ-03",
+    "PRCP": 0,
+    "TMIN": 46.94
+  }
+]

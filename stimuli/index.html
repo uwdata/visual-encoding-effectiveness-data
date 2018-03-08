@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Stimuli</title>
+  <style>
+    .vega-actions a {
+      padding: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div id="vis-container"></div>
+</body>
+<script src="js/jquery.min.js"></script>
+<script src="js/vega.js"></script>
+<script src="js/vega-lite.min.js"></script>
+<script src="js/vega-embed.js"></script>
+<script src="js/util.js"></script>
+<script src="js/plot-new.js"></script>
+<script type="text/javascript">
+
+// INSTRUCTION
+// You can see the stimuli by specifying the below variables:
+
+// 1. tasktype
+// : Type of task. (One of {"compareAggregatedValue", "compareValue", "readValue", "findExtremum"})
+// "compareAggregatedValue" means "Comparing Averages"
+// "compareValue" means "Comparing Values"
+// "readValue" means "Reading Value"
+// "findExtremum" means "Finding Maximum"
+
+// 2. assignmentID
+// : A string corresponding to the data distriution
+// ({cardinality}_{#/category}/{Entropy_Q1}{Entropy_Q2}{Entropy_N}_{Clusteredness}__{Correlation})
+
+// Default value shows all stimuli of Comparing Averages task with data distributions with cardinality=3, #/Category = 30, High Q1 Entropy, High Q2 Entropy.
+
+  let tasktype = "compareAggregatedValue";
+  let assignmentID = "3_30/HHH_H__W";
+
+
+  $.getJSON('data/specs.json')
+    .then(specs => {
+    $.getJSON('data/compiledQuestions.json')
+      .then(questions => {
+      Object.keys(questions[tasktype])
+        .map(key => { return {"assignmentID" : key, "questions": questions[tasktype][key]}; })
+        .forEach((totalQuestions, i) =>{
+
+        if(totalQuestions.assignmentID !== assignmentID){
+          return;
+        } else {
+          console.log(totalQuestions.assignmentID);
+          Object.keys(totalQuestions.questions)
+            .map(key=> totalQuestions.questions[key])
+            .forEach((questionsPerSpec) => {
+              let j = questionsPerSpec[0].specID;
+
+            questionsPerSpec
+              .filter(q => q.name !== "dummy")
+              .forEach((q, k) => {
+              $.getJSON(`data/datasets/${totalQuestions.assignmentID}/${q.datasetName}`)
+                .done(dataset => {
+
+                  $('#vis-container').append(`<div id="vis${i}-${j}-${k}"></div>`);
+                  $('#vis-container').append(`<h5>${q.question}, ${q.options.join(', ')}, ${q.correct}</h5>`);
+
+                  task(`#vis${i}-${j}-${k}`, q, dataset, specs[j]);
+              }).fail((jqxhr, textStatus, error) => {
+                console.log(error);
+                throw error;
+              });
+            });
+          });
+        }
+
+
+      });
+    });
+  });
+
+
+  function task(elm, question, dataset, spec){
+    let cleanedDataset = JSON.parse(JSON.stringify(dataset));
+
+    if(question.annotated){
+      question.annotated.forEach(d => {
+        let sameD = cleanedDataset.filter(f => {
+          return Object.keys(f).reduce((acc, key) => {
+            acc = acc && d[key] === f[key];
+            return acc;
+          }, true);
+
+        })[0];
+        sameD.annotated = d.annotated;
+        sameD.annotated2 = d.annotated2;
+      });
+    }
+
+    plot(elm, spec, cleanedDataset, question, "svg").then(r=>{
+    });
+
+  }
+
+</script>
+</html>
+

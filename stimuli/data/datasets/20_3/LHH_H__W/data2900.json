@@ -1,0 +1,302 @@
+[
+  {
+    "name": "TX-12",
+    "TMIN": 33.08,
+    "SNWD": 0
+  },
+  {
+    "name": "TX-12",
+    "TMIN": 51.08,
+    "SNWD": 0
+  },
+  {
+    "name": "TX-12",
+    "TMIN": 51.08,
+    "SNWD": 0
+  },
+  {
+    "name": "MI-05",
+    "TMIN": 62.96,
+    "SNWD": 0
+  },
+  {
+    "name": "MI-05",
+    "TMIN": 31.1,
+    "SNWD": 0
+  },
+  {
+    "name": "MI-05",
+    "TMIN": 39.92,
+    "SNWD": 0
+  },
+  {
+    "name": "OH-10",
+    "TMIN": 37.94,
+    "SNWD": 0
+  },
+  {
+    "name": "OH-10",
+    "TMIN": 44.96,
+    "SNWD": 0
+  },
+  {
+    "name": "OH-10",
+    "TMIN": 37.04,
+    "SNWD": 0
+  },
+  {
+    "name": "AL-09",
+    "TMIN": 69.08,
+    "SNWD": 0
+  },
+  {
+    "name": "AL-09",
+    "TMIN": 71.06,
+    "SNWD": 0
+  },
+  {
+    "name": "AL-09",
+    "TMIN": 73.04,
+    "SNWD": 0
+  },
+  {
+    "name": "GA-10",
+    "TMIN": 46.94,
+    "SNWD": 0
+  },
+  {
+    "name": "GA-10",
+    "TMIN": 66.92,
+    "SNWD": 0
+  },
+  {
+    "name": "GA-10",
+    "TMIN": 44.96,
+    "SNWD": 0
+  },
+  {
+    "name": "NM-06",
+    "TMIN": 39.02,
+    "SNWD": 0
+  },
+  {
+    "name": "NM-06",
+    "TMIN": 68,
+    "SNWD": 0
+  },
+  {
+    "name": "NM-06",
+    "TMIN": 55.94,
+    "SNWD": 0
+  },
+  {
+    "name": "LA-02",
+    "TMIN": 41,
+    "SNWD": 0
+  },
+  {
+    "name": "LA-02",
+    "TMIN": 62.96,
+    "SNWD": 0
+  },
+  {
+    "name": "LA-02",
+    "TMIN": 53.06,
+    "SNWD": 0
+  },
+  {
+    "name": "CA-07",
+    "TMIN": 57.92,
+    "SNWD": 0
+  },
+  {
+    "name": "CA-07",
+    "TMIN": 66.92,
+    "SNWD": 0
+  },
+  {
+    "name": "CA-07",
+    "TMIN": 71.06,
+    "SNWD": 0
+  },
+  {
+    "name": "IA-07",
+    "TMIN": 66.92,
+    "SNWD": 0
+  },
+  {
+    "name": "IA-07",
+    "TMIN": 59,
+    "SNWD": 0
+  },
+  {
+    "name": "IA-07",
+    "TMIN": 73.04,
+    "SNWD": 0
+  },
+  {
+    "name": "SC-03",
+    "TMIN": 53.06,
+    "SNWD": 0
+  },
+  {
+    "name": "SC-03",
+    "TMIN": 37.94,
+    "SNWD": 0
+  },
+  {
+    "name": "SC-03",
+    "TMIN": 62.96,
+    "SNWD": 0
+  },
+  {
+    "name": "NC-02",
+    "TMIN": 28.22,
+    "SNWD": 0
+  },
+  {
+    "name": "NC-02",
+    "TMIN": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "NC-02",
+    "TMIN": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "ME-12",
+    "SNWD": 16.14174,
+    "TMIN": 30.2
+  },
+  {
+    "name": "ME-12",
+    "SNWD": 27.16537,
+    "TMIN": 17.24
+  },
+  {
+    "name": "ME-12",
+    "TMIN": -10.84,
+    "SNWD": 0
+  },
+  {
+    "name": "MA-04",
+    "TMIN": 26.24,
+    "SNWD": 0
+  },
+  {
+    "name": "MA-04",
+    "TMIN": 29.12,
+    "SNWD": 0
+  },
+  {
+    "name": "MA-04",
+    "TMIN": 42.08,
+    "SNWD": 0
+  },
+  {
+    "name": "TN-03",
+    "TMIN": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "TN-03",
+    "TMIN": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "TN-03",
+    "TMIN": 60.98,
+    "SNWD": 0
+  },
+  {
+    "name": "ID-01",
+    "SNWD": 3.14961,
+    "TMIN": 11.12
+  },
+  {
+    "name": "ID-01",
+    "SNWD": 1.96851,
+    "TMIN": 8.24
+  },
+  {
+    "name": "ID-01",
+    "TMIN": -5.8,
+    "SNWD": 0
+  },
+  {
+    "name": "IL-10",
+    "TMIN": 55.94,
+    "SNWD": 0
+  },
+  {
+    "name": "IL-10",
+    "TMIN": 55.94,
+    "SNWD": 0
+  },
+  {
+    "name": "IL-10",
+    "TMIN": 35.96,
+    "SNWD": 0
+  },
+  {
+    "name": "OK-07",
+    "TMIN": 69.08,
+    "SNWD": 0
+  },
+  {
+    "name": "OK-07",
+    "TMIN": 69.08,
+    "SNWD": 0
+  },
+  {
+    "name": "OK-07",
+    "TMIN": 71.96,
+    "SNWD": 0
+  },
+  {
+    "name": "AZ-11",
+    "SNWD": 2.99213,
+    "TMIN": 2.12
+  },
+  {
+    "name": "AZ-11",
+    "SNWD": 3.93701,
+    "TMIN": 16.16
+  },
+  {
+    "name": "AZ-11",
+    "SNWD": 0,
+    "TMIN": 30.2
+  },
+  {
+    "name": "DE-06",
+    "TMIN": 64.94,
+    "SNWD": 0
+  },
+  {
+    "name": "DE-06",
+    "TMIN": 57.02,
+    "SNWD": 0
+  },
+  {
+    "name": "DE-06",
+    "TMIN": 66.02,
+    "SNWD": 0
+  },
+  {
+    "name": "MS-10",
+    "TMIN": 55.94,
+    "SNWD": 0
+  },
+  {
+    "name": "MS-10",
+    "TMIN": 55.94,
+    "SNWD": 0
+  },
+  {
+    "name": "MS-10",
+    "TMIN": 57.02,
+    "SNWD": 0
+  }
+]

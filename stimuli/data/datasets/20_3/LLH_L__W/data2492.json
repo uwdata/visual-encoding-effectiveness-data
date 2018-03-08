@@ -1,0 +1,302 @@
+[
+  {
+    "name": "AL-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "AL-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "AL-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-07",
+    "PRCP": 0.11024,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-07",
+    "PRCP": 0.40158,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-07",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "PA-04",
+    "PRCP": 0.11811,
+    "SNOW": 0.70866
+  },
+  {
+    "name": "PA-04",
+    "PRCP": 0.07087,
+    "SNOW": 0.19685
+  },
+  {
+    "name": "PA-04",
+    "PRCP": 0.01969,
+    "SNOW": 0
+  },
+  {
+    "name": "CA-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "CA-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "CA-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "IA-01",
+    "PRCP": 0.14173,
+    "SNOW": 1.49606
+  },
+  {
+    "name": "IA-01",
+    "PRCP": 0.11024,
+    "SNOW": 1.41732
+  },
+  {
+    "name": "IA-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "FL-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "FL-05",
+    "PRCP": 0.05118,
+    "SNOW": 0
+  },
+  {
+    "name": "FL-05",
+    "PRCP": 2.98819,
+    "SNOW": 0
+  },
+  {
+    "name": "VA-01",
+    "PRCP": 0,
+    "SNOW": 0.51181
+  },
+  {
+    "name": "VA-01",
+    "PRCP": 0.75197,
+    "SNOW": 7.20473
+  },
+  {
+    "name": "VA-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OR-02",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OR-02",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OR-02",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "ME-10",
+    "PRCP": 1.48819,
+    "SNOW": 0
+  },
+  {
+    "name": "ME-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "ME-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WA-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WA-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WA-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NH-05",
+    "PRCP": 0.11024,
+    "SNOW": 0
+  },
+  {
+    "name": "NH-05",
+    "PRCP": 0.5315,
+    "SNOW": 0
+  },
+  {
+    "name": "NH-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "KY-05",
+    "PRCP": 0.22835,
+    "SNOW": 0
+  },
+  {
+    "name": "KY-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "KY-05",
+    "PRCP": 0.5,
+    "SNOW": 0
+  },
+  {
+    "name": "IL-05",
+    "PRCP": 0.87008,
+    "SNOW": 0
+  },
+  {
+    "name": "IL-05",
+    "PRCP": 0.3189,
+    "SNOW": 0
+  },
+  {
+    "name": "IL-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "KS-01",
+    "PRCP": 0.09055,
+    "SNOW": 1.1811
+  },
+  {
+    "name": "KS-01",
+    "PRCP": 0.07874,
+    "SNOW": 0.59055
+  },
+  {
+    "name": "KS-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "SD-12",
+    "PRCP": 0.0315,
+    "SNOW": 0.31496
+  },
+  {
+    "name": "SD-12",
+    "PRCP": 0.70079,
+    "SNOW": 0.11811
+  },
+  {
+    "name": "SD-12",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-12",
+    "PRCP": 0.01181,
+    "SNOW": 0.11811
+  },
+  {
+    "name": "AZ-12",
+    "PRCP": 0.83858,
+    "SNOW": 10.11812
+  },
+  {
+    "name": "AZ-12",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NV-03",
+    "PRCP": 1.09843,
+    "SNOW": 12.99213
+  },
+  {
+    "name": "NV-03",
+    "PRCP": 0.11811,
+    "SNOW": 1.61417
+  },
+  {
+    "name": "NV-03",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "DE-07",
+    "PRCP": 0.29921,
+    "SNOW": 0
+  },
+  {
+    "name": "DE-07",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "DE-07",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "RI-04",
+    "PRCP": 0.35827,
+    "SNOW": 0
+  },
+  {
+    "name": "RI-04",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "RI-04",
+    "PRCP": 0,
+    "SNOW": 0
+  }
+]

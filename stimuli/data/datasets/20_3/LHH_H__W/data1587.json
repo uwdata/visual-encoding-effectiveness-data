@@ -1,0 +1,302 @@
+[
+  {
+    "name": "OH-06",
+    "TMAX": 91.04,
+    "SNOW": 0
+  },
+  {
+    "name": "OH-06",
+    "TMAX": 77,
+    "SNOW": 0
+  },
+  {
+    "name": "OH-06",
+    "TMAX": 82.94,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-02",
+    "TMAX": 64.94,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-02",
+    "TMAX": 66.02,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-02",
+    "TMAX": 64.94,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-09",
+    "TMAX": 87.98,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-09",
+    "TMAX": 87.98,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-09",
+    "TMAX": 93.92,
+    "SNOW": 0
+  },
+  {
+    "name": "MN-10",
+    "TMAX": 50,
+    "SNOW": 0
+  },
+  {
+    "name": "MN-10",
+    "TMAX": 41,
+    "SNOW": 0
+  },
+  {
+    "name": "MN-10",
+    "TMAX": 55.94,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-07",
+    "TMAX": 86,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-07",
+    "TMAX": 93.02,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-07",
+    "TMAX": 87.98,
+    "SNOW": 0
+  },
+  {
+    "name": "CA-09",
+    "TMAX": 71.96,
+    "SNOW": 0
+  },
+  {
+    "name": "CA-09",
+    "TMAX": 93.02,
+    "SNOW": 0
+  },
+  {
+    "name": "CA-09",
+    "TMAX": 82.04,
+    "SNOW": 0
+  },
+  {
+    "name": "IA-02",
+    "SNOW": 0.31496,
+    "TMAX": 14.18
+  },
+  {
+    "name": "IA-02",
+    "SNOW": 1.1811,
+    "TMAX": 16.16
+  },
+  {
+    "name": "IA-02",
+    "TMAX": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "FL-06",
+    "TMAX": 80.96,
+    "SNOW": 0
+  },
+  {
+    "name": "FL-06",
+    "TMAX": 89.06,
+    "SNOW": 0
+  },
+  {
+    "name": "FL-06",
+    "TMAX": 87.98,
+    "SNOW": 0
+  },
+  {
+    "name": "NC-11",
+    "TMAX": 77,
+    "SNOW": 0
+  },
+  {
+    "name": "NC-11",
+    "TMAX": 75.02,
+    "SNOW": 0
+  },
+  {
+    "name": "NC-11",
+    "TMAX": 68,
+    "SNOW": 0
+  },
+  {
+    "name": "VA-12",
+    "TMAX": 62.06,
+    "SNOW": 0
+  },
+  {
+    "name": "VA-12",
+    "TMAX": 53.96,
+    "SNOW": 0
+  },
+  {
+    "name": "VA-12",
+    "TMAX": 48.92,
+    "SNOW": 0
+  },
+  {
+    "name": "MD-07",
+    "TMAX": 95,
+    "SNOW": 0
+  },
+  {
+    "name": "MD-07",
+    "TMAX": 91.04,
+    "SNOW": 0
+  },
+  {
+    "name": "MD-07",
+    "TMAX": 93.02,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-05",
+    "TMAX": 84.92,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-05",
+    "TMAX": 87.98,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-05",
+    "TMAX": 62.06,
+    "SNOW": 0
+  },
+  {
+    "name": "MA-10",
+    "TMAX": 62.06,
+    "SNOW": 0
+  },
+  {
+    "name": "MA-10",
+    "TMAX": 48.92,
+    "SNOW": 0
+  },
+  {
+    "name": "MA-10",
+    "TMAX": 69.98,
+    "SNOW": 0
+  },
+  {
+    "name": "ID-03",
+    "SNOW": 2.20473,
+    "TMAX": 46.94
+  },
+  {
+    "name": "ID-03",
+    "SNOW": 0.11811,
+    "TMAX": 51.98
+  },
+  {
+    "name": "ID-03",
+    "TMAX": 62.06,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-06",
+    "TMAX": 87.98,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-06",
+    "TMAX": 84.92,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-06",
+    "TMAX": 87.98,
+    "SNOW": 0
+  },
+  {
+    "name": "KS-09",
+    "TMAX": 82.04,
+    "SNOW": 0
+  },
+  {
+    "name": "KS-09",
+    "TMAX": 87.98,
+    "SNOW": 0
+  },
+  {
+    "name": "KS-09",
+    "TMAX": 89.06,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-12",
+    "SNOW": 10.11812,
+    "TMAX": 37.04
+  },
+  {
+    "name": "AZ-12",
+    "SNOW": 0.11811,
+    "TMAX": 37.04
+  },
+  {
+    "name": "AZ-12",
+    "TMAX": 55.94,
+    "SNOW": 0
+  },
+  {
+    "name": "DE-06",
+    "TMAX": 75.92,
+    "SNOW": 0
+  },
+  {
+    "name": "DE-06",
+    "TMAX": 69.08,
+    "SNOW": 0
+  },
+  {
+    "name": "DE-06",
+    "TMAX": 86,
+    "SNOW": 0
+  },
+  {
+    "name": "MS-01",
+    "TMAX": 50,
+    "SNOW": 0
+  },
+  {
+    "name": "MS-01",
+    "TMAX": 57.92,
+    "SNOW": 0
+  },
+  {
+    "name": "MS-01",
+    "TMAX": 60.98,
+    "SNOW": 0
+  },
+  {
+    "name": "RI-04",
+    "TMAX": 46.94,
+    "SNOW": 0
+  },
+  {
+    "name": "RI-04",
+    "TMAX": 55.94,
+    "SNOW": 0
+  },
+  {
+    "name": "RI-04",
+    "TMAX": 53.96,
+    "SNOW": 0
+  }
+]

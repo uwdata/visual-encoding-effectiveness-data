@@ -1,0 +1,152 @@
+[
+  {
+    "name": "WI-12",
+    "SNOW": 3.38583,
+    "TMIN": 0.14
+  },
+  {
+    "name": "WI-12",
+    "SNOW": 5.70866,
+    "TMIN": 30.2
+  },
+  {
+    "name": "WI-12",
+    "SNOW": 0,
+    "TMIN": 24.26
+  },
+  {
+    "name": "VT-07",
+    "TMIN": 64.04,
+    "SNOW": 0
+  },
+  {
+    "name": "VT-07",
+    "TMIN": 53.96,
+    "SNOW": 0
+  },
+  {
+    "name": "VT-07",
+    "TMIN": 57.02,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-06",
+    "TMIN": 46.94,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-06",
+    "TMIN": 66.02,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-06",
+    "TMIN": 55.94,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-05",
+    "TMIN": 46.94,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-05",
+    "TMIN": 33.08,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-05",
+    "TMIN": 44.96,
+    "SNOW": 0
+  },
+  {
+    "name": "IN-01",
+    "SNOW": 0.51181,
+    "TMIN": 1.22
+  },
+  {
+    "name": "IN-01",
+    "SNOW": 0.7874,
+    "TMIN": 27.14
+  },
+  {
+    "name": "IN-01",
+    "TMIN": 15.26,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-09",
+    "TMIN": 71.06,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-09",
+    "TMIN": 71.06,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-09",
+    "TMIN": 55.04,
+    "SNOW": 0
+  },
+  {
+    "name": "IL-12",
+    "SNOW": 0.31496,
+    "TMIN": -10.84
+  },
+  {
+    "name": "IL-12",
+    "SNOW": 0.7874,
+    "TMIN": 22.1
+  },
+  {
+    "name": "IL-12",
+    "SNOW": 0,
+    "TMIN": 28.22
+  },
+  {
+    "name": "MO-09",
+    "TMIN": 44.06,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-09",
+    "TMIN": 69.98,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-09",
+    "TMIN": 60.08,
+    "SNOW": 0
+  },
+  {
+    "name": "KS-12",
+    "TMIN": 9.14,
+    "SNOW": 0
+  },
+  {
+    "name": "KS-12",
+    "TMIN": 10.22,
+    "SNOW": 0
+  },
+  {
+    "name": "KS-12",
+    "TMIN": 29.12,
+    "SNOW": 0
+  },
+  {
+    "name": "OK-12",
+    "TMIN": 37.04,
+    "SNOW": 0
+  },
+  {
+    "name": "OK-12",
+    "TMIN": 27.14,
+    "SNOW": 0
+  },
+  {
+    "name": "OK-12",
+    "TMIN": 24.26,
+    "SNOW": 0
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "OH-06",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OH-06",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OH-06",
+    "PRCP": 0.40158,
+    "SNOW": 0
+  },
+  {
+    "name": "CO-12",
+    "PRCP": 0.1811,
+    "SNOW": 3.8189
+  },
+  {
+    "name": "CO-12",
+    "PRCP": 0.05118,
+    "SNOW": 1.29921
+  },
+  {
+    "name": "CO-12",
+    "PRCP": 0.16142,
+    "SNOW": 0
+  },
+  {
+    "name": "GA-06",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "GA-06",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "GA-06",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "VA-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "VA-09",
+    "PRCP": 0.11811,
+    "SNOW": 0
+  },
+  {
+    "name": "VA-09",
+    "PRCP": 0.72835,
+    "SNOW": 0
+  },
+  {
+    "name": "ME-01",
+    "PRCP": 0.01969,
+    "SNOW": 0.3937
+  },
+  {
+    "name": "ME-01",
+    "PRCP": 0.1811,
+    "SNOW": 2.20473
+  },
+  {
+    "name": "ME-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WA-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WA-05",
+    "PRCP": 0.40945,
+    "SNOW": 0
+  },
+  {
+    "name": "WA-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MA-08",
+    "PRCP": 0.01181,
+    "SNOW": 0
+  },
+  {
+    "name": "MA-08",
+    "PRCP": 0.01969,
+    "SNOW": 0
+  },
+  {
+    "name": "MA-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-08",
+    "PRCP": 0.07874,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-08",
+    "PRCP": 0.0315,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "UT-12",
+    "PRCP": 0.01181,
+    "SNOW": 0.19685
+  },
+  {
+    "name": "UT-12",
+    "PRCP": 0.01969,
+    "SNOW": 0.19685
+  },
+  {
+    "name": "UT-12",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "SD-01",
+    "PRCP": 0.05118,
+    "SNOW": 0.59055
+  },
+  {
+    "name": "SD-01",
+    "PRCP": 0.0315,
+    "SNOW": 0.19685
+  },
+  {
+    "name": "SD-01",
+    "PRCP": 0,
+    "SNOW": 0
+  }
+]

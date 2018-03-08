@@ -1,0 +1,302 @@
+[
+  {
+    "name": "TX-07",
+    "PRCP": 0,
+    "TMIN": 80.96
+  },
+  {
+    "name": "TX-07",
+    "PRCP": 0,
+    "TMIN": 68
+  },
+  {
+    "name": "TX-07",
+    "PRCP": 0,
+    "TMIN": 73.04
+  },
+  {
+    "name": "MI-12",
+    "PRCP": 0,
+    "TMIN": 5.18
+  },
+  {
+    "name": "MI-12",
+    "PRCP": 0,
+    "TMIN": 30.2
+  },
+  {
+    "name": "MI-12",
+    "PRCP": 0,
+    "TMIN": 16.16
+  },
+  {
+    "name": "CO-03",
+    "PRCP": 0,
+    "TMIN": 13.1
+  },
+  {
+    "name": "CO-03",
+    "PRCP": 0,
+    "TMIN": 0
+  },
+  {
+    "name": "CO-03",
+    "PRCP": 0.05906,
+    "TMIN": 15.26
+  },
+  {
+    "name": "GA-12",
+    "PRCP": 0,
+    "TMIN": 22.1
+  },
+  {
+    "name": "GA-12",
+    "PRCP": 0.48819,
+    "TMIN": 44.06
+  },
+  {
+    "name": "GA-12",
+    "PRCP": 0,
+    "TMIN": 35.96
+  },
+  {
+    "name": "NM-04",
+    "PRCP": 0.35039,
+    "TMIN": 46.94
+  },
+  {
+    "name": "NM-04",
+    "PRCP": 0,
+    "TMIN": 41
+  },
+  {
+    "name": "NM-04",
+    "PRCP": 0,
+    "TMIN": 42.08
+  },
+  {
+    "name": "LA-07",
+    "PRCP": 0,
+    "TMIN": 80.06
+  },
+  {
+    "name": "LA-07",
+    "PRCP": 0,
+    "TMIN": 71.96
+  },
+  {
+    "name": "LA-07",
+    "PRCP": 0,
+    "TMIN": 78.98
+  },
+  {
+    "name": "FL-05",
+    "PRCP": 0,
+    "TMIN": 50
+  },
+  {
+    "name": "FL-05",
+    "PRCP": 0,
+    "TMIN": 75.02
+  },
+  {
+    "name": "FL-05",
+    "PRCP": 0,
+    "TMIN": 75.92
+  },
+  {
+    "name": "NC-09",
+    "PRCP": 0,
+    "TMIN": 68
+  },
+  {
+    "name": "NC-09",
+    "PRCP": 0,
+    "TMIN": 66.92
+  },
+  {
+    "name": "NC-09",
+    "PRCP": 0,
+    "TMIN": 69.08
+  },
+  {
+    "name": "VA-12",
+    "PRCP": 0.20866,
+    "TMIN": 31.1
+  },
+  {
+    "name": "VA-12",
+    "PRCP": 0,
+    "TMIN": 42.08
+  },
+  {
+    "name": "VA-12",
+    "PRCP": 0,
+    "TMIN": 39.02
+  },
+  {
+    "name": "WI-03",
+    "PRCP": 0.11811,
+    "TMIN": 27.14
+  },
+  {
+    "name": "WI-03",
+    "PRCP": 0,
+    "TMIN": 0
+  },
+  {
+    "name": "WI-03",
+    "PRCP": 0,
+    "TMIN": 26.24
+  },
+  {
+    "name": "OR-09",
+    "PRCP": 0,
+    "TMIN": 41
+  },
+  {
+    "name": "OR-09",
+    "PRCP": 0,
+    "TMIN": 44.96
+  },
+  {
+    "name": "OR-09",
+    "PRCP": 0,
+    "TMIN": 48.02
+  },
+  {
+    "name": "ME-07",
+    "PRCP": 0.31102,
+    "TMIN": 57.92
+  },
+  {
+    "name": "ME-07",
+    "PRCP": 0,
+    "TMIN": 53.96
+  },
+  {
+    "name": "ME-07",
+    "PRCP": 0.01969,
+    "TMIN": 59
+  },
+  {
+    "name": "VT-10",
+    "PRCP": 0.01969,
+    "TMIN": 37.94
+  },
+  {
+    "name": "VT-10",
+    "PRCP": 0.0315,
+    "TMIN": 39.92
+  },
+  {
+    "name": "VT-10",
+    "PRCP": 0.0315,
+    "TMIN": 33.98
+  },
+  {
+    "name": "MA-06",
+    "PRCP": 0,
+    "TMIN": 51.08
+  },
+  {
+    "name": "MA-06",
+    "PRCP": 0,
+    "TMIN": 55.94
+  },
+  {
+    "name": "MA-06",
+    "PRCP": 0,
+    "TMIN": 59
+  },
+  {
+    "name": "TN-08",
+    "PRCP": 0.79921,
+    "TMIN": 66.02
+  },
+  {
+    "name": "TN-08",
+    "PRCP": 0,
+    "TMIN": 75.02
+  },
+  {
+    "name": "TN-08",
+    "PRCP": 0,
+    "TMIN": 69.98
+  },
+  {
+    "name": "ID-07",
+    "PRCP": 0,
+    "TMIN": 46.94
+  },
+  {
+    "name": "ID-07",
+    "PRCP": 0,
+    "TMIN": 53.96
+  },
+  {
+    "name": "ID-07",
+    "PRCP": 0,
+    "TMIN": 48.02
+  },
+  {
+    "name": "SD-04",
+    "PRCP": 0,
+    "TMIN": 55.94
+  },
+  {
+    "name": "SD-04",
+    "PRCP": 0,
+    "TMIN": 31.1
+  },
+  {
+    "name": "SD-04",
+    "PRCP": 0,
+    "TMIN": 30.2
+  },
+  {
+    "name": "DE-09",
+    "PRCP": 1.3189,
+    "TMIN": 60.98
+  },
+  {
+    "name": "DE-09",
+    "PRCP": 0.29134,
+    "TMIN": 62.06
+  },
+  {
+    "name": "DE-09",
+    "PRCP": 0,
+    "TMIN": 51.08
+  },
+  {
+    "name": "MS-08",
+    "PRCP": 0,
+    "TMIN": 73.04
+  },
+  {
+    "name": "MS-08",
+    "PRCP": 0,
+    "TMIN": 73.94
+  },
+  {
+    "name": "MS-08",
+    "PRCP": 0,
+    "TMIN": 73.04
+  },
+  {
+    "name": "RI-03",
+    "PRCP": 0.5,
+    "TMIN": 39.92
+  },
+  {
+    "name": "RI-03",
+    "PRCP": 0,
+    "TMIN": 21.2
+  },
+  {
+    "name": "RI-03",
+    "PRCP": 0.01181,
+    "TMIN": 26.24
+  }
+]

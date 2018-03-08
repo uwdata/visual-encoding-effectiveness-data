@@ -1,0 +1,302 @@
+[
+  {
+    "name": "MI-01",
+    "PRCP": 0.1811,
+    "SNOW": 0.98425
+  },
+  {
+    "name": "MI-01",
+    "PRCP": 0.1811,
+    "SNOW": 5.19685
+  },
+  {
+    "name": "MI-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OH-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OH-05",
+    "PRCP": 0.53937,
+    "SNOW": 0
+  },
+  {
+    "name": "OH-05",
+    "PRCP": 0.35827,
+    "SNOW": 0
+  },
+  {
+    "name": "CO-01",
+    "PRCP": 0.01181,
+    "SNOW": 0.31496
+  },
+  {
+    "name": "CO-01",
+    "PRCP": 0.4685,
+    "SNOW": 5.31496
+  },
+  {
+    "name": "CO-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-03",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-03",
+    "PRCP": 2.38189,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-03",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-01",
+    "PRCP": 0.01181,
+    "SNOW": 0.19685
+  },
+  {
+    "name": "NE-01",
+    "PRCP": 0.20079,
+    "SNOW": 2.59843
+  },
+  {
+    "name": "NE-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "AK-02",
+    "PRCP": 0.0315,
+    "SNOW": 0.31496
+  },
+  {
+    "name": "AK-02",
+    "PRCP": 0.01181,
+    "SNOW": 0.11811
+  },
+  {
+    "name": "AK-02",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "VA-03",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "VA-03",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "VA-03",
+    "PRCP": 0.03937,
+    "SNOW": 0
+  },
+  {
+    "name": "ME-11",
+    "PRCP": 0.27165,
+    "SNOW": 2.00788
+  },
+  {
+    "name": "ME-11",
+    "PRCP": 0.66142,
+    "SNOW": 5.11811
+  },
+  {
+    "name": "ME-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MN-02",
+    "PRCP": 0.01181,
+    "SNOW": 0.31496
+  },
+  {
+    "name": "MN-02",
+    "PRCP": 0.03937,
+    "SNOW": 0.59055
+  },
+  {
+    "name": "MN-02",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WA-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WA-05",
+    "PRCP": 0.35039,
+    "SNOW": 0
+  },
+  {
+    "name": "WA-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NH-08",
+    "PRCP": 0.11024,
+    "SNOW": 0
+  },
+  {
+    "name": "NH-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NH-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "PRCP": 0,
+    "SNOW": 0.31496
+  },
+  {
+    "name": "WY-11",
+    "PRCP": 0.22835,
+    "SNOW": 0.90551
+  },
+  {
+    "name": "WY-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "IL-12",
+    "PRCP": 0.11811,
+    "SNOW": 1.69291
+  },
+  {
+    "name": "IL-12",
+    "PRCP": 0.11811,
+    "SNOW": 2.71654
+  },
+  {
+    "name": "IL-12",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-01",
+    "PRCP": 0.44882,
+    "SNOW": 0.70866
+  },
+  {
+    "name": "MO-01",
+    "PRCP": 0.01181,
+    "SNOW": 0.19685
+  },
+  {
+    "name": "MO-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "KS-02",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "KS-02",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "KS-02",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OK-11",
+    "PRCP": 0.55118,
+    "SNOW": 0
+  },
+  {
+    "name": "OK-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OK-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "SD-04",
+    "PRCP": 0.40945,
+    "SNOW": 0.98425
+  },
+  {
+    "name": "SD-04",
+    "PRCP": 0.64961,
+    "SNOW": 1.1811
+  },
+  {
+    "name": "SD-04",
+    "PRCP": 0.20866,
+    "SNOW": 0
+  },
+  {
+    "name": "ND-06",
+    "PRCP": 0.27953,
+    "SNOW": 0
+  },
+  {
+    "name": "ND-06",
+    "PRCP": 0.1811,
+    "SNOW": 0
+  },
+  {
+    "name": "ND-06",
+    "PRCP": 0,
+    "SNOW": 0
+  }
+]

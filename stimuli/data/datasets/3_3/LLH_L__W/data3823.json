@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MT-12",
+    "PRCP": 0,
+    "SNWD": 1.1811
+  },
+  {
+    "name": "MT-12",
+    "PRCP": 0,
+    "SNWD": 9.05512
+  },
+  {
+    "name": "MT-12",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "ND-10",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "ND-10",
+    "PRCP": 0.57087,
+    "SNWD": 0
+  },
+  {
+    "name": "ND-10",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "MS-05",
+    "PRCP": 0.27165,
+    "SNWD": 0
+  },
+  {
+    "name": "MS-05",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "MS-05",
+    "PRCP": 0,
+    "SNWD": 0
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "NJ-01",
+    "PRCP": 0.90945,
+    "SNWD": 7.87402
+  },
+  {
+    "name": "NJ-01",
+    "PRCP": 0,
+    "SNWD": 9.84253
+  },
+  {
+    "name": "NJ-01",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "VA-08",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "VA-08",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "VA-08",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "OR-03",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "OR-03",
+    "PRCP": 0.25984,
+    "SNWD": 0
+  },
+  {
+    "name": "OR-03",
+    "PRCP": 1.03937,
+    "SNWD": 0
+  }
+]

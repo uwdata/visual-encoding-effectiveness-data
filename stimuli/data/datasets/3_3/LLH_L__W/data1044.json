@@ -1,0 +1,47 @@
+[
+  {
+    "name": "GA-10",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "GA-10",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "GA-10",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "MT-05",
+    "PRCP": 0.01969,
+    "SNWD": 5.90551
+  },
+  {
+    "name": "MT-05",
+    "PRCP": 0.09843,
+    "SNWD": 1.96851
+  },
+  {
+    "name": "MT-05",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "HI-01",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "HI-01",
+    "PRCP": 0.14961,
+    "SNWD": 0
+  },
+  {
+    "name": "HI-01",
+    "PRCP": 0,
+    "SNWD": 0
+  }
+]

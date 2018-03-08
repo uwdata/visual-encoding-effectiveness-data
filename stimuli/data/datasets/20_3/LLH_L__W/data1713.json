@@ -1,0 +1,302 @@
+[
+  {
+    "name": "MI-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MI-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MI-08",
+    "PRCP": 0.01181,
+    "SNOW": 0
+  },
+  {
+    "name": "OH-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OH-10",
+    "PRCP": 0.29921,
+    "SNOW": 0
+  },
+  {
+    "name": "OH-10",
+    "PRCP": 0.0315,
+    "SNOW": 0
+  },
+  {
+    "name": "CO-02",
+    "PRCP": 0,
+    "SNOW": 0.3937
+  },
+  {
+    "name": "CO-02",
+    "PRCP": 0.05906,
+    "SNOW": 0.7874
+  },
+  {
+    "name": "CO-02",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "AL-07",
+    "PRCP": 0.61811,
+    "SNOW": 0
+  },
+  {
+    "name": "AL-07",
+    "PRCP": 0.05118,
+    "SNOW": 0
+  },
+  {
+    "name": "AL-07",
+    "PRCP": 0.01181,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-04",
+    "PRCP": 0.22835,
+    "SNOW": 5
+  },
+  {
+    "name": "NY-04",
+    "PRCP": 0.11024,
+    "SNOW": 0.90551
+  },
+  {
+    "name": "NY-04",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0.24016,
+    "SNOW": 0
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-05",
+    "PRCP": 0.09055,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-05",
+    "PRCP": 2.05906,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "CA-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "CA-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "CA-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "IA-02",
+    "PRCP": 0,
+    "SNOW": 0.31496
+  },
+  {
+    "name": "IA-02",
+    "PRCP": 0.09055,
+    "SNOW": 1.1811
+  },
+  {
+    "name": "IA-02",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "AK-02",
+    "PRCP": 0.01181,
+    "SNOW": 0.11811
+  },
+  {
+    "name": "AK-02",
+    "PRCP": 0.01969,
+    "SNOW": 0.11811
+  },
+  {
+    "name": "AK-02",
+    "PRCP": 0.03937,
+    "SNOW": 0
+  },
+  {
+    "name": "ME-05",
+    "PRCP": 0.0315,
+    "SNOW": 0.19685
+  },
+  {
+    "name": "ME-05",
+    "PRCP": 0.53937,
+    "SNOW": 4.48819
+  },
+  {
+    "name": "ME-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NH-01",
+    "PRCP": 0.03937,
+    "SNOW": 2.28347
+  },
+  {
+    "name": "NH-01",
+    "PRCP": 0.20079,
+    "SNOW": 3.70079
+  },
+  {
+    "name": "NH-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "TN-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "TN-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "TN-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "UT-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "UT-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "UT-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "ID-03",
+    "PRCP": 0.07087,
+    "SNOW": 0.11811
+  },
+  {
+    "name": "ID-03",
+    "PRCP": 0.18898,
+    "SNOW": 2.20473
+  },
+  {
+    "name": "ID-03",
+    "PRCP": 0.07087,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-02",
+    "PRCP": 0.0315,
+    "SNOW": 0.59055
+  },
+  {
+    "name": "MO-02",
+    "PRCP": 0.03937,
+    "SNOW": 0.31496
+  },
+  {
+    "name": "MO-02",
+    "PRCP": 0.07874,
+    "SNOW": 0
+  },
+  {
+    "name": "OK-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OK-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OK-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "HI-08",
+    "PRCP": 0.01181,
+    "SNOW": 0
+  },
+  {
+    "name": "HI-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "HI-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "ND-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "ND-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "ND-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MS-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MS-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MS-10",
+    "PRCP": 0,
+    "SNOW": 0
+  }
+]

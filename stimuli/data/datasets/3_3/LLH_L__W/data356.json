@@ -1,0 +1,47 @@
+[
+  {
+    "name": "NY-11",
+    "PRCP": 0.01181,
+    "SNWD": 5.90551
+  },
+  {
+    "name": "NY-11",
+    "PRCP": 0.16142,
+    "SNWD": 1.1811
+  },
+  {
+    "name": "NY-11",
+    "PRCP": 0.11811,
+    "SNWD": 0
+  },
+  {
+    "name": "OR-02",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "OR-02",
+    "PRCP": 0.14961,
+    "SNWD": 0
+  },
+  {
+    "name": "OR-02",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "WA-04",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "WA-04",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "WA-04",
+    "PRCP": 0,
+    "SNWD": 0
+  }
+]

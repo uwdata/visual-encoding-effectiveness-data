@@ -1,0 +1,75 @@
+[
+  {
+    "field": "uni_0_entropy",
+    "quantileNum": 3,
+    "names": [
+      "L",
+      "M",
+      "H"
+    ],
+    "quantiles": [
+      0.01479,
+      0.59692,
+      0.85904,
+      0.99401
+    ]
+  },
+  {
+    "field": "uni_1_entropy",
+    "quantileNum": 3,
+    "names": [
+      "L",
+      "M",
+      "H"
+    ],
+    "quantiles": [
+      0.00607,
+      0.38079,
+      0.85514,
+      0.99107
+    ]
+  },
+  {
+    "field": "uni_2_entropy",
+    "quantileNum": 3,
+    "names": [
+      "L",
+      "M",
+      "H"
+    ],
+    "quantiles": [
+      0.99981,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "field": "mul_clusteredness",
+    "quantileNum": 2,
+    "names": [
+      "_L",
+      "_H"
+    ],
+    "quantiles": [
+      2.84458,
+      11.52505,
+      21.5955
+    ]
+  },
+  {
+    "field": "bi_2_pearsonCor",
+    "quantileNum": 3,
+    "quantiles": [
+      0,
+      0.33,
+      0.67,
+      1
+    ],
+    "names": [
+      "__W",
+      "__M",
+      "__S"
+    ]
+  }
+]

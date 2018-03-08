@@ -1,0 +1,152 @@
+[
+  {
+    "name": "CO-05",
+    "PRCP": 0.07874,
+    "TMIN": 39.02
+  },
+  {
+    "name": "CO-05",
+    "PRCP": 0,
+    "TMIN": 46.94
+  },
+  {
+    "name": "CO-05",
+    "PRCP": 0.14173,
+    "TMIN": 29.12
+  },
+  {
+    "name": "AL-07",
+    "PRCP": 0,
+    "TMIN": 75.92
+  },
+  {
+    "name": "AL-07",
+    "PRCP": 0,
+    "TMIN": 77
+  },
+  {
+    "name": "AL-07",
+    "PRCP": 0,
+    "TMIN": 75.92
+  },
+  {
+    "name": "NE-03",
+    "PRCP": 0,
+    "TMIN": 27.14
+  },
+  {
+    "name": "NE-03",
+    "PRCP": 0,
+    "TMIN": 28.22
+  },
+  {
+    "name": "NE-03",
+    "PRCP": 0,
+    "TMIN": 27.14
+  },
+  {
+    "name": "CA-01",
+    "PRCP": 0,
+    "TMIN": 33.98
+  },
+  {
+    "name": "CA-01",
+    "PRCP": 0.87008,
+    "TMIN": 48.02
+  },
+  {
+    "name": "CA-01",
+    "PRCP": 0,
+    "TMIN": 35.96
+  },
+  {
+    "name": "IA-08",
+    "PRCP": 0,
+    "TMIN": 62.96
+  },
+  {
+    "name": "IA-08",
+    "PRCP": 0,
+    "TMIN": 64.04
+  },
+  {
+    "name": "IA-08",
+    "PRCP": 0.4685,
+    "TMIN": 71.06
+  },
+  {
+    "name": "OR-07",
+    "PRCP": 0,
+    "TMIN": 44.96
+  },
+  {
+    "name": "OR-07",
+    "PRCP": 0,
+    "TMIN": 37.94
+  },
+  {
+    "name": "OR-07",
+    "PRCP": 0,
+    "TMIN": 62.06
+  },
+  {
+    "name": "MT-04",
+    "PRCP": 0,
+    "TMIN": 33.98
+  },
+  {
+    "name": "MT-04",
+    "PRCP": 0,
+    "TMIN": 29.12
+  },
+  {
+    "name": "MT-04",
+    "PRCP": 0,
+    "TMIN": 23.18
+  },
+  {
+    "name": "TN-03",
+    "PRCP": 0,
+    "TMIN": 44.06
+  },
+  {
+    "name": "TN-03",
+    "PRCP": 0.55906,
+    "TMIN": 55.04
+  },
+  {
+    "name": "TN-03",
+    "PRCP": 2.31102,
+    "TMIN": 53.06
+  },
+  {
+    "name": "OK-08",
+    "PRCP": 0,
+    "TMIN": 59
+  },
+  {
+    "name": "OK-08",
+    "PRCP": 0.20079,
+    "TMIN": 66.92
+  },
+  {
+    "name": "OK-08",
+    "PRCP": 0.24016,
+    "TMIN": 68
+  },
+  {
+    "name": "MS-07",
+    "PRCP": 0,
+    "TMIN": 73.94
+  },
+  {
+    "name": "MS-07",
+    "PRCP": 0,
+    "TMIN": 69.98
+  },
+  {
+    "name": "MS-07",
+    "PRCP": 0.0315,
+    "TMIN": 77
+  }
+]

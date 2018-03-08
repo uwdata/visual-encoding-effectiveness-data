@@ -1,0 +1,152 @@
+[
+  {
+    "name": "PA-04",
+    "PRCP": 0.03937,
+    "TMIN": 48.02
+  },
+  {
+    "name": "PA-04",
+    "PRCP": 0.01181,
+    "TMIN": 44.06
+  },
+  {
+    "name": "PA-04",
+    "PRCP": 0,
+    "TMIN": 26.24
+  },
+  {
+    "name": "NC-04",
+    "PRCP": 0.55118,
+    "TMIN": 55.94
+  },
+  {
+    "name": "NC-04",
+    "PRCP": 0,
+    "TMIN": 39.92
+  },
+  {
+    "name": "NC-04",
+    "PRCP": 0,
+    "TMIN": 48.02
+  },
+  {
+    "name": "OR-04",
+    "PRCP": 0,
+    "TMIN": 46.94
+  },
+  {
+    "name": "OR-04",
+    "PRCP": 0,
+    "TMIN": 50
+  },
+  {
+    "name": "OR-04",
+    "PRCP": 0,
+    "TMIN": 33.08
+  },
+  {
+    "name": "WY-06",
+    "PRCP": 0,
+    "TMIN": 44.96
+  },
+  {
+    "name": "WY-06",
+    "PRCP": 0,
+    "TMIN": 59
+  },
+  {
+    "name": "WY-06",
+    "PRCP": 0,
+    "TMIN": 57.02
+  },
+  {
+    "name": "KY-12",
+    "PRCP": 0.07087,
+    "TMIN": 33.08
+  },
+  {
+    "name": "KY-12",
+    "PRCP": 0.31102,
+    "TMIN": 26.24
+  },
+  {
+    "name": "KY-12",
+    "PRCP": 0,
+    "TMIN": 37.04
+  },
+  {
+    "name": "TN-07",
+    "PRCP": 0,
+    "TMIN": 66.02
+  },
+  {
+    "name": "TN-07",
+    "PRCP": 0.42913,
+    "TMIN": 69.98
+  },
+  {
+    "name": "TN-07",
+    "PRCP": 0,
+    "TMIN": 68
+  },
+  {
+    "name": "IL-11",
+    "PRCP": 0,
+    "TMIN": 35.06
+  },
+  {
+    "name": "IL-11",
+    "PRCP": 0,
+    "TMIN": 35.06
+  },
+  {
+    "name": "IL-11",
+    "PRCP": 0,
+    "TMIN": 37.94
+  },
+  {
+    "name": "SD-03",
+    "PRCP": 0,
+    "TMIN": 28.22
+  },
+  {
+    "name": "SD-03",
+    "PRCP": 0,
+    "TMIN": 21.2
+  },
+  {
+    "name": "SD-03",
+    "PRCP": 0.09055,
+    "TMIN": 23.18
+  },
+  {
+    "name": "HI-05",
+    "PRCP": 0.48819,
+    "TMIN": 69.98
+  },
+  {
+    "name": "HI-05",
+    "PRCP": 0,
+    "TMIN": 75.92
+  },
+  {
+    "name": "HI-05",
+    "PRCP": 0,
+    "TMIN": 71.06
+  },
+  {
+    "name": "ND-02",
+    "PRCP": 0,
+    "TMIN": 16.16
+  },
+  {
+    "name": "ND-02",
+    "PRCP": 0.01181,
+    "TMIN": 22.1
+  },
+  {
+    "name": "ND-02",
+    "PRCP": 0,
+    "TMIN": 29.12
+  }
+]

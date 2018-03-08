@@ -1,0 +1,152 @@
+[
+  {
+    "name": "CO-12",
+    "PRCP": 0.18898,
+    "SNOW": 1.49606
+  },
+  {
+    "name": "CO-12",
+    "PRCP": 0.0315,
+    "SNOW": 1.1811
+  },
+  {
+    "name": "CO-12",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-06",
+    "PRCP": 0.11811,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-06",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-06",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OR-03",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OR-03",
+    "PRCP": 0.14961,
+    "SNOW": 0
+  },
+  {
+    "name": "OR-03",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MT-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MT-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MT-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "IN-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "IN-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "IN-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "CT-02",
+    "PRCP": 0.12992,
+    "SNOW": 0.51181
+  },
+  {
+    "name": "CT-02",
+    "PRCP": 0.4685,
+    "SNOW": 6.61418
+  },
+  {
+    "name": "CT-02",
+    "PRCP": 0.05906,
+    "SNOW": 0
+  },
+  {
+    "name": "UT-09",
+    "PRCP": 0.05906,
+    "SNOW": 0
+  },
+  {
+    "name": "UT-09",
+    "PRCP": 2.44095,
+    "SNOW": 0
+  },
+  {
+    "name": "UT-09",
+    "PRCP": 1.11811,
+    "SNOW": 0
+  },
+  {
+    "name": "KS-01",
+    "PRCP": 0,
+    "SNOW": 0.19685
+  },
+  {
+    "name": "KS-01",
+    "PRCP": 0.07874,
+    "SNOW": 0.59055
+  },
+  {
+    "name": "KS-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "HI-04",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "HI-04",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "HI-04",
+    "PRCP": 0.01181,
+    "SNOW": 0
+  },
+  {
+    "name": "MS-07",
+    "PRCP": 0.62992,
+    "SNOW": 0
+  },
+  {
+    "name": "MS-07",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MS-07",
+    "PRCP": 0,
+    "SNOW": 0
+  }
+]

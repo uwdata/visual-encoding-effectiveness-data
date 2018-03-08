@@ -1,0 +1,47 @@
+[
+  {
+    "name": "NM-03",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-03",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-03",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "AK-11",
+    "PRCP": 0.0315,
+    "SNOW": 0.31496
+  },
+  {
+    "name": "AK-11",
+    "PRCP": 0.05118,
+    "SNOW": 0.51181
+  },
+  {
+    "name": "AK-11",
+    "PRCP": 0.05906,
+    "SNOW": 0
+  },
+  {
+    "name": "HI-04",
+    "PRCP": 0.79134,
+    "SNOW": 0
+  },
+  {
+    "name": "HI-04",
+    "PRCP": 0.0315,
+    "SNOW": 0
+  },
+  {
+    "name": "HI-04",
+    "PRCP": 0,
+    "SNOW": 0
+  }
+]

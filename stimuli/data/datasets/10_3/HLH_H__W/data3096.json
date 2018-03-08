@@ -1,0 +1,152 @@
+[
+  {
+    "name": "MI-06",
+    "TMIN": 42.08,
+    "SNOW": 0
+  },
+  {
+    "name": "MI-06",
+    "TMIN": 57.92,
+    "SNOW": 0
+  },
+  {
+    "name": "MI-06",
+    "TMIN": 64.04,
+    "SNOW": 0
+  },
+  {
+    "name": "CO-07",
+    "TMIN": 53.96,
+    "SNOW": 0
+  },
+  {
+    "name": "CO-07",
+    "TMIN": 66.02,
+    "SNOW": 0
+  },
+  {
+    "name": "CO-07",
+    "TMIN": 44.06,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-12",
+    "TMIN": 57.02,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-12",
+    "TMIN": 37.94,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-12",
+    "TMIN": 55.94,
+    "SNOW": 0
+  },
+  {
+    "name": "NH-02",
+    "SNOW": 5.19685,
+    "TMIN": 20.12
+  },
+  {
+    "name": "NH-02",
+    "SNOW": 0.19685,
+    "TMIN": 7.16
+  },
+  {
+    "name": "NH-02",
+    "TMIN": 15.26,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-02",
+    "SNOW": 0.31496,
+    "TMIN": 25.16
+  },
+  {
+    "name": "WY-02",
+    "SNOW": 0.11811,
+    "TMIN": 33.98
+  },
+  {
+    "name": "WY-02",
+    "TMIN": 23.18,
+    "SNOW": 0
+  },
+  {
+    "name": "CT-05",
+    "TMIN": 48.92,
+    "SNOW": 0
+  },
+  {
+    "name": "CT-05",
+    "TMIN": 44.96,
+    "SNOW": 0
+  },
+  {
+    "name": "CT-05",
+    "TMIN": 44.06,
+    "SNOW": 0
+  },
+  {
+    "name": "IL-12",
+    "SNOW": 0.11811,
+    "TMIN": 15.26
+  },
+  {
+    "name": "IL-12",
+    "SNOW": 1.1811,
+    "TMIN": 7.16
+  },
+  {
+    "name": "IL-12",
+    "TMIN": 28.22,
+    "SNOW": 0
+  },
+  {
+    "name": "KS-10",
+    "TMIN": 48.92,
+    "SNOW": 0
+  },
+  {
+    "name": "KS-10",
+    "TMIN": 51.08,
+    "SNOW": 0
+  },
+  {
+    "name": "KS-10",
+    "TMIN": 53.96,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-05",
+    "TMIN": 51.98,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-05",
+    "TMIN": 37.94,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-05",
+    "TMIN": 69.08,
+    "SNOW": 0
+  },
+  {
+    "name": "ND-03",
+    "SNOW": 0.3937,
+    "TMIN": 29.12
+  },
+  {
+    "name": "ND-03",
+    "SNOW": 0.31496,
+    "TMIN": 23.18
+  },
+  {
+    "name": "ND-03",
+    "TMIN": 18.14,
+    "SNOW": 0
+  }
+]

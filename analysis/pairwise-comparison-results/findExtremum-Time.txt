@@ -1,0 +1,83 @@
+
+	 Simultaneous Tests for General Linear Hypotheses
+
+Multiple Comparisons of Means: Tukey Contrasts
+
+
+Fit: lmer(formula = log2CompletionTime ~ channel + questionTurn + 
+    stimuliTurn + (1 + channel | userID) + (1 | assignmentID), 
+    data = subRes, control = lmerControl(optimizer = "nloptwrap", 
+        calc.derivs = FALSE))
+
+Linear Hypotheses:
+                           Estimate Std. Error z value Pr(>|z|)    
+color y x - color x y == 0  0.13217    0.03916   3.375   0.0333 *  
+size x y - color x y == 0   0.02331    0.03369   0.692   0.9999    
+size y x - color x y == 0   0.06704    0.03741   1.792   0.8102    
+x color y - color x y == 0 -0.11913    0.03448  -3.456   0.0265 *  
+x size y - color x y == 0  -0.07351    0.03400  -2.162   0.5614    
+x y color - color x y == 0  0.25464    0.03997   6.370    <0.01 ***
+x y row - color x y == 0    0.49341    0.04027  12.253    <0.01 ***
+y color x - color x y == 0 -0.15954    0.03448  -4.628    <0.01 ***
+y size x - color x y == 0  -0.03068    0.03494  -0.878   0.9992    
+y x color - color x y == 0  0.22910    0.04064   5.638    <0.01 ***
+y x row - color x y == 0    0.59034    0.03890  15.175    <0.01 ***
+size x y - color y x == 0  -0.10886    0.03615  -3.011   0.1006    
+size y x - color y x == 0  -0.06513    0.03470  -1.877   0.7594    
+x color y - color y x == 0 -0.25131    0.04168  -6.029    <0.01 ***
+x size y - color y x == 0  -0.20568    0.03745  -5.492    <0.01 ***
+x y color - color y x == 0  0.12247    0.03687   3.322   0.0397 *  
+x y row - color y x == 0    0.36124    0.03722   9.706    <0.01 ***
+y color x - color y x == 0 -0.29172    0.03866  -7.545    <0.01 ***
+y size x - color y x == 0  -0.16285    0.03934  -4.140    <0.01 ** 
+y x color - color y x == 0  0.09693    0.04062   2.386   0.4005    
+y x row - color y x == 0    0.45817    0.03580  12.797    <0.01 ***
+size y x - size x y == 0    0.04372    0.03599   1.215   0.9862    
+x color y - size x y == 0  -0.14245    0.03864  -3.687   0.0117 *  
+x size y - size x y == 0   -0.09683    0.03731  -2.595   0.2699    
+x y color - size x y == 0   0.23133    0.03744   6.179    <0.01 ***
+x y row - size x y == 0     0.47010    0.04256  11.045    <0.01 ***
+y color x - size x y == 0  -0.18286    0.03729  -4.904    <0.01 ***
+y size x - size x y == 0   -0.05399    0.03839  -1.406   0.9584    
+y x color - size x y == 0   0.20578    0.03873   5.314    <0.01 ***
+y x row - size x y == 0     0.56703    0.03846  14.742    <0.01 ***
+x color y - size y x == 0  -0.18617    0.03814  -4.881    <0.01 ***
+x size y - size y x == 0   -0.14055    0.03246  -4.330    <0.01 ***
+x y color - size y x == 0   0.18760    0.03817   4.915    <0.01 ***
+x y row - size y x == 0     0.42637    0.04157  10.258    <0.01 ***
+y color x - size y x == 0  -0.22658    0.03794  -5.971    <0.01 ***
+y size x - size y x == 0   -0.09772    0.03417  -2.860   0.1489    
+y x color - size y x == 0   0.16206    0.04167   3.889    <0.01 ** 
+y x row - size y x == 0     0.52330    0.04059  12.893    <0.01 ***
+x size y - x color y == 0   0.04562    0.03202   1.425   0.9541    
+x y color - x color y == 0  0.37378    0.03875   9.647    <0.01 ***
+x y row - x color y == 0    0.61254    0.04452  13.759    <0.01 ***
+y color x - x color y == 0 -0.04041    0.03542  -1.141   0.9918    
+y size x - x color y == 0   0.08846    0.03439   2.573   0.2838    
+y x color - x color y == 0  0.34823    0.04210   8.272    <0.01 ***
+y x row - x color y == 0    0.70947    0.04335  16.365    <0.01 ***
+x y color - x size y == 0   0.32816    0.03583   9.158    <0.01 ***
+x y row - x size y == 0     0.56692    0.04139  13.699    <0.01 ***
+y color x - x size y == 0  -0.08603    0.03214  -2.677   0.2272    
+y size x - x size y == 0    0.04284    0.02891   1.481   0.9403    
+y x color - x size y == 0   0.30261    0.03981   7.602    <0.01 ***
+y x row - x size y == 0     0.66385    0.04113  16.139    <0.01 ***
+x y row - x y color == 0    0.23877    0.03640   6.560    <0.01 ***
+y color x - x y color == 0 -0.41419    0.03828 -10.821    <0.01 ***
+y size x - x y color == 0  -0.28532    0.03814  -7.480    <0.01 ***
+y x color - x y color == 0 -0.02554    0.03450  -0.740   0.9998    
+y x row - x y color == 0    0.33570    0.03632   9.242    <0.01 ***
+y color x - x y row == 0   -0.65295    0.04048 -16.129    <0.01 ***
+y size x - x y row == 0    -0.52409    0.03969 -13.205    <0.01 ***
+y x color - x y row == 0   -0.26431    0.03943  -6.703    <0.01 ***
+y x row - x y row == 0      0.09693    0.03409   2.844   0.1538    
+y size x - y color x == 0   0.12887    0.03020   4.267    <0.01 ** 
+y x color - y color x == 0  0.38864    0.03949   9.841    <0.01 ***
+y x row - y color x == 0    0.74988    0.03893  19.260    <0.01 ***
+y x color - y size x == 0   0.25978    0.03966   6.550    <0.01 ***
+y x row - y size x == 0     0.62102    0.04049  15.338    <0.01 ***
+y x row - y x color == 0    0.36124    0.03629   9.955    <0.01 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+(Adjusted p values reported -- single-step method)
+

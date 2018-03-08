@@ -1,0 +1,152 @@
+[
+  {
+    "name": "IA-06",
+    "PRCP": 0.07087,
+    "SNWD": 0
+  },
+  {
+    "name": "IA-06",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "IA-06",
+    "PRCP": 1.12992,
+    "SNWD": 0
+  },
+  {
+    "name": "NJ-05",
+    "PRCP": 0.0315,
+    "SNWD": 0
+  },
+  {
+    "name": "NJ-05",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "NJ-05",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "FL-11",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "FL-11",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "FL-11",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "VA-05",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "VA-05",
+    "PRCP": 0.79134,
+    "SNWD": 0
+  },
+  {
+    "name": "VA-05",
+    "PRCP": 1.33071,
+    "SNWD": 0
+  },
+  {
+    "name": "OR-10",
+    "PRCP": 0.18898,
+    "SNWD": 0
+  },
+  {
+    "name": "OR-10",
+    "PRCP": 0.05118,
+    "SNWD": 0
+  },
+  {
+    "name": "OR-10",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "AR-11",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "AR-11",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "AR-11",
+    "PRCP": 0.98819,
+    "SNWD": 0
+  },
+  {
+    "name": "ID-12",
+    "PRCP": 0.03937,
+    "SNWD": 1.96851
+  },
+  {
+    "name": "ID-12",
+    "PRCP": 0,
+    "SNWD": 11.02363
+  },
+  {
+    "name": "ID-12",
+    "PRCP": 0.18898,
+    "SNWD": 0
+  },
+  {
+    "name": "SD-12",
+    "PRCP": 0.03937,
+    "SNWD": 7.87402
+  },
+  {
+    "name": "SD-12",
+    "PRCP": 0.09843,
+    "SNWD": 7.08662
+  },
+  {
+    "name": "SD-12",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "MS-12",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "MS-12",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "MS-12",
+    "PRCP": 0.46063,
+    "SNWD": 0
+  },
+  {
+    "name": "RI-01",
+    "PRCP": 0.01969,
+    "SNWD": 1.1811
+  },
+  {
+    "name": "RI-01",
+    "PRCP": 0,
+    "SNWD": 5.11811
+  },
+  {
+    "name": "RI-01",
+    "PRCP": 0,
+    "SNWD": 0
+  }
+]

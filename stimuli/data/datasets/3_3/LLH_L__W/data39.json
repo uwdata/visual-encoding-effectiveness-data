@@ -1,0 +1,47 @@
+[
+  {
+    "name": "CA-02",
+    "PRCP": 0,
+    "SNWD": 12.00788
+  },
+  {
+    "name": "CA-02",
+    "PRCP": 0.01181,
+    "SNWD": 32.99214
+  },
+  {
+    "name": "CA-02",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "VA-06",
+    "PRCP": 0.6811,
+    "SNWD": 0
+  },
+  {
+    "name": "VA-06",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "VA-06",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "MO-12",
+    "PRCP": 0.14173,
+    "SNWD": 1.96851
+  },
+  {
+    "name": "MO-12",
+    "PRCP": 0,
+    "SNWD": 1.1811
+  },
+  {
+    "name": "MO-12",
+    "PRCP": 0,
+    "SNWD": 0
+  }
+]

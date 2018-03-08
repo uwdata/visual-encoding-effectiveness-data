@@ -1,0 +1,152 @@
+[
+  {
+    "name": "OH-07",
+    "PRCP": 0,
+    "TMIN": 66.02
+  },
+  {
+    "name": "OH-07",
+    "PRCP": 0,
+    "TMIN": 60.98
+  },
+  {
+    "name": "OH-07",
+    "PRCP": 0,
+    "TMIN": 53.06
+  },
+  {
+    "name": "AL-07",
+    "PRCP": 0,
+    "TMIN": 71.96
+  },
+  {
+    "name": "AL-07",
+    "PRCP": 1.37008,
+    "TMIN": 71.06
+  },
+  {
+    "name": "AL-07",
+    "PRCP": 0,
+    "TMIN": 69.98
+  },
+  {
+    "name": "MN-03",
+    "PRCP": 0,
+    "TMIN": 44.96
+  },
+  {
+    "name": "MN-03",
+    "PRCP": 0.05118,
+    "TMIN": 24.26
+  },
+  {
+    "name": "MN-03",
+    "PRCP": 0,
+    "TMIN": -12.82
+  },
+  {
+    "name": "PA-11",
+    "PRCP": 0,
+    "TMIN": 0
+  },
+  {
+    "name": "PA-11",
+    "PRCP": 0.94095,
+    "TMIN": 44.96
+  },
+  {
+    "name": "PA-11",
+    "PRCP": 0,
+    "TMIN": 33.08
+  },
+  {
+    "name": "WI-01",
+    "PRCP": 0,
+    "TMIN": -1.84
+  },
+  {
+    "name": "WI-01",
+    "PRCP": 0,
+    "TMIN": -3.82
+  },
+  {
+    "name": "WI-01",
+    "PRCP": 0,
+    "TMIN": -2.74
+  },
+  {
+    "name": "WV-08",
+    "PRCP": 0.3189,
+    "TMIN": 75.92
+  },
+  {
+    "name": "WV-08",
+    "PRCP": 0,
+    "TMIN": 69.98
+  },
+  {
+    "name": "WV-08",
+    "PRCP": 0,
+    "TMIN": 66.02
+  },
+  {
+    "name": "WA-10",
+    "PRCP": 0,
+    "TMIN": 48.92
+  },
+  {
+    "name": "WA-10",
+    "PRCP": 0,
+    "TMIN": 53.06
+  },
+  {
+    "name": "WA-10",
+    "PRCP": 0.01969,
+    "TMIN": 42.98
+  },
+  {
+    "name": "MO-12",
+    "PRCP": 0,
+    "TMIN": 27.14
+  },
+  {
+    "name": "MO-12",
+    "PRCP": 0,
+    "TMIN": 35.06
+  },
+  {
+    "name": "MO-12",
+    "PRCP": 0.22047,
+    "TMIN": 35.96
+  },
+  {
+    "name": "OK-05",
+    "PRCP": 0,
+    "TMIN": 71.96
+  },
+  {
+    "name": "OK-05",
+    "PRCP": 0,
+    "TMIN": 48.92
+  },
+  {
+    "name": "OK-05",
+    "PRCP": 0.01969,
+    "TMIN": 62.96
+  },
+  {
+    "name": "NV-10",
+    "PRCP": 0.22047,
+    "TMIN": 35.96
+  },
+  {
+    "name": "NV-10",
+    "PRCP": 0,
+    "TMIN": 24.26
+  },
+  {
+    "name": "NV-10",
+    "PRCP": 0,
+    "TMIN": 26.24
+  }
+]

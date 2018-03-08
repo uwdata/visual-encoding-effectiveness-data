@@ -1,0 +1,47 @@
+[
+  {
+    "name": "NJ-11",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "NJ-11",
+    "PRCP": 0.01181,
+    "SNWD": 0
+  },
+  {
+    "name": "NJ-11",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "WI-06",
+    "PRCP": 0.16929,
+    "SNWD": 0
+  },
+  {
+    "name": "WI-06",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "WI-06",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "AZ-02",
+    "PRCP": 0,
+    "SNWD": 7.87402
+  },
+  {
+    "name": "AZ-02",
+    "PRCP": 0,
+    "SNWD": 11.81103
+  },
+  {
+    "name": "AZ-02",
+    "PRCP": 0,
+    "SNWD": 0
+  }
+]

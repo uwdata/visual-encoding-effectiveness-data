@@ -1,0 +1,47 @@
+[
+  {
+    "name": "NH-02",
+    "PRCP": 0.75197,
+    "SNWD": 7.87402
+  },
+  {
+    "name": "NH-02",
+    "PRCP": 0,
+    "SNWD": 1.96851
+  },
+  {
+    "name": "NH-02",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "NV-10",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "NV-10",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "NV-10",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "RI-11",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "RI-11",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "RI-11",
+    "PRCP": 1.51969,
+    "SNWD": 0
+  }
+]

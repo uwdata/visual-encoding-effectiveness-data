@@ -1,0 +1,302 @@
+[
+  {
+    "name": "TX-02",
+    "TMIN": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "TX-02",
+    "TMIN": 53.96,
+    "SNWD": 0
+  },
+  {
+    "name": "TX-02",
+    "TMIN": 46.04,
+    "SNWD": 0
+  },
+  {
+    "name": "MI-01",
+    "SNWD": 11.81103,
+    "TMIN": 23.18
+  },
+  {
+    "name": "MI-01",
+    "SNWD": 3.93701,
+    "TMIN": 13.1
+  },
+  {
+    "name": "MI-01",
+    "TMIN": -3.82,
+    "SNWD": 0
+  },
+  {
+    "name": "PA-04",
+    "TMIN": 39.02,
+    "SNWD": 0
+  },
+  {
+    "name": "PA-04",
+    "TMIN": 44.06,
+    "SNWD": 0
+  },
+  {
+    "name": "PA-04",
+    "TMIN": 51.08,
+    "SNWD": 0
+  },
+  {
+    "name": "NE-10",
+    "TMIN": 35.96,
+    "SNWD": 0
+  },
+  {
+    "name": "NE-10",
+    "TMIN": 30.2,
+    "SNWD": 0
+  },
+  {
+    "name": "NE-10",
+    "TMIN": 35.06,
+    "SNWD": 0
+  },
+  {
+    "name": "IA-03",
+    "SNWD": 3.14961,
+    "TMIN": 4.1
+  },
+  {
+    "name": "IA-03",
+    "SNWD": 1.1811,
+    "TMIN": 5.18
+  },
+  {
+    "name": "IA-03",
+    "TMIN": 42.98,
+    "SNWD": 0
+  },
+  {
+    "name": "NJ-04",
+    "TMIN": 41,
+    "SNWD": 0
+  },
+  {
+    "name": "NJ-04",
+    "TMIN": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "NJ-04",
+    "TMIN": 44.06,
+    "SNWD": 0
+  },
+  {
+    "name": "FL-06",
+    "TMIN": 75.92,
+    "SNWD": 0
+  },
+  {
+    "name": "FL-06",
+    "TMIN": 73.94,
+    "SNWD": 0
+  },
+  {
+    "name": "FL-06",
+    "TMIN": 75.02,
+    "SNWD": 0
+  },
+  {
+    "name": "VA-02",
+    "SNWD": 1.1811,
+    "TMIN": 19.22
+  },
+  {
+    "name": "VA-02",
+    "SNWD": 9.84253,
+    "TMIN": 41
+  },
+  {
+    "name": "VA-02",
+    "TMIN": 42.08,
+    "SNWD": 0
+  },
+  {
+    "name": "ME-05",
+    "TMIN": 41,
+    "SNWD": 0
+  },
+  {
+    "name": "ME-05",
+    "TMIN": 39.92,
+    "SNWD": 0
+  },
+  {
+    "name": "ME-05",
+    "TMIN": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "VT-02",
+    "SNWD": 1.1811,
+    "TMIN": 9.14
+  },
+  {
+    "name": "VT-02",
+    "SNWD": 1.96851,
+    "TMIN": -11.74
+  },
+  {
+    "name": "VT-02",
+    "TMIN": -11.74,
+    "SNWD": 0
+  },
+  {
+    "name": "WV-01",
+    "SNWD": 16.14174,
+    "TMIN": 0
+  },
+  {
+    "name": "WV-01",
+    "SNWD": 14.96064,
+    "TMIN": 16.16
+  },
+  {
+    "name": "WV-01",
+    "SNWD": 0,
+    "TMIN": 33.08
+  },
+  {
+    "name": "MA-06",
+    "TMIN": 55.04,
+    "SNWD": 0
+  },
+  {
+    "name": "MA-06",
+    "TMIN": 55.94,
+    "SNWD": 0
+  },
+  {
+    "name": "MA-06",
+    "TMIN": 53.96,
+    "SNWD": 0
+  },
+  {
+    "name": "CT-08",
+    "TMIN": 75.92,
+    "SNWD": 0
+  },
+  {
+    "name": "CT-08",
+    "TMIN": 71.06,
+    "SNWD": 0
+  },
+  {
+    "name": "CT-08",
+    "TMIN": 73.94,
+    "SNWD": 0
+  },
+  {
+    "name": "ID-07",
+    "TMIN": 51.98,
+    "SNWD": 0
+  },
+  {
+    "name": "ID-07",
+    "TMIN": 59,
+    "SNWD": 0
+  },
+  {
+    "name": "ID-07",
+    "TMIN": 42.98,
+    "SNWD": 0
+  },
+  {
+    "name": "MO-06",
+    "TMIN": 64.04,
+    "SNWD": 0
+  },
+  {
+    "name": "MO-06",
+    "TMIN": 66.92,
+    "SNWD": 0
+  },
+  {
+    "name": "MO-06",
+    "TMIN": 66.92,
+    "SNWD": 0
+  },
+  {
+    "name": "SD-03",
+    "SNWD": 1.96851,
+    "TMIN": 14.18
+  },
+  {
+    "name": "SD-03",
+    "SNWD": 5.11811,
+    "TMIN": 2.12
+  },
+  {
+    "name": "SD-03",
+    "SNWD": 0,
+    "TMIN": 33.98
+  },
+  {
+    "name": "AZ-06",
+    "TMIN": 66.02,
+    "SNWD": 0
+  },
+  {
+    "name": "AZ-06",
+    "TMIN": 66.92,
+    "SNWD": 0
+  },
+  {
+    "name": "AZ-06",
+    "TMIN": 57.92,
+    "SNWD": 0
+  },
+  {
+    "name": "ND-09",
+    "TMIN": 51.08,
+    "SNWD": 0
+  },
+  {
+    "name": "ND-09",
+    "TMIN": 48.92,
+    "SNWD": 0
+  },
+  {
+    "name": "ND-09",
+    "TMIN": 48.02,
+    "SNWD": 0
+  },
+  {
+    "name": "MS-07",
+    "TMIN": 75.92,
+    "SNWD": 0
+  },
+  {
+    "name": "MS-07",
+    "TMIN": 73.94,
+    "SNWD": 0
+  },
+  {
+    "name": "MS-07",
+    "TMIN": 71.96,
+    "SNWD": 0
+  },
+  {
+    "name": "RI-12",
+    "TMIN": 8.24,
+    "SNWD": 0
+  },
+  {
+    "name": "RI-12",
+    "TMIN": 31.1,
+    "SNWD": 0
+  },
+  {
+    "name": "RI-12",
+    "TMIN": 23.18,
+    "SNWD": 0
+  }
+]

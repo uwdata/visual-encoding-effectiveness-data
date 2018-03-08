@@ -1,0 +1,152 @@
+[
+  {
+    "name": "NE-01",
+    "PRCP": 0,
+    "TMIN": 14.18
+  },
+  {
+    "name": "NE-01",
+    "PRCP": 0,
+    "TMIN": -0.76
+  },
+  {
+    "name": "NE-01",
+    "PRCP": 0,
+    "TMIN": 12.2
+  },
+  {
+    "name": "AK-01",
+    "PRCP": 0.70866,
+    "TMIN": 35.96
+  },
+  {
+    "name": "AK-01",
+    "PRCP": 1.14173,
+    "TMIN": 41
+  },
+  {
+    "name": "AK-01",
+    "PRCP": 0,
+    "TMIN": 24.26
+  },
+  {
+    "name": "FL-04",
+    "PRCP": 0,
+    "TMIN": 57.02
+  },
+  {
+    "name": "FL-04",
+    "PRCP": 0,
+    "TMIN": 68
+  },
+  {
+    "name": "FL-04",
+    "PRCP": 0,
+    "TMIN": 66.02
+  },
+  {
+    "name": "ME-11",
+    "PRCP": 0,
+    "TMIN": 31.1
+  },
+  {
+    "name": "ME-11",
+    "PRCP": 0,
+    "TMIN": 29.12
+  },
+  {
+    "name": "ME-11",
+    "PRCP": 0,
+    "TMIN": 28.22
+  },
+  {
+    "name": "MA-02",
+    "PRCP": 0,
+    "TMIN": 28.22
+  },
+  {
+    "name": "MA-02",
+    "PRCP": 0,
+    "TMIN": 18.14
+  },
+  {
+    "name": "MA-02",
+    "PRCP": 0,
+    "TMIN": 0
+  },
+  {
+    "name": "AR-06",
+    "PRCP": 0,
+    "TMIN": 69.98
+  },
+  {
+    "name": "AR-06",
+    "PRCP": 1.68898,
+    "TMIN": 71.06
+  },
+  {
+    "name": "AR-06",
+    "PRCP": 0,
+    "TMIN": 78.98
+  },
+  {
+    "name": "MO-03",
+    "PRCP": 0,
+    "TMIN": 27.14
+  },
+  {
+    "name": "MO-03",
+    "PRCP": 0,
+    "TMIN": 42.98
+  },
+  {
+    "name": "MO-03",
+    "PRCP": 0.01969,
+    "TMIN": 48.02
+  },
+  {
+    "name": "AZ-04",
+    "PRCP": 0,
+    "TMIN": 42.98
+  },
+  {
+    "name": "AZ-04",
+    "PRCP": 0,
+    "TMIN": 46.04
+  },
+  {
+    "name": "AZ-04",
+    "PRCP": 0,
+    "TMIN": 46.94
+  },
+  {
+    "name": "NV-09",
+    "PRCP": 0,
+    "TMIN": 64.94
+  },
+  {
+    "name": "NV-09",
+    "PRCP": 0,
+    "TMIN": 53.96
+  },
+  {
+    "name": "NV-09",
+    "PRCP": 0,
+    "TMIN": 66.92
+  },
+  {
+    "name": "MS-05",
+    "PRCP": 0,
+    "TMIN": 71.96
+  },
+  {
+    "name": "MS-05",
+    "PRCP": 0,
+    "TMIN": 46.94
+  },
+  {
+    "name": "MS-05",
+    "PRCP": 0,
+    "TMIN": 51.08
+  }
+]

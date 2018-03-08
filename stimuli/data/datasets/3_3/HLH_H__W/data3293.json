@@ -1,0 +1,47 @@
+[
+  {
+    "name": "OH-02",
+    "PRCP": 0,
+    "TMAX": 31.1
+  },
+  {
+    "name": "OH-02",
+    "PRCP": 0,
+    "TMAX": 41
+  },
+  {
+    "name": "OH-02",
+    "PRCP": 0,
+    "TMAX": 22.1
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0.31102,
+    "TMAX": 77
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMAX": 89.06
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMAX": 82.94
+  },
+  {
+    "name": "CT-05",
+    "PRCP": 0.03937,
+    "TMAX": 66.02
+  },
+  {
+    "name": "CT-05",
+    "PRCP": 0,
+    "TMAX": 55.04
+  },
+  {
+    "name": "CT-05",
+    "PRCP": 0,
+    "TMAX": 75.02
+  }
+]

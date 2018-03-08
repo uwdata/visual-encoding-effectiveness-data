@@ -1,0 +1,152 @@
+[
+  {
+    "name": "MI-03",
+    "PRCP": 0,
+    "TMIN": 33.98
+  },
+  {
+    "name": "MI-03",
+    "PRCP": 0,
+    "TMIN": 31.1
+  },
+  {
+    "name": "MI-03",
+    "PRCP": 0.64173,
+    "TMIN": 29.12
+  },
+  {
+    "name": "LA-01",
+    "PRCP": 0,
+    "TMIN": 31.1
+  },
+  {
+    "name": "LA-01",
+    "PRCP": 0,
+    "TMIN": 0
+  },
+  {
+    "name": "LA-01",
+    "PRCP": 0.24016,
+    "TMIN": 55.04
+  },
+  {
+    "name": "IA-08",
+    "PRCP": 0,
+    "TMIN": 53.96
+  },
+  {
+    "name": "IA-08",
+    "PRCP": 0,
+    "TMIN": 66.02
+  },
+  {
+    "name": "IA-08",
+    "PRCP": 0,
+    "TMIN": 60.98
+  },
+  {
+    "name": "NJ-06",
+    "PRCP": 0,
+    "TMIN": 64.04
+  },
+  {
+    "name": "NJ-06",
+    "PRCP": 0,
+    "TMIN": 57.02
+  },
+  {
+    "name": "NJ-06",
+    "PRCP": 0,
+    "TMIN": 55.94
+  },
+  {
+    "name": "NH-11",
+    "PRCP": 0.64173,
+    "TMIN": 39.02
+  },
+  {
+    "name": "NH-11",
+    "PRCP": 0.24016,
+    "TMIN": 27.14
+  },
+  {
+    "name": "NH-11",
+    "PRCP": 0,
+    "TMIN": 33.98
+  },
+  {
+    "name": "MA-02",
+    "PRCP": 0.25984,
+    "TMIN": 4.1
+  },
+  {
+    "name": "MA-02",
+    "PRCP": 0,
+    "TMIN": 39.02
+  },
+  {
+    "name": "MA-02",
+    "PRCP": 0,
+    "TMIN": 2.12
+  },
+  {
+    "name": "AR-03",
+    "PRCP": 0,
+    "TMIN": 31.1
+  },
+  {
+    "name": "AR-03",
+    "PRCP": 0,
+    "TMIN": 33.08
+  },
+  {
+    "name": "AR-03",
+    "PRCP": 0,
+    "TMIN": 44.06
+  },
+  {
+    "name": "MO-07",
+    "PRCP": 0.14961,
+    "TMIN": 77
+  },
+  {
+    "name": "MO-07",
+    "PRCP": 1.74016,
+    "TMIN": 73.94
+  },
+  {
+    "name": "MO-07",
+    "PRCP": 0.05906,
+    "TMIN": 66.92
+  },
+  {
+    "name": "ND-09",
+    "PRCP": 0,
+    "TMIN": 60.08
+  },
+  {
+    "name": "ND-09",
+    "PRCP": 0,
+    "TMIN": 44.96
+  },
+  {
+    "name": "ND-09",
+    "PRCP": 0,
+    "TMIN": 39.02
+  },
+  {
+    "name": "MS-09",
+    "PRCP": 0,
+    "TMIN": 69.08
+  },
+  {
+    "name": "MS-09",
+    "PRCP": 0,
+    "TMIN": 66.92
+  },
+  {
+    "name": "MS-09",
+    "PRCP": 0,
+    "TMIN": 71.06
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "MI-09",
+    "TMIN": 53.06,
+    "SNOW": 0
+  },
+  {
+    "name": "MI-09",
+    "TMIN": 69.98,
+    "SNOW": 0
+  },
+  {
+    "name": "MI-09",
+    "TMIN": 39.92,
+    "SNOW": 0
+  },
+  {
+    "name": "NY-03",
+    "SNOW": 1.41732,
+    "TMIN": 30.2
+  },
+  {
+    "name": "NY-03",
+    "SNOW": 0.3937,
+    "TMIN": 33.08
+  },
+  {
+    "name": "NY-03",
+    "TMIN": 50,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-10",
+    "TMIN": 37.04,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-10",
+    "TMIN": 44.06,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-10",
+    "TMIN": 37.04,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-07",
+    "TMIN": 78.08,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-07",
+    "TMIN": 75.02,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-07",
+    "TMIN": 78.08,
+    "SNOW": 0
+  },
+  {
+    "name": "MN-12",
+    "SNOW": 0.3937,
+    "TMIN": 19.22
+  },
+  {
+    "name": "MN-12",
+    "SNOW": 2.40158,
+    "TMIN": 31.1
+  },
+  {
+    "name": "MN-12",
+    "TMIN": 25.16,
+    "SNOW": 0
+  },
+  {
+    "name": "IA-06",
+    "TMIN": 73.04,
+    "SNOW": 0
+  },
+  {
+    "name": "IA-06",
+    "TMIN": 60.98,
+    "SNOW": 0
+  },
+  {
+    "name": "IA-06",
+    "TMIN": 60.98,
+    "SNOW": 0
+  },
+  {
+    "name": "AK-03",
+    "SNOW": 1.10236,
+    "TMIN": 22.1
+  },
+  {
+    "name": "AK-03",
+    "SNOW": 0.90551,
+    "TMIN": 31.1
+  },
+  {
+    "name": "AK-03",
+    "TMIN": 20.12,
+    "SNOW": 0
+  },
+  {
+    "name": "SC-07",
+    "TMIN": 71.06,
+    "SNOW": 0
+  },
+  {
+    "name": "SC-07",
+    "TMIN": 69.98,
+    "SNOW": 0
+  },
+  {
+    "name": "SC-07",
+    "TMIN": 75.02,
+    "SNOW": 0
+  },
+  {
+    "name": "NC-10",
+    "TMIN": 39.02,
+    "SNOW": 0
+  },
+  {
+    "name": "NC-10",
+    "TMIN": 39.02,
+    "SNOW": 0
+  },
+  {
+    "name": "NC-10",
+    "TMIN": 55.04,
+    "SNOW": 0
+  },
+  {
+    "name": "OR-02",
+    "TMIN": 18.14,
+    "SNOW": 0
+  },
+  {
+    "name": "OR-02",
+    "TMIN": 26.24,
+    "SNOW": 0
+  },
+  {
+    "name": "OR-02",
+    "TMIN": 39.92,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-10",
+    "TMIN": 55.04,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-10",
+    "TMIN": 44.06,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-10",
+    "TMIN": 53.06,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-10",
+    "TMIN": 33.98,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-10",
+    "TMIN": 35.96,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-10",
+    "TMIN": 39.02,
+    "SNOW": 0
+  },
+  {
+    "name": "IN-07",
+    "TMIN": 66.02,
+    "SNOW": 0
+  },
+  {
+    "name": "IN-07",
+    "TMIN": 66.02,
+    "SNOW": 0
+  },
+  {
+    "name": "IN-07",
+    "TMIN": 66.92,
+    "SNOW": 0
+  },
+  {
+    "name": "KY-03",
+    "TMIN": 33.98,
+    "SNOW": 0
+  },
+  {
+    "name": "KY-03",
+    "TMIN": 53.06,
+    "SNOW": 0
+  },
+  {
+    "name": "KY-03",
+    "TMIN": 30.2,
+    "SNOW": 0
+  },
+  {
+    "name": "CT-03",
+    "SNOW": 0.19685,
+    "TMIN": 23.18
+  },
+  {
+    "name": "CT-03",
+    "SNOW": 2.59843,
+    "TMIN": 29.12
+  },
+  {
+    "name": "CT-03",
+    "SNOW": 0,
+    "TMIN": 37.94
+  },
+  {
+    "name": "TN-08",
+    "TMIN": 71.96,
+    "SNOW": 0
+  },
+  {
+    "name": "TN-08",
+    "TMIN": 75.02,
+    "SNOW": 0
+  },
+  {
+    "name": "TN-08",
+    "TMIN": 80.06,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-12",
+    "TMIN": 19.22,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-12",
+    "TMIN": 27.14,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-12",
+    "TMIN": 26.24,
+    "SNOW": 0
+  },
+  {
+    "name": "SD-09",
+    "TMIN": 59,
+    "SNOW": 0
+  },
+  {
+    "name": "SD-09",
+    "TMIN": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "SD-09",
+    "TMIN": 50,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "TMIN": 57.02,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "TMIN": 29.12,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "TMIN": 62.06,
+    "SNOW": 0
+  },
+  {
+    "name": "DE-06",
+    "TMIN": 66.92,
+    "SNOW": 0
+  },
+  {
+    "name": "DE-06",
+    "TMIN": 71.06,
+    "SNOW": 0
+  },
+  {
+    "name": "DE-06",
+    "TMIN": 64.94,
+    "SNOW": 0
+  }
+]

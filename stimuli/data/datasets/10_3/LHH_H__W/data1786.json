@@ -1,0 +1,152 @@
+[
+  {
+    "name": "AL-03",
+    "PRCP": 0.85827,
+    "TMIN": 57.92
+  },
+  {
+    "name": "AL-03",
+    "PRCP": 0,
+    "TMIN": 37.94
+  },
+  {
+    "name": "AL-03",
+    "PRCP": 0,
+    "TMIN": 53.06
+  },
+  {
+    "name": "LA-12",
+    "PRCP": 0,
+    "TMIN": 0
+  },
+  {
+    "name": "LA-12",
+    "PRCP": 0,
+    "TMIN": 42.98
+  },
+  {
+    "name": "LA-12",
+    "PRCP": 0,
+    "TMIN": 42.98
+  },
+  {
+    "name": "WI-01",
+    "PRCP": 0,
+    "TMIN": -6.88
+  },
+  {
+    "name": "WI-01",
+    "PRCP": 0,
+    "TMIN": -11.74
+  },
+  {
+    "name": "WI-01",
+    "PRCP": 0.0315,
+    "TMIN": 14.18
+  },
+  {
+    "name": "VT-01",
+    "PRCP": 0.11811,
+    "TMIN": 7.16
+  },
+  {
+    "name": "VT-01",
+    "PRCP": 0.01969,
+    "TMIN": 2.12
+  },
+  {
+    "name": "VT-01",
+    "PRCP": 0,
+    "TMIN": 37.04
+  },
+  {
+    "name": "AR-07",
+    "PRCP": 0,
+    "TMIN": 71.06
+  },
+  {
+    "name": "AR-07",
+    "PRCP": 0,
+    "TMIN": 75.02
+  },
+  {
+    "name": "AR-07",
+    "PRCP": 0,
+    "TMIN": 75.92
+  },
+  {
+    "name": "CT-05",
+    "PRCP": 0,
+    "TMIN": 39.02
+  },
+  {
+    "name": "CT-05",
+    "PRCP": 0.03937,
+    "TMIN": 44.06
+  },
+  {
+    "name": "CT-05",
+    "PRCP": 0,
+    "TMIN": 62.96
+  },
+  {
+    "name": "UT-05",
+    "PRCP": 0,
+    "TMIN": 48.02
+  },
+  {
+    "name": "UT-05",
+    "PRCP": 0,
+    "TMIN": 37.94
+  },
+  {
+    "name": "UT-05",
+    "PRCP": 0,
+    "TMIN": 46.04
+  },
+  {
+    "name": "KS-07",
+    "PRCP": 0,
+    "TMIN": 71.06
+  },
+  {
+    "name": "KS-07",
+    "PRCP": 0.12992,
+    "TMIN": 68
+  },
+  {
+    "name": "KS-07",
+    "PRCP": 0,
+    "TMIN": 73.94
+  },
+  {
+    "name": "AZ-11",
+    "PRCP": 0,
+    "TMIN": 55.94
+  },
+  {
+    "name": "AZ-11",
+    "PRCP": 0,
+    "TMIN": 41
+  },
+  {
+    "name": "AZ-11",
+    "PRCP": 0,
+    "TMIN": 35.06
+  },
+  {
+    "name": "RI-02",
+    "PRCP": 0.57874,
+    "TMIN": 20.12
+  },
+  {
+    "name": "RI-02",
+    "PRCP": 0.77953,
+    "TMIN": 35.06
+  },
+  {
+    "name": "RI-02",
+    "PRCP": 0,
+    "TMIN": 25.16
+  }
+]

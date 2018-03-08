@@ -1,0 +1,452 @@
+[
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 30.2
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 46.04
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 41
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 1.37008,
+    "TMIN": 62.96
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0.05118,
+    "TMIN": 62.06
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0.38189,
+    "TMIN": 46.04
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0.12992,
+    "TMIN": 60.98
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0.18898,
+    "TMIN": 51.98
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 53.96
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 35.96
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0.11811,
+    "TMIN": 60.08
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 37.04
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0.01969,
+    "TMIN": 48.92
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0.11024,
+    "TMIN": 53.96
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 31.1
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0.14961,
+    "TMIN": 62.96
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0.03937,
+    "TMIN": 53.06
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 42.08
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 57.92
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0.01969,
+    "TMIN": 53.06
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 42.08
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 60.08
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 33.98
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 59
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 50
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 62.96
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 35.96
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 44.06
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMIN": 55.94
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0.5,
+    "TMIN": 0
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 59
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 51.08
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 57.02
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 69.08
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 71.96
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 69.98
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 57.02
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 71.06
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 53.96
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 71.96
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 69.98
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 66.92
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 60.08
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 62.06
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 68
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0.01181,
+    "TMIN": 66.92
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 62.96
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 71.06
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 59
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 62.96
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 62.06
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0.77953,
+    "TMIN": 73.04
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 66.02
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 59
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 75.02
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0.01181,
+    "TMIN": 64.94
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 55.04
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 69.98
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0.79921,
+    "TMIN": 64.04
+  },
+  {
+    "name": "LA-05",
+    "PRCP": 0,
+    "TMIN": 71.06
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 42.08
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 33.98
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 41
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 33.08
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0.6811,
+    "TMIN": 29.12
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 28.22
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 42.08
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 57.02
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 25.16
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 48.92
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 42.08
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 41
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 22.1
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 0
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 33.98
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 33.08
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 44.96
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 33.08
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 30.2
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0.01181,
+    "TMIN": 35.06
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 19.22
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 44.96
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 35.96
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 39.92
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 37.94
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 37.04
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 14.18
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 39.92
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 35.06
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 28.22
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "CO-04",
+    "SNOW": 0.19685,
+    "TMIN": 30.2
+  },
+  {
+    "name": "CO-04",
+    "SNOW": 2.59843,
+    "TMIN": 31.1
+  },
+  {
+    "name": "CO-04",
+    "TMIN": 18.14,
+    "SNOW": 0
+  },
+  {
+    "name": "PA-11",
+    "SNOW": 1.61417,
+    "TMIN": 33.08
+  },
+  {
+    "name": "PA-11",
+    "SNOW": 0.11811,
+    "TMIN": 35.96
+  },
+  {
+    "name": "PA-11",
+    "TMIN": 33.98,
+    "SNOW": 0
+  },
+  {
+    "name": "CA-04",
+    "SNOW": 1.81102,
+    "TMIN": 33.08
+  },
+  {
+    "name": "CA-04",
+    "SNOW": 5.98426,
+    "TMIN": 28.22
+  },
+  {
+    "name": "CA-04",
+    "TMIN": 48.02,
+    "SNOW": 0
+  },
+  {
+    "name": "VA-07",
+    "TMIN": 77,
+    "SNOW": 0
+  },
+  {
+    "name": "VA-07",
+    "TMIN": 71.06,
+    "SNOW": 0
+  },
+  {
+    "name": "VA-07",
+    "TMIN": 80.96,
+    "SNOW": 0
+  },
+  {
+    "name": "OR-06",
+    "TMIN": 44.06,
+    "SNOW": 0
+  },
+  {
+    "name": "OR-06",
+    "TMIN": 59,
+    "SNOW": 0
+  },
+  {
+    "name": "OR-06",
+    "TMIN": 42.08,
+    "SNOW": 0
+  },
+  {
+    "name": "MA-07",
+    "TMIN": 69.08,
+    "SNOW": 0
+  },
+  {
+    "name": "MA-07",
+    "TMIN": 51.08,
+    "SNOW": 0
+  },
+  {
+    "name": "MA-07",
+    "TMIN": 57.92,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-06",
+    "TMIN": 48.02,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-06",
+    "TMIN": 42.08,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-06",
+    "TMIN": 57.92,
+    "SNOW": 0
+  },
+  {
+    "name": "IN-10",
+    "TMIN": 35.06,
+    "SNOW": 0
+  },
+  {
+    "name": "IN-10",
+    "TMIN": 53.96,
+    "SNOW": 0
+  },
+  {
+    "name": "IN-10",
+    "TMIN": 59,
+    "SNOW": 0
+  },
+  {
+    "name": "KY-05",
+    "TMIN": 62.96,
+    "SNOW": 0
+  },
+  {
+    "name": "KY-05",
+    "TMIN": 62.06,
+    "SNOW": 0
+  },
+  {
+    "name": "KY-05",
+    "TMIN": 46.04,
+    "SNOW": 0
+  },
+  {
+    "name": "TN-11",
+    "TMIN": 44.06,
+    "SNOW": 0
+  },
+  {
+    "name": "TN-11",
+    "TMIN": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "TN-11",
+    "TMIN": 18.14,
+    "SNOW": 0
+  },
+  {
+    "name": "UT-07",
+    "TMIN": 62.96,
+    "SNOW": 0
+  },
+  {
+    "name": "UT-07",
+    "TMIN": 53.96,
+    "SNOW": 0
+  },
+  {
+    "name": "UT-07",
+    "TMIN": 51.08,
+    "SNOW": 0
+  },
+  {
+    "name": "ID-03",
+    "SNOW": 0.11811,
+    "TMIN": 31.1
+  },
+  {
+    "name": "ID-03",
+    "SNOW": 1.10236,
+    "TMIN": 0
+  },
+  {
+    "name": "ID-03",
+    "TMIN": 22.1,
+    "SNOW": 0
+  },
+  {
+    "name": "IL-04",
+    "SNOW": 0.31496,
+    "TMIN": 27.14
+  },
+  {
+    "name": "IL-04",
+    "SNOW": 0.11811,
+    "TMIN": 33.08
+  },
+  {
+    "name": "IL-04",
+    "TMIN": 50,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-08",
+    "TMIN": 71.06,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-08",
+    "TMIN": 69.08,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-08",
+    "TMIN": 66.02,
+    "SNOW": 0
+  },
+  {
+    "name": "OK-12",
+    "TMIN": 23.18,
+    "SNOW": 0
+  },
+  {
+    "name": "OK-12",
+    "TMIN": 16.16,
+    "SNOW": 0
+  },
+  {
+    "name": "OK-12",
+    "TMIN": 35.96,
+    "SNOW": 0
+  },
+  {
+    "name": "NV-09",
+    "TMIN": 62.96,
+    "SNOW": 0
+  },
+  {
+    "name": "NV-09",
+    "TMIN": 57.92,
+    "SNOW": 0
+  },
+  {
+    "name": "NV-09",
+    "TMIN": 55.94,
+    "SNOW": 0
+  },
+  {
+    "name": "HI-09",
+    "TMIN": 73.94,
+    "SNOW": 0
+  },
+  {
+    "name": "HI-09",
+    "TMIN": 69.08,
+    "SNOW": 0
+  },
+  {
+    "name": "HI-09",
+    "TMIN": 73.94,
+    "SNOW": 0
+  },
+  {
+    "name": "ND-08",
+    "TMIN": 46.94,
+    "SNOW": 0
+  },
+  {
+    "name": "ND-08",
+    "TMIN": 53.06,
+    "SNOW": 0
+  },
+  {
+    "name": "ND-08",
+    "TMIN": 62.96,
+    "SNOW": 0
+  },
+  {
+    "name": "DE-01",
+    "SNOW": 0.7874,
+    "TMIN": 27.14
+  },
+  {
+    "name": "DE-01",
+    "SNOW": 13.11024,
+    "TMIN": 23.18
+  },
+  {
+    "name": "DE-01",
+    "SNOW": 0,
+    "TMIN": 24.26
+  },
+  {
+    "name": "MS-11",
+    "TMIN": 39.02,
+    "SNOW": 0
+  },
+  {
+    "name": "MS-11",
+    "TMIN": 44.06,
+    "SNOW": 0
+  },
+  {
+    "name": "MS-11",
+    "TMIN": 50,
+    "SNOW": 0
+  }
+]

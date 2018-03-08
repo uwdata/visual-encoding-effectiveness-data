@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MD-11",
+    "PRCP": 0,
+    "TMIN": 23.18
+  },
+  {
+    "name": "MD-11",
+    "PRCP": 0.12992,
+    "TMIN": 41
+  },
+  {
+    "name": "MD-11",
+    "PRCP": 0.05118,
+    "TMIN": 50
+  },
+  {
+    "name": "MA-04",
+    "PRCP": 0.07087,
+    "TMIN": 50
+  },
+  {
+    "name": "MA-04",
+    "PRCP": 0,
+    "TMIN": 37.04
+  },
+  {
+    "name": "MA-04",
+    "PRCP": 0,
+    "TMIN": 0
+  },
+  {
+    "name": "IL-06",
+    "PRCP": 0,
+    "TMIN": 59
+  },
+  {
+    "name": "IL-06",
+    "PRCP": 0,
+    "TMIN": 55.94
+  },
+  {
+    "name": "IL-06",
+    "PRCP": 0,
+    "TMIN": 71.06
+  }
+]

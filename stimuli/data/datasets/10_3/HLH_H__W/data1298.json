@@ -1,0 +1,152 @@
+[
+  {
+    "name": "OH-09",
+    "PRCP": 0.33071,
+    "TMIN": 50
+  },
+  {
+    "name": "OH-09",
+    "PRCP": 0,
+    "TMIN": 60.98
+  },
+  {
+    "name": "OH-09",
+    "PRCP": 0.14961,
+    "TMIN": 53.06
+  },
+  {
+    "name": "LA-08",
+    "PRCP": 0,
+    "TMIN": 78.08
+  },
+  {
+    "name": "LA-08",
+    "PRCP": 0,
+    "TMIN": 73.04
+  },
+  {
+    "name": "LA-08",
+    "PRCP": 0.48032,
+    "TMIN": 73.04
+  },
+  {
+    "name": "MN-12",
+    "TMIN": 5.18,
+    "PRCP": 0
+  },
+  {
+    "name": "MN-12",
+    "PRCP": 0,
+    "TMIN": -8.86
+  },
+  {
+    "name": "MN-12",
+    "PRCP": 0.03937,
+    "TMIN": 27.14
+  },
+  {
+    "name": "PA-02",
+    "PRCP": 0,
+    "TMIN": 11.12
+  },
+  {
+    "name": "PA-02",
+    "PRCP": 0,
+    "TMIN": 4.1
+  },
+  {
+    "name": "PA-02",
+    "PRCP": 0,
+    "TMIN": 23.18
+  },
+  {
+    "name": "CA-10",
+    "PRCP": 0,
+    "TMIN": 64.94
+  },
+  {
+    "name": "CA-10",
+    "PRCP": 0,
+    "TMIN": 48.92
+  },
+  {
+    "name": "CA-10",
+    "PRCP": 0,
+    "TMIN": 39.92
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 1.33071,
+    "TMIN": 59
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 59
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0.66142,
+    "TMIN": 33.98
+  },
+  {
+    "name": "OR-05",
+    "PRCP": 0.01969,
+    "TMIN": 51.98
+  },
+  {
+    "name": "OR-05",
+    "PRCP": 0,
+    "TMIN": 42.98
+  },
+  {
+    "name": "OR-05",
+    "PRCP": 0,
+    "TMIN": 60.08
+  },
+  {
+    "name": "IN-12",
+    "PRCP": 0.01181,
+    "TMIN": 12.2
+  },
+  {
+    "name": "IN-12",
+    "PRCP": 0.11024,
+    "TMIN": 24.26
+  },
+  {
+    "name": "IN-12",
+    "PRCP": 0,
+    "TMIN": 33.08
+  },
+  {
+    "name": "AR-09",
+    "PRCP": 0,
+    "TMIN": 51.08
+  },
+  {
+    "name": "AR-09",
+    "PRCP": 0.37008,
+    "TMIN": 69.98
+  },
+  {
+    "name": "AR-09",
+    "PRCP": 0,
+    "TMIN": 69.08
+  },
+  {
+    "name": "DE-05",
+    "PRCP": 0,
+    "TMIN": 53.06
+  },
+  {
+    "name": "DE-05",
+    "PRCP": 0.57874,
+    "TMIN": 50
+  },
+  {
+    "name": "DE-05",
+    "PRCP": 0.16929,
+    "TMIN": 53.96
+  }
+]

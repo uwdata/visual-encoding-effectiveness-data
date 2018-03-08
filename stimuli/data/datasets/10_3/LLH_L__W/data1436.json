@@ -1,0 +1,152 @@
+[
+  {
+    "name": "LA-12",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-12",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "LA-12",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "PA-10",
+    "PRCP": 0.01969,
+    "SNOW": 0
+  },
+  {
+    "name": "PA-10",
+    "PRCP": 0.61024,
+    "SNOW": 0
+  },
+  {
+    "name": "PA-10",
+    "PRCP": 0.0315,
+    "SNOW": 0
+  },
+  {
+    "name": "IA-02",
+    "PRCP": 0.09843,
+    "SNOW": 0.31496
+  },
+  {
+    "name": "IA-02",
+    "PRCP": 0.09055,
+    "SNOW": 1.61417
+  },
+  {
+    "name": "IA-02",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "AK-12",
+    "PRCP": 0.01181,
+    "SNOW": 0.3937
+  },
+  {
+    "name": "AK-12",
+    "PRCP": 0.0315,
+    "SNOW": 0.98425
+  },
+  {
+    "name": "AK-12",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NC-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NC-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NC-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MT-05",
+    "PRCP": 0.18898,
+    "SNOW": 0
+  },
+  {
+    "name": "MT-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MT-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "TN-02",
+    "PRCP": 0.05118,
+    "SNOW": 2.00788
+  },
+  {
+    "name": "TN-02",
+    "PRCP": 0.14173,
+    "SNOW": 1.69291
+  },
+  {
+    "name": "TN-02",
+    "PRCP": 0.90158,
+    "SNOW": 0
+  },
+  {
+    "name": "ID-09",
+    "PRCP": 0.09843,
+    "SNOW": 0
+  },
+  {
+    "name": "ID-09",
+    "PRCP": 0.05906,
+    "SNOW": 0
+  },
+  {
+    "name": "ID-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "IL-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "IL-11",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "IL-11",
+    "PRCP": 0.79134,
+    "SNOW": 0
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MN-03",
+    "SNOW": 0.31496,
+    "TMIN": 0
+  },
+  {
+    "name": "MN-03",
+    "SNOW": 0.19685,
+    "TMIN": 30.2
+  },
+  {
+    "name": "MN-03",
+    "TMIN": 8.24,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-09",
+    "TMIN": 53.96,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-09",
+    "TMIN": 57.02,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-09",
+    "TMIN": 51.08,
+    "SNOW": 0
+  },
+  {
+    "name": "NH-04",
+    "TMIN": 46.04,
+    "SNOW": 0
+  },
+  {
+    "name": "NH-04",
+    "TMIN": 26.24,
+    "SNOW": 0
+  },
+  {
+    "name": "NH-04",
+    "TMIN": 28.22,
+    "SNOW": 0
+  }
+]

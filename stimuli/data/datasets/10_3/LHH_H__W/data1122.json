@@ -1,0 +1,152 @@
+[
+  {
+    "name": "OH-02",
+    "PRCP": 0,
+    "TMAX": 42.08
+  },
+  {
+    "name": "OH-02",
+    "TMAX": 33.98,
+    "PRCP": 0
+  },
+  {
+    "name": "OH-02",
+    "PRCP": 0,
+    "TMAX": 39.02
+  },
+  {
+    "name": "MN-07",
+    "PRCP": 0,
+    "TMAX": 80.06
+  },
+  {
+    "name": "MN-07",
+    "PRCP": 2.03937,
+    "TMAX": 80.96
+  },
+  {
+    "name": "MN-07",
+    "PRCP": 0,
+    "TMAX": 84.02
+  },
+  {
+    "name": "IA-04",
+    "PRCP": 0.05118,
+    "TMAX": 73.94
+  },
+  {
+    "name": "IA-04",
+    "PRCP": 0,
+    "TMAX": 77
+  },
+  {
+    "name": "IA-04",
+    "PRCP": 0.05906,
+    "TMAX": 66.92
+  },
+  {
+    "name": "AK-07",
+    "PRCP": 0.05906,
+    "TMAX": 68
+  },
+  {
+    "name": "AK-07",
+    "PRCP": 2.33858,
+    "TMAX": 60.98
+  },
+  {
+    "name": "AK-07",
+    "PRCP": 0.03937,
+    "TMAX": 66.02
+  },
+  {
+    "name": "VT-03",
+    "PRCP": 0,
+    "TMAX": 48.02
+  },
+  {
+    "name": "VT-03",
+    "PRCP": 0.4685,
+    "TMAX": 51.08
+  },
+  {
+    "name": "VT-03",
+    "PRCP": 0.1811,
+    "TMAX": 64.04
+  },
+  {
+    "name": "IN-02",
+    "PRCP": 0,
+    "TMAX": 19.22
+  },
+  {
+    "name": "IN-02",
+    "PRCP": 0,
+    "TMAX": 35.96
+  },
+  {
+    "name": "IN-02",
+    "PRCP": 0,
+    "TMAX": 24.26
+  },
+  {
+    "name": "CT-06",
+    "PRCP": 0.01181,
+    "TMAX": 86
+  },
+  {
+    "name": "CT-06",
+    "PRCP": 0,
+    "TMAX": 80.06
+  },
+  {
+    "name": "CT-06",
+    "PRCP": 0,
+    "TMAX": 80.06
+  },
+  {
+    "name": "ID-03",
+    "PRCP": 0,
+    "TMAX": 55.04
+  },
+  {
+    "name": "ID-03",
+    "PRCP": 0,
+    "TMAX": 57.92
+  },
+  {
+    "name": "ID-03",
+    "PRCP": 0.12992,
+    "TMAX": 59
+  },
+  {
+    "name": "KS-02",
+    "PRCP": 0,
+    "TMAX": 30.2
+  },
+  {
+    "name": "KS-02",
+    "PRCP": 0,
+    "TMAX": 64.94
+  },
+  {
+    "name": "KS-02",
+    "PRCP": 0,
+    "TMAX": 53.06
+  },
+  {
+    "name": "MS-06",
+    "PRCP": 0,
+    "TMAX": 93.92
+  },
+  {
+    "name": "MS-06",
+    "PRCP": 0,
+    "TMAX": 95
+  },
+  {
+    "name": "MS-06",
+    "PRCP": 0,
+    "TMAX": 86
+  }
+]

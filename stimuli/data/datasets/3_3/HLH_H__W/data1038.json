@@ -1,0 +1,47 @@
+[
+  {
+    "name": "CO-08",
+    "PRCP": 0,
+    "TMAX": 89.06
+  },
+  {
+    "name": "CO-08",
+    "PRCP": 0,
+    "TMAX": 89.06
+  },
+  {
+    "name": "CO-08",
+    "PRCP": 1.14961,
+    "TMAX": 80.96
+  },
+  {
+    "name": "IN-05",
+    "PRCP": 0,
+    "TMAX": 84.92
+  },
+  {
+    "name": "IN-05",
+    "PRCP": 0,
+    "TMAX": 73.94
+  },
+  {
+    "name": "IN-05",
+    "PRCP": 0,
+    "TMAX": 86
+  },
+  {
+    "name": "RI-06",
+    "PRCP": 0,
+    "TMAX": 75.02
+  },
+  {
+    "name": "RI-06",
+    "PRCP": 0,
+    "TMAX": 69.98
+  },
+  {
+    "name": "RI-06",
+    "PRCP": 0.57874,
+    "TMAX": 68
+  }
+]

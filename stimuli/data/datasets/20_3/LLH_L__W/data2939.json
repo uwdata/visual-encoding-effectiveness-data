@@ -1,0 +1,302 @@
+[
+  {
+    "name": "TX-07",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "TX-07",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "TX-07",
+    "PRCP": 0.16929,
+    "SNWD": 0
+  },
+  {
+    "name": "NY-12",
+    "PRCP": 0.01969,
+    "SNWD": 5.11811
+  },
+  {
+    "name": "NY-12",
+    "PRCP": 0.33858,
+    "SNWD": 5.90551
+  },
+  {
+    "name": "NY-12",
+    "PRCP": 0.35827,
+    "SNWD": 0
+  },
+  {
+    "name": "AK-04",
+    "PRCP": 0.07874,
+    "SNWD": 40.1575
+  },
+  {
+    "name": "AK-04",
+    "PRCP": 0.09843,
+    "SNWD": 27.95277
+  },
+  {
+    "name": "AK-04",
+    "PRCP": 0.27165,
+    "SNWD": 0
+  },
+  {
+    "name": "NC-12",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "NC-12",
+    "PRCP": 0.22047,
+    "SNWD": 0
+  },
+  {
+    "name": "NC-12",
+    "PRCP": 0.44095,
+    "SNWD": 0
+  },
+  {
+    "name": "OR-10",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "OR-10",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "OR-10",
+    "PRCP": 0.0315,
+    "SNWD": 0
+  },
+  {
+    "name": "MT-12",
+    "PRCP": 0.0315,
+    "SNWD": 5.90551
+  },
+  {
+    "name": "MT-12",
+    "PRCP": 0.0315,
+    "SNWD": 5.90551
+  },
+  {
+    "name": "MT-12",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "MD-06",
+    "PRCP": 0.14961,
+    "SNWD": 0
+  },
+  {
+    "name": "MD-06",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "MD-06",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "VT-12",
+    "PRCP": 0,
+    "SNWD": 1.1811
+  },
+  {
+    "name": "VT-12",
+    "PRCP": 0,
+    "SNWD": 1.96851
+  },
+  {
+    "name": "VT-12",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "WV-04",
+    "PRCP": 0.01969,
+    "SNWD": 3.93701
+  },
+  {
+    "name": "WV-04",
+    "PRCP": 0.0315,
+    "SNWD": 3.14961
+  },
+  {
+    "name": "WV-04",
+    "PRCP": 0.05118,
+    "SNWD": 0
+  },
+  {
+    "name": "WA-11",
+    "PRCP": 0.18898,
+    "SNWD": 1.96851
+  },
+  {
+    "name": "WA-11",
+    "PRCP": 0,
+    "SNWD": 1.1811
+  },
+  {
+    "name": "WA-11",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "IN-12",
+    "PRCP": 0.0315,
+    "SNWD": 5.11811
+  },
+  {
+    "name": "IN-12",
+    "PRCP": 0,
+    "SNWD": 7.08662
+  },
+  {
+    "name": "IN-12",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "AR-08",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "AR-08",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "AR-08",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "KY-05",
+    "PRCP": 0.5,
+    "SNWD": 0
+  },
+  {
+    "name": "KY-05",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "KY-05",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "CT-01",
+    "PRCP": 0,
+    "SNWD": 1.96851
+  },
+  {
+    "name": "CT-01",
+    "PRCP": 0,
+    "SNWD": 1.96851
+  },
+  {
+    "name": "CT-01",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "TN-03",
+    "PRCP": 0.05906,
+    "SNWD": 0
+  },
+  {
+    "name": "TN-03",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "TN-03",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "UT-10",
+    "PRCP": 0.05118,
+    "SNWD": 0
+  },
+  {
+    "name": "UT-10",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "UT-10",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "ID-03",
+    "PRCP": 0.14961,
+    "SNWD": 0
+  },
+  {
+    "name": "ID-03",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "ID-03",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "IL-01",
+    "PRCP": 0,
+    "SNWD": 1.1811
+  },
+  {
+    "name": "IL-01",
+    "PRCP": 0,
+    "SNWD": 1.1811
+  },
+  {
+    "name": "IL-01",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "MO-09",
+    "PRCP": 0.3189,
+    "SNWD": 0
+  },
+  {
+    "name": "MO-09",
+    "PRCP": 0.14173,
+    "SNWD": 0
+  },
+  {
+    "name": "MO-09",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "ND-08",
+    "PRCP": 2.75197,
+    "SNWD": 0
+  },
+  {
+    "name": "ND-08",
+    "PRCP": 0,
+    "SNWD": 0
+  },
+  {
+    "name": "ND-08",
+    "PRCP": 0,
+    "SNWD": 0
+  }
+]

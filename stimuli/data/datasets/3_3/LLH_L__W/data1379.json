@@ -1,0 +1,47 @@
+[
+  {
+    "name": "WI-06",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WI-06",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WI-06",
+    "PRCP": 0.24016,
+    "SNOW": 0
+  },
+  {
+    "name": "TN-02",
+    "PRCP": 0.33858,
+    "SNOW": 0.19685
+  },
+  {
+    "name": "TN-02",
+    "PRCP": 0.27165,
+    "SNOW": 2.79528
+  },
+  {
+    "name": "TN-02",
+    "PRCP": 1.01969,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-04",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-04",
+    "PRCP": 0.57874,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-04",
+    "PRCP": 0,
+    "SNOW": 0
+  }
+]

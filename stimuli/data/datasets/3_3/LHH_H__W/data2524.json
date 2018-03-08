@@ -1,0 +1,47 @@
+[
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMAX": 73.04
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMAX": 84.92
+  },
+  {
+    "name": "GA-03",
+    "PRCP": 0,
+    "TMAX": 82.04
+  },
+  {
+    "name": "MO-10",
+    "PRCP": 0,
+    "TMAX": 78.08
+  },
+  {
+    "name": "MO-10",
+    "PRCP": 0,
+    "TMAX": 84.02
+  },
+  {
+    "name": "MO-10",
+    "PRCP": 0,
+    "TMAX": 66.92
+  },
+  {
+    "name": "OK-08",
+    "PRCP": 0,
+    "TMAX": 98.96
+  },
+  {
+    "name": "OK-08",
+    "PRCP": 0,
+    "TMAX": 93.02
+  },
+  {
+    "name": "OK-08",
+    "PRCP": 0.11024,
+    "TMAX": 89.06
+  }
+]

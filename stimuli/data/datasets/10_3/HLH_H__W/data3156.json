@@ -1,0 +1,152 @@
+[
+  {
+    "name": "OH-01",
+    "PRCP": 0,
+    "TMIN": 19.22
+  },
+  {
+    "name": "OH-01",
+    "PRCP": 0,
+    "TMIN": 19.22
+  },
+  {
+    "name": "OH-01",
+    "PRCP": 0,
+    "TMIN": 10.22
+  },
+  {
+    "name": "LA-09",
+    "PRCP": 0,
+    "TMIN": 75.92
+  },
+  {
+    "name": "LA-09",
+    "PRCP": 0,
+    "TMIN": 73.94
+  },
+  {
+    "name": "LA-09",
+    "PRCP": 0.01181,
+    "TMIN": 78.08
+  },
+  {
+    "name": "OR-06",
+    "PRCP": 0,
+    "TMIN": 57.02
+  },
+  {
+    "name": "OR-06",
+    "PRCP": 0.05118,
+    "TMIN": 48.02
+  },
+  {
+    "name": "OR-06",
+    "PRCP": 0,
+    "TMIN": 62.06
+  },
+  {
+    "name": "NH-08",
+    "PRCP": 0,
+    "TMIN": 64.04
+  },
+  {
+    "name": "NH-08",
+    "PRCP": 0,
+    "TMIN": 55.94
+  },
+  {
+    "name": "NH-08",
+    "PRCP": 0,
+    "TMIN": 51.08
+  },
+  {
+    "name": "AR-05",
+    "PRCP": 0,
+    "TMIN": 57.02
+  },
+  {
+    "name": "AR-05",
+    "PRCP": 0,
+    "TMIN": 46.94
+  },
+  {
+    "name": "AR-05",
+    "PRCP": 0.09055,
+    "TMIN": 66.02
+  },
+  {
+    "name": "KY-03",
+    "PRCP": 0.79921,
+    "TMIN": 44.96
+  },
+  {
+    "name": "KY-03",
+    "PRCP": 0.55906,
+    "TMIN": 31.1
+  },
+  {
+    "name": "KY-03",
+    "PRCP": 0,
+    "TMIN": 39.02
+  },
+  {
+    "name": "UT-11",
+    "PRCP": 0,
+    "TMIN": 10.22
+  },
+  {
+    "name": "UT-11",
+    "PRCP": 0,
+    "TMIN": 39.02
+  },
+  {
+    "name": "UT-11",
+    "PRCP": 0,
+    "TMIN": 33.08
+  },
+  {
+    "name": "IL-02",
+    "PRCP": 0,
+    "TMIN": 30.2
+  },
+  {
+    "name": "IL-02",
+    "PRCP": 0,
+    "TMIN": 29.12
+  },
+  {
+    "name": "IL-02",
+    "PRCP": 0,
+    "TMIN": 15.26
+  },
+  {
+    "name": "OK-05",
+    "PRCP": 0.0315,
+    "TMIN": 62.06
+  },
+  {
+    "name": "OK-05",
+    "PRCP": 0.01181,
+    "TMIN": 62.96
+  },
+  {
+    "name": "OK-05",
+    "PRCP": 0,
+    "TMIN": 64.94
+  },
+  {
+    "name": "NV-07",
+    "PRCP": 0,
+    "TMIN": 64.04
+  },
+  {
+    "name": "NV-07",
+    "PRCP": 0,
+    "TMIN": 84.92
+  },
+  {
+    "name": "NV-07",
+    "PRCP": 0,
+    "TMIN": 55.04
+  }
+]

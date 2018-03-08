@@ -1,0 +1,152 @@
+[
+  {
+    "name": "AL-11",
+    "PRCP": 0,
+    "TMIN": 31.1
+  },
+  {
+    "name": "AL-11",
+    "PRCP": 0,
+    "TMIN": 44.06
+  },
+  {
+    "name": "AL-11",
+    "PRCP": 0,
+    "TMIN": 33.08
+  },
+  {
+    "name": "PA-11",
+    "PRCP": 0,
+    "TMIN": 46.94
+  },
+  {
+    "name": "PA-11",
+    "PRCP": 0,
+    "TMIN": 0
+  },
+  {
+    "name": "PA-11",
+    "PRCP": 0.01969,
+    "TMIN": 26.24
+  },
+  {
+    "name": "IA-10",
+    "PRCP": 0,
+    "TMIN": 48.92
+  },
+  {
+    "name": "IA-10",
+    "PRCP": 0,
+    "TMIN": 39.92
+  },
+  {
+    "name": "IA-10",
+    "PRCP": 0,
+    "TMIN": 41
+  },
+  {
+    "name": "SC-08",
+    "PRCP": 0,
+    "TMIN": 71.96
+  },
+  {
+    "name": "SC-08",
+    "PRCP": 0.0315,
+    "TMIN": 73.94
+  },
+  {
+    "name": "SC-08",
+    "PRCP": 0,
+    "TMIN": 75.92
+  },
+  {
+    "name": "NJ-02",
+    "PRCP": 1.09843,
+    "TMIN": 33.08
+  },
+  {
+    "name": "NJ-02",
+    "PRCP": 0,
+    "TMIN": 33.08
+  },
+  {
+    "name": "NJ-02",
+    "PRCP": 0,
+    "TMIN": 19.22
+  },
+  {
+    "name": "MA-07",
+    "PRCP": 0.22047,
+    "TMIN": 53.06
+  },
+  {
+    "name": "MA-07",
+    "PRCP": 0,
+    "TMIN": 62.96
+  },
+  {
+    "name": "MA-07",
+    "PRCP": 0,
+    "TMIN": 66.92
+  },
+  {
+    "name": "CT-04",
+    "PRCP": 0,
+    "TMIN": 30.2
+  },
+  {
+    "name": "CT-04",
+    "PRCP": 0,
+    "TMIN": 31.1
+  },
+  {
+    "name": "CT-04",
+    "PRCP": 0.09843,
+    "TMIN": 44.06
+  },
+  {
+    "name": "ID-11",
+    "PRCP": 0,
+    "TMIN": 35.96
+  },
+  {
+    "name": "ID-11",
+    "PRCP": 0,
+    "TMIN": 0
+  },
+  {
+    "name": "ID-11",
+    "PRCP": 0,
+    "TMIN": 30.2
+  },
+  {
+    "name": "HI-02",
+    "PRCP": 0,
+    "TMIN": 69.08
+  },
+  {
+    "name": "HI-02",
+    "PRCP": 0,
+    "TMIN": 55.94
+  },
+  {
+    "name": "HI-02",
+    "PRCP": 0.01969,
+    "TMIN": 69.08
+  },
+  {
+    "name": "RI-08",
+    "PRCP": 0,
+    "TMIN": 60.08
+  },
+  {
+    "name": "RI-08",
+    "PRCP": 0,
+    "TMIN": 69.98
+  },
+  {
+    "name": "RI-08",
+    "PRCP": 0,
+    "TMIN": 71.96
+  }
+]

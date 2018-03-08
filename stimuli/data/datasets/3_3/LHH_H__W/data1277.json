@@ -1,0 +1,47 @@
+[
+  {
+    "name": "LA-04",
+    "PRCP": 0,
+    "TMIN": 53.06
+  },
+  {
+    "name": "LA-04",
+    "PRCP": 0,
+    "TMIN": 71.06
+  },
+  {
+    "name": "LA-04",
+    "PRCP": 0,
+    "TMIN": 59
+  },
+  {
+    "name": "NJ-03",
+    "PRCP": 1.25984,
+    "TMIN": 46.04
+  },
+  {
+    "name": "NJ-03",
+    "PRCP": 0,
+    "TMIN": 0
+  },
+  {
+    "name": "NJ-03",
+    "PRCP": 0,
+    "TMIN": 26.24
+  },
+  {
+    "name": "RI-09",
+    "PRCP": 0,
+    "TMIN": 53.06
+  },
+  {
+    "name": "RI-09",
+    "PRCP": 0,
+    "TMIN": 64.94
+  },
+  {
+    "name": "RI-09",
+    "PRCP": 0.83071,
+    "TMIN": 68
+  }
+]

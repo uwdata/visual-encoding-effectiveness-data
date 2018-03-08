@@ -1,0 +1,452 @@
+[
+  {
+    "name": "NM-12",
+    "AWND": 8.50037,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 3.35541,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 8.05298,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 8.72407,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 6.71082,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 8.27668,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 4.92127,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 6.48713,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 5.59235,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 22.14571,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 14.9875,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 11.40839,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 7.6056,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 34.00149,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 4.25019,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 3.8028,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 10.51362,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 6.26343,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 6.71082,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 8.50037,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 8.27668,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 20.35615,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 6.71082,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 4.92127,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 4.92127,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 6.71082,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 3.35541,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 6.93451,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 11.40839,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-12",
+    "AWND": 4.92127,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 8.50037,
+    "SNOW": 0.31496
+  },
+  {
+    "name": "WY-11",
+    "AWND": 6.48713,
+    "SNOW": 0.90551
+  },
+  {
+    "name": "WY-11",
+    "AWND": 14.09272,
+    "SNOW": 0.59055
+  },
+  {
+    "name": "WY-11",
+    "AWND": 18.5666,
+    "SNOW": 1.41732
+  },
+  {
+    "name": "WY-11",
+    "AWND": 5.36866,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 21.69832,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 5.81604,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 2.46063,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 2.68433,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 9.17145,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 12.52686,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 4.69757,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 12.07948,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 17.00074,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 5.59235,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 4.47388,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 10.51362,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 4.47388,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 2.46063,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 3.8028,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 12.52686,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 12.30317,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 2.90802,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 6.93451,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 7.82929,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 3.8028,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 4.69757,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 3.35541,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 4.47388,
+    "SNOW": 0
+  },
+  {
+    "name": "WY-11",
+    "AWND": 3.8028,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 2.01325,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 5.59235,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 3.8028,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 4.47388,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 3.13172,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 8.50037,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 5.14496,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 2.68433,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 5.14496,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 6.26343,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 6.93451,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 8.27668,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 4.92127,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 6.93451,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 3.8028,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 17.44813,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 5.36866,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 4.25019,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 5.36866,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 6.26343,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 6.03974,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 1.78955,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 4.92127,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 1.78955,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 7.6056,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 2.46063,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 6.48713,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 3.35541,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 3.5791,
+    "SNOW": 0
+  },
+  {
+    "name": "AZ-10",
+    "AWND": 5.14496,
+    "SNOW": 0
+  }
+]

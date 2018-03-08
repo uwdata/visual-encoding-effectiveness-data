@@ -1,0 +1,152 @@
+[
+  {
+    "name": "MI-01",
+    "PRCP": 0.05906,
+    "TMAX": 18.14
+  },
+  {
+    "name": "MI-01",
+    "PRCP": 0,
+    "TMAX": 35.96
+  },
+  {
+    "name": "MI-01",
+    "PRCP": 0,
+    "TMAX": 42.08
+  },
+  {
+    "name": "OH-10",
+    "PRCP": 0,
+    "TMAX": 60.08
+  },
+  {
+    "name": "OH-10",
+    "PRCP": 0,
+    "TMAX": 78.08
+  },
+  {
+    "name": "OH-10",
+    "PRCP": 0.40158,
+    "TMAX": 73.04
+  },
+  {
+    "name": "MN-07",
+    "PRCP": 0.0315,
+    "TMAX": 86
+  },
+  {
+    "name": "MN-07",
+    "PRCP": 0,
+    "TMAX": 78.98
+  },
+  {
+    "name": "MN-07",
+    "PRCP": 0,
+    "TMAX": 89.96
+  },
+  {
+    "name": "IA-04",
+    "PRCP": 0,
+    "TMAX": 51.08
+  },
+  {
+    "name": "IA-04",
+    "PRCP": 0,
+    "TMAX": 75.02
+  },
+  {
+    "name": "IA-04",
+    "PRCP": 0,
+    "TMAX": 71.06
+  },
+  {
+    "name": "WA-09",
+    "PRCP": 0,
+    "TMAX": 64.94
+  },
+  {
+    "name": "WA-09",
+    "PRCP": 0.01181,
+    "TMAX": 73.04
+  },
+  {
+    "name": "WA-09",
+    "PRCP": 0,
+    "TMAX": 68
+  },
+  {
+    "name": "KY-06",
+    "PRCP": 0,
+    "TMAX": 86
+  },
+  {
+    "name": "KY-06",
+    "PRCP": 0,
+    "TMAX": 80.06
+  },
+  {
+    "name": "KY-06",
+    "PRCP": 0,
+    "TMAX": 93.92
+  },
+  {
+    "name": "UT-09",
+    "PRCP": 0,
+    "TMAX": 89.96
+  },
+  {
+    "name": "UT-09",
+    "PRCP": 0,
+    "TMAX": 75.02
+  },
+  {
+    "name": "UT-09",
+    "PRCP": 0,
+    "TMAX": 80.96
+  },
+  {
+    "name": "KS-06",
+    "PRCP": 0,
+    "TMAX": 91.94
+  },
+  {
+    "name": "KS-06",
+    "PRCP": 0,
+    "TMAX": 100.94
+  },
+  {
+    "name": "KS-06",
+    "PRCP": 0,
+    "TMAX": 102.92
+  },
+  {
+    "name": "AZ-11",
+    "PRCP": 0,
+    "TMAX": 55.94
+  },
+  {
+    "name": "AZ-11",
+    "PRCP": 0,
+    "TMAX": 50
+  },
+  {
+    "name": "AZ-11",
+    "PRCP": 0,
+    "TMAX": 75.02
+  },
+  {
+    "name": "NV-08",
+    "PRCP": 0,
+    "TMAX": 102.92
+  },
+  {
+    "name": "NV-08",
+    "PRCP": 0,
+    "TMAX": 98.06
+  },
+  {
+    "name": "NV-08",
+    "PRCP": 0,
+    "TMAX": 82.94
+  }
+]

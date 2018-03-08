@@ -1,0 +1,47 @@
+[
+  {
+    "name": "LA-08",
+    "PRCP": 0,
+    "TMAX": 98.96
+  },
+  {
+    "name": "LA-08",
+    "PRCP": 0.42126,
+    "TMAX": 84.02
+  },
+  {
+    "name": "LA-08",
+    "PRCP": 0,
+    "TMAX": 95
+  },
+  {
+    "name": "KS-11",
+    "PRCP": 0,
+    "TMAX": 66.92
+  },
+  {
+    "name": "KS-11",
+    "PRCP": 0,
+    "TMAX": 53.96
+  },
+  {
+    "name": "KS-11",
+    "PRCP": 0,
+    "TMAX": 73.04
+  },
+  {
+    "name": "SD-07",
+    "PRCP": 0,
+    "TMAX": 100.94
+  },
+  {
+    "name": "SD-07",
+    "PRCP": 0,
+    "TMAX": 84.92
+  },
+  {
+    "name": "SD-07",
+    "PRCP": 0,
+    "TMAX": 91.04
+  }
+]

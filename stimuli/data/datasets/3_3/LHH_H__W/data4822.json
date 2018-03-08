@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MI-04",
+    "SNOW": 0.51181,
+    "TMIN": 27.14
+  },
+  {
+    "name": "MI-04",
+    "SNOW": 8.11024,
+    "TMIN": 30.2
+  },
+  {
+    "name": "MI-04",
+    "TMIN": 31.1,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-11",
+    "TMIN": 19.22,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-11",
+    "TMIN": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-11",
+    "TMIN": 42.08,
+    "SNOW": 0
+  },
+  {
+    "name": "SC-03",
+    "TMIN": 59,
+    "SNOW": 0
+  },
+  {
+    "name": "SC-03",
+    "TMIN": 37.94,
+    "SNOW": 0
+  },
+  {
+    "name": "SC-03",
+    "TMIN": 64.94,
+    "SNOW": 0
+  }
+]

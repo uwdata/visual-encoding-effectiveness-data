@@ -1,0 +1,47 @@
+[
+  {
+    "name": "NM-12",
+    "PRCP": 0,
+    "TMAX": 62.96
+  },
+  {
+    "name": "NM-12",
+    "PRCP": 0,
+    "TMAX": 55.04
+  },
+  {
+    "name": "NM-12",
+    "PRCP": 0,
+    "TMAX": 59
+  },
+  {
+    "name": "NE-02",
+    "PRCP": 0.03937,
+    "TMAX": 37.94
+  },
+  {
+    "name": "NE-02",
+    "PRCP": 0,
+    "TMAX": 0
+  },
+  {
+    "name": "NE-02",
+    "PRCP": 0,
+    "TMAX": 60.98
+  },
+  {
+    "name": "MT-09",
+    "PRCP": 0,
+    "TMAX": 78.08
+  },
+  {
+    "name": "MT-09",
+    "PRCP": 0,
+    "TMAX": 80.06
+  },
+  {
+    "name": "MT-09",
+    "PRCP": 0.05118,
+    "TMAX": 69.98
+  }
+]

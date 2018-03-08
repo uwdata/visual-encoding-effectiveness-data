@@ -1,0 +1,47 @@
+[
+  {
+    "name": "WI-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WI-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "WI-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "KY-12",
+    "PRCP": 0.27953,
+    "SNOW": 0.98425
+  },
+  {
+    "name": "KY-12",
+    "PRCP": 0.01969,
+    "SNOW": 0.31496
+  },
+  {
+    "name": "KY-12",
+    "PRCP": 0.94095,
+    "SNOW": 0
+  },
+  {
+    "name": "ID-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "ID-09",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "ID-09",
+    "PRCP": 0,
+    "SNOW": 0
+  }
+]

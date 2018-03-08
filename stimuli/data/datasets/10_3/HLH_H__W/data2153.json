@@ -1,0 +1,152 @@
+[
+  {
+    "name": "AL-08",
+    "PRCP": 0.07874,
+    "TMAX": 95
+  },
+  {
+    "name": "AL-08",
+    "PRCP": 0.01969,
+    "TMAX": 93.92
+  },
+  {
+    "name": "AL-08",
+    "PRCP": 0,
+    "TMAX": 87.08
+  },
+  {
+    "name": "MN-11",
+    "PRCP": 0.01969,
+    "TMAX": 37.04
+  },
+  {
+    "name": "MN-11",
+    "PRCP": 0,
+    "TMAX": 55.04
+  },
+  {
+    "name": "MN-11",
+    "PRCP": 0,
+    "TMAX": 30.2
+  },
+  {
+    "name": "PA-10",
+    "PRCP": 0,
+    "TMAX": 60.98
+  },
+  {
+    "name": "PA-10",
+    "PRCP": 0,
+    "TMAX": 53.06
+  },
+  {
+    "name": "PA-10",
+    "PRCP": 0,
+    "TMAX": 75.02
+  },
+  {
+    "name": "NJ-08",
+    "PRCP": 0,
+    "TMAX": 82.04
+  },
+  {
+    "name": "NJ-08",
+    "PRCP": 0,
+    "TMAX": 80.06
+  },
+  {
+    "name": "NJ-08",
+    "PRCP": 0,
+    "TMAX": 78.98
+  },
+  {
+    "name": "OR-08",
+    "PRCP": 0,
+    "TMAX": 86
+  },
+  {
+    "name": "OR-08",
+    "PRCP": 0,
+    "TMAX": 107.96
+  },
+  {
+    "name": "OR-08",
+    "PRCP": 0,
+    "TMAX": 89.06
+  },
+  {
+    "name": "KY-06",
+    "PRCP": 0,
+    "TMAX": 86
+  },
+  {
+    "name": "KY-06",
+    "PRCP": 0,
+    "TMAX": 82.04
+  },
+  {
+    "name": "KY-06",
+    "PRCP": 0,
+    "TMAX": 82.04
+  },
+  {
+    "name": "TN-04",
+    "PRCP": 0,
+    "TMAX": 68
+  },
+  {
+    "name": "TN-04",
+    "PRCP": 0,
+    "TMAX": 80.96
+  },
+  {
+    "name": "TN-04",
+    "PRCP": 0.01181,
+    "TMAX": 80.06
+  },
+  {
+    "name": "IL-02",
+    "PRCP": 0.01181,
+    "TMAX": 18.14
+  },
+  {
+    "name": "IL-02",
+    "PRCP": 0,
+    "TMAX": 18.14
+  },
+  {
+    "name": "IL-02",
+    "PRCP": 0,
+    "TMAX": 42.98
+  },
+  {
+    "name": "KS-06",
+    "PRCP": 0,
+    "TMAX": 95
+  },
+  {
+    "name": "KS-06",
+    "PRCP": 0.64961,
+    "TMAX": 82.04
+  },
+  {
+    "name": "KS-06",
+    "PRCP": 0,
+    "TMAX": 87.08
+  },
+  {
+    "name": "RI-06",
+    "PRCP": 0,
+    "TMAX": 82.04
+  },
+  {
+    "name": "RI-06",
+    "PRCP": 0,
+    "TMAX": 73.04
+  },
+  {
+    "name": "RI-06",
+    "PRCP": 0,
+    "TMAX": 75.92
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "TX-07",
+    "PRCP": 0,
+    "TMIN": 75.92
+  },
+  {
+    "name": "TX-07",
+    "PRCP": 0,
+    "TMIN": 78.08
+  },
+  {
+    "name": "TX-07",
+    "PRCP": 0,
+    "TMIN": 75.02
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 30.2
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0,
+    "TMIN": 29.12
+  },
+  {
+    "name": "IA-11",
+    "PRCP": 0.24016,
+    "TMIN": 35.96
+  },
+  {
+    "name": "IL-12",
+    "PRCP": 0,
+    "TMIN": 33.98
+  },
+  {
+    "name": "IL-12",
+    "PRCP": 0,
+    "TMIN": 21.2
+  },
+  {
+    "name": "IL-12",
+    "PRCP": 0,
+    "TMIN": -7.78
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "TX-10",
+    "TMIN": 51.08,
+    "SNOW": 0
+  },
+  {
+    "name": "TX-10",
+    "TMIN": 68,
+    "SNOW": 0
+  },
+  {
+    "name": "TX-10",
+    "TMIN": 68,
+    "SNOW": 0
+  },
+  {
+    "name": "MI-03",
+    "SNOW": 0.90551,
+    "TMIN": 27.14
+  },
+  {
+    "name": "MI-03",
+    "SNOW": 3.30709,
+    "TMIN": 24.26
+  },
+  {
+    "name": "MI-03",
+    "TMIN": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-10",
+    "TMIN": 42.08,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-10",
+    "TMIN": 57.92,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-10",
+    "TMIN": 42.08,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-03",
+    "SNOW": 5.59055,
+    "TMIN": 33.08
+  },
+  {
+    "name": "NE-03",
+    "SNOW": 0.3937,
+    "TMIN": 28.22
+  },
+  {
+    "name": "NE-03",
+    "TMIN": 28.22,
+    "SNOW": 0
+  },
+  {
+    "name": "NC-06",
+    "TMIN": 71.96,
+    "SNOW": 0
+  },
+  {
+    "name": "NC-06",
+    "TMIN": 57.92,
+    "SNOW": 0
+  },
+  {
+    "name": "NC-06",
+    "TMIN": 60.08,
+    "SNOW": 0
+  },
+  {
+    "name": "WI-01",
+    "SNOW": 0.19685,
+    "TMIN": 3.2
+  },
+  {
+    "name": "WI-01",
+    "SNOW": 0.19685,
+    "TMIN": 15.26
+  },
+  {
+    "name": "WI-01",
+    "TMIN": 15.26,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-07",
+    "TMIN": 78.98,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-07",
+    "TMIN": 75.02,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-07",
+    "TMIN": 73.94,
+    "SNOW": 0
+  },
+  {
+    "name": "UT-03",
+    "SNOW": 1.1811,
+    "TMIN": 33.08
+  },
+  {
+    "name": "UT-03",
+    "SNOW": 1.41732,
+    "TMIN": 33.08
+  },
+  {
+    "name": "UT-03",
+    "SNOW": 0,
+    "TMIN": 48.92
+  },
+  {
+    "name": "IL-02",
+    "SNOW": 0.3937,
+    "TMIN": 20.12
+  },
+  {
+    "name": "IL-02",
+    "SNOW": 0.90551,
+    "TMIN": 14.18
+  },
+  {
+    "name": "IL-02",
+    "TMIN": 33.08,
+    "SNOW": 0
+  },
+  {
+    "name": "RI-05",
+    "TMIN": 48.02,
+    "SNOW": 0
+  },
+  {
+    "name": "RI-05",
+    "TMIN": 66.92,
+    "SNOW": 0
+  },
+  {
+    "name": "RI-05",
+    "TMIN": 42.98,
+    "SNOW": 0
+  }
+]

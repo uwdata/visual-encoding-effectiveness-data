@@ -1,0 +1,152 @@
+[
+  {
+    "name": "TX-10",
+    "PRCP": 0.01969,
+    "TMAX": 87.08
+  },
+  {
+    "name": "TX-10",
+    "PRCP": 0,
+    "TMAX": 87.98
+  },
+  {
+    "name": "TX-10",
+    "PRCP": 0,
+    "TMAX": 87.08
+  },
+  {
+    "name": "NM-03",
+    "PRCP": 0,
+    "TMAX": 78.98
+  },
+  {
+    "name": "NM-03",
+    "PRCP": 0,
+    "TMAX": 75.02
+  },
+  {
+    "name": "NM-03",
+    "PRCP": 0,
+    "TMAX": 64.94
+  },
+  {
+    "name": "MN-12",
+    "PRCP": 0.48032,
+    "TMAX": 33.98
+  },
+  {
+    "name": "MN-12",
+    "TMAX": 7.16,
+    "PRCP": 0
+  },
+  {
+    "name": "MN-12",
+    "PRCP": 0,
+    "TMAX": 15.26
+  },
+  {
+    "name": "NE-02",
+    "PRCP": 0,
+    "TMAX": 51.98
+  },
+  {
+    "name": "NE-02",
+    "PRCP": 0,
+    "TMAX": 75.92
+  },
+  {
+    "name": "NE-02",
+    "PRCP": 0,
+    "TMAX": 51.08
+  },
+  {
+    "name": "VT-02",
+    "PRCP": 0.96063,
+    "TMAX": 59
+  },
+  {
+    "name": "VT-02",
+    "PRCP": 0,
+    "TMAX": 37.94
+  },
+  {
+    "name": "VT-02",
+    "PRCP": 0,
+    "TMAX": 15.26
+  },
+  {
+    "name": "IN-04",
+    "PRCP": 0,
+    "TMAX": 73.94
+  },
+  {
+    "name": "IN-04",
+    "PRCP": 0.03937,
+    "TMAX": 44.96
+  },
+  {
+    "name": "IN-04",
+    "PRCP": 0,
+    "TMAX": 59
+  },
+  {
+    "name": "ID-01",
+    "PRCP": 0.07874,
+    "TMAX": 33.98
+  },
+  {
+    "name": "ID-01",
+    "PRCP": 0,
+    "TMAX": 29.12
+  },
+  {
+    "name": "ID-01",
+    "PRCP": 0,
+    "TMAX": 27.14
+  },
+  {
+    "name": "IL-02",
+    "PRCP": 0,
+    "TMAX": 53.96
+  },
+  {
+    "name": "IL-02",
+    "PRCP": 0.44882,
+    "TMAX": 60.08
+  },
+  {
+    "name": "IL-02",
+    "PRCP": 0,
+    "TMAX": 55.94
+  },
+  {
+    "name": "KS-10",
+    "PRCP": 0,
+    "TMAX": 69.98
+  },
+  {
+    "name": "KS-10",
+    "PRCP": 0,
+    "TMAX": 59
+  },
+  {
+    "name": "KS-10",
+    "PRCP": 0,
+    "TMAX": 59
+  },
+  {
+    "name": "RI-05",
+    "PRCP": 0,
+    "TMAX": 71.96
+  },
+  {
+    "name": "RI-05",
+    "PRCP": 0,
+    "TMAX": 60.98
+  },
+  {
+    "name": "RI-05",
+    "PRCP": 0,
+    "TMAX": 75.02
+  }
+]

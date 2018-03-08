@@ -1,0 +1,152 @@
+[
+  {
+    "name": "GA-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "GA-01",
+    "PRCP": 0.03937,
+    "SNOW": 0
+  },
+  {
+    "name": "GA-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NM-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-10",
+    "PRCP": 2.14961,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "AK-10",
+    "PRCP": 0.03937,
+    "SNOW": 0.31496
+  },
+  {
+    "name": "AK-10",
+    "PRCP": 0.03937,
+    "SNOW": 0.59055
+  },
+  {
+    "name": "AK-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "NJ-08",
+    "PRCP": 0.40945,
+    "SNOW": 0
+  },
+  {
+    "name": "NJ-08",
+    "PRCP": 0.70079,
+    "SNOW": 0
+  },
+  {
+    "name": "NJ-08",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MT-10",
+    "PRCP": 0.03937,
+    "SNOW": 0
+  },
+  {
+    "name": "MT-10",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MT-10",
+    "PRCP": 0.5,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-04",
+    "PRCP": 0.8189,
+    "SNOW": 2.00788
+  },
+  {
+    "name": "WV-04",
+    "PRCP": 0.0315,
+    "SNOW": 0.98425
+  },
+  {
+    "name": "WV-04",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "KY-02",
+    "PRCP": 0,
+    "SNOW": 0.31496
+  },
+  {
+    "name": "KY-02",
+    "PRCP": 0.25984,
+    "SNOW": 0.98425
+  },
+  {
+    "name": "KY-02",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "MO-01",
+    "PRCP": 0.31102,
+    "SNOW": 4.01575
+  },
+  {
+    "name": "MO-01",
+    "PRCP": 0.0315,
+    "SNOW": 0.90551
+  },
+  {
+    "name": "MO-01",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OK-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OK-05",
+    "PRCP": 0,
+    "SNOW": 0
+  },
+  {
+    "name": "OK-05",
+    "PRCP": 0,
+    "SNOW": 0
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "MI-08",
+    "TMAX": 84.02,
+    "SNOW": 0
+  },
+  {
+    "name": "MI-08",
+    "TMAX": 91.04,
+    "SNOW": 0
+  },
+  {
+    "name": "MI-08",
+    "TMAX": 84.92,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-07",
+    "TMAX": 60.98,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-07",
+    "TMAX": 89.96,
+    "SNOW": 0
+  },
+  {
+    "name": "NE-07",
+    "TMAX": 93.92,
+    "SNOW": 0
+  },
+  {
+    "name": "MT-04",
+    "SNOW": 0.11811,
+    "TMAX": 42.98
+  },
+  {
+    "name": "MT-04",
+    "SNOW": 6.88977,
+    "TMAX": 35.06
+  },
+  {
+    "name": "MT-04",
+    "TMAX": 73.04,
+    "SNOW": 0
+  },
+  {
+    "name": "VT-11",
+    "SNOW": 2.20473,
+    "TMAX": 48.02
+  },
+  {
+    "name": "VT-11",
+    "SNOW": 0.3937,
+    "TMAX": 31.1
+  },
+  {
+    "name": "VT-11",
+    "TMAX": 50,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-08",
+    "TMAX": 82.04,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-08",
+    "TMAX": 68,
+    "SNOW": 0
+  },
+  {
+    "name": "WV-08",
+    "TMAX": 82.94,
+    "SNOW": 0
+  },
+  {
+    "name": "IN-01",
+    "SNOW": 0.11811,
+    "TMAX": 42.98
+  },
+  {
+    "name": "IN-01",
+    "SNOW": 1.49606,
+    "TMAX": 8.24
+  },
+  {
+    "name": "IN-01",
+    "SNOW": 0,
+    "TMAX": 29.12
+  },
+  {
+    "name": "AR-12",
+    "TMAX": 39.92,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-12",
+    "TMAX": 44.06,
+    "SNOW": 0
+  },
+  {
+    "name": "AR-12",
+    "TMAX": 39.02,
+    "SNOW": 0
+  },
+  {
+    "name": "IL-01",
+    "SNOW": 0.11811,
+    "TMAX": 20.12
+  },
+  {
+    "name": "IL-01",
+    "SNOW": 0.90551,
+    "TMAX": 16.16
+  },
+  {
+    "name": "IL-01",
+    "SNOW": 0,
+    "TMAX": 31.1
+  },
+  {
+    "name": "MO-03",
+    "SNOW": 0.19685,
+    "TMAX": 41
+  },
+  {
+    "name": "MO-03",
+    "SNOW": 0.11811,
+    "TMAX": 48.92
+  },
+  {
+    "name": "MO-03",
+    "TMAX": 48.92,
+    "SNOW": 0
+  },
+  {
+    "name": "MS-08",
+    "TMAX": 91.94,
+    "SNOW": 0
+  },
+  {
+    "name": "MS-08",
+    "TMAX": 91.94,
+    "SNOW": 0
+  },
+  {
+    "name": "MS-08",
+    "TMAX": 93.02,
+    "SNOW": 0
+  }
+]

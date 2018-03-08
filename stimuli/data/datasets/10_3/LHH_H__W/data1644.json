@@ -1,0 +1,152 @@
+[
+  {
+    "name": "OH-10",
+    "PRCP": 0,
+    "TMIN": 55.94
+  },
+  {
+    "name": "OH-10",
+    "PRCP": 0,
+    "TMIN": 35.96
+  },
+  {
+    "name": "OH-10",
+    "PRCP": 0.01969,
+    "TMIN": 53.96
+  },
+  {
+    "name": "AL-10",
+    "PRCP": 0,
+    "TMIN": 66.92
+  },
+  {
+    "name": "AL-10",
+    "PRCP": 0,
+    "TMIN": 68
+  },
+  {
+    "name": "AL-10",
+    "PRCP": 0,
+    "TMIN": 64.04
+  },
+  {
+    "name": "IA-10",
+    "PRCP": 0,
+    "TMIN": 46.04
+  },
+  {
+    "name": "IA-10",
+    "PRCP": 0,
+    "TMIN": 39.92
+  },
+  {
+    "name": "IA-10",
+    "PRCP": 0.33858,
+    "TMIN": 55.94
+  },
+  {
+    "name": "AK-07",
+    "PRCP": 0.05118,
+    "TMIN": 53.06
+  },
+  {
+    "name": "AK-07",
+    "PRCP": 0.01181,
+    "TMIN": 53.06
+  },
+  {
+    "name": "AK-07",
+    "PRCP": 0.09055,
+    "TMIN": 51.98
+  },
+  {
+    "name": "WV-12",
+    "PRCP": 0,
+    "TMIN": 24.26
+  },
+  {
+    "name": "WV-12",
+    "PRCP": 0.0315,
+    "TMIN": 30.2
+  },
+  {
+    "name": "WV-12",
+    "PRCP": 0,
+    "TMIN": 25.16
+  },
+  {
+    "name": "WA-08",
+    "PRCP": 0,
+    "TMIN": 48.02
+  },
+  {
+    "name": "WA-08",
+    "PRCP": 0,
+    "TMIN": 59
+  },
+  {
+    "name": "WA-08",
+    "PRCP": 0,
+    "TMIN": 69.08
+  },
+  {
+    "name": "KY-04",
+    "PRCP": 0,
+    "TMIN": 44.06
+  },
+  {
+    "name": "KY-04",
+    "PRCP": 1.11811,
+    "TMIN": 60.98
+  },
+  {
+    "name": "KY-04",
+    "PRCP": 0,
+    "TMIN": 55.04
+  },
+  {
+    "name": "TN-09",
+    "PRCP": 0,
+    "TMIN": 66.02
+  },
+  {
+    "name": "TN-09",
+    "PRCP": 0,
+    "TMIN": 60.98
+  },
+  {
+    "name": "TN-09",
+    "PRCP": 0.42126,
+    "TMIN": 62.06
+  },
+  {
+    "name": "IL-01",
+    "PRCP": 0,
+    "TMIN": 22.1
+  },
+  {
+    "name": "IL-01",
+    "PRCP": 0,
+    "TMIN": 20.12
+  },
+  {
+    "name": "IL-01",
+    "PRCP": 0,
+    "TMIN": 25.16
+  },
+  {
+    "name": "DE-07",
+    "PRCP": 0,
+    "TMIN": 66.02
+  },
+  {
+    "name": "DE-07",
+    "PRCP": 0.1811,
+    "TMIN": 75.02
+  },
+  {
+    "name": "DE-07",
+    "PRCP": 0.05906,
+    "TMIN": 68
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "TX-04",
+    "PRCP": 0,
+    "TMIN": 53.06
+  },
+  {
+    "name": "TX-04",
+    "PRCP": 0,
+    "TMIN": 42.08
+  },
+  {
+    "name": "TX-04",
+    "PRCP": 0.01181,
+    "TMIN": 44.96
+  },
+  {
+    "name": "OH-07",
+    "PRCP": 0,
+    "TMIN": 53.06
+  },
+  {
+    "name": "OH-07",
+    "PRCP": 0,
+    "TMIN": 62.06
+  },
+  {
+    "name": "OH-07",
+    "PRCP": 0,
+    "TMIN": 69.98
+  },
+  {
+    "name": "GA-10",
+    "PRCP": 0,
+    "TMIN": 66.02
+  },
+  {
+    "name": "GA-10",
+    "PRCP": 0,
+    "TMIN": 53.96
+  },
+  {
+    "name": "GA-10",
+    "PRCP": 0,
+    "TMIN": 62.96
+  },
+  {
+    "name": "NM-07",
+    "PRCP": 0.01969,
+    "TMIN": 48.92
+  },
+  {
+    "name": "NM-07",
+    "PRCP": 0,
+    "TMIN": 57.02
+  },
+  {
+    "name": "NM-07",
+    "PRCP": 0,
+    "TMIN": 66.92
+  },
+  {
+    "name": "NC-08",
+    "PRCP": 0,
+    "TMIN": 69.08
+  },
+  {
+    "name": "NC-08",
+    "PRCP": 0,
+    "TMIN": 69.98
+  },
+  {
+    "name": "NC-08",
+    "PRCP": 0.05906,
+    "TMIN": 71.06
+  },
+  {
+    "name": "WV-07",
+    "PRCP": 0,
+    "TMIN": 71.96
+  },
+  {
+    "name": "WV-07",
+    "PRCP": 0.0315,
+    "TMIN": 71.96
+  },
+  {
+    "name": "WV-07",
+    "PRCP": 0.16929,
+    "TMIN": 66.92
+  },
+  {
+    "name": "IN-04",
+    "PRCP": 1.07087,
+    "TMIN": 55.94
+  },
+  {
+    "name": "IN-04",
+    "PRCP": 0,
+    "TMIN": 39.92
+  },
+  {
+    "name": "IN-04",
+    "PRCP": 0,
+    "TMIN": 26.24
+  },
+  {
+    "name": "AR-06",
+    "PRCP": 0,
+    "TMIN": 73.94
+  },
+  {
+    "name": "AR-06",
+    "PRCP": 0.25984,
+    "TMIN": 73.04
+  },
+  {
+    "name": "AR-06",
+    "PRCP": 0,
+    "TMIN": 62.96
+  },
+  {
+    "name": "HI-01",
+    "PRCP": 0.09055,
+    "TMIN": 64.94
+  },
+  {
+    "name": "HI-01",
+    "PRCP": 0,
+    "TMIN": 71.06
+  },
+  {
+    "name": "HI-01",
+    "PRCP": 0,
+    "TMIN": 57.92
+  },
+  {
+    "name": "ND-10",
+    "PRCP": 0,
+    "TMIN": 35.06
+  },
+  {
+    "name": "ND-10",
+    "PRCP": 0,
+    "TMIN": 42.08
+  },
+  {
+    "name": "ND-10",
+    "PRCP": 0,
+    "TMIN": 33.98
+  }
+]
