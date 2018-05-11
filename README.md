@@ -12,4 +12,6 @@ This repository contains the supplement material for "Assessing Effects of Task 
   - Javascript code file for calculating bootstrapped means, 95% confidence intervals in a manner sensitive to a within-subjects design.
 
 ## Cite us!
-If you use our data in published research, please cite [this paper](TBD).
+If you use our data in published research, please cite [our EuroVis'18 paper](http://idl.cs.washington.edu/papers/task-data-effectiveness/):
+
+Younghoon Kim, Jeffrey Heer. Assessing Effects of Task and Data Distribution on the Effectiveness of Visual Encodings, Computer Graphics Forum (Proc. EuroVis), 2018.
