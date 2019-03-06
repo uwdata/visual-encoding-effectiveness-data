@@ -1,6 +1,6 @@
 # Assessing Effects of Task and Data Distribution on the Effectiveness of Visual Encodings
 
-This repository contains the supplement material for "Assessing Effects of Task and Data Distribution on the Effectiveness of Visual Encodings"([paper](TBD)), submitted to EuroVis 2018.
+This repository contains the supplement material for "Assessing Effects of Task and Data Distribution on the Effectiveness of Visual Encodings"([paper](http://idl.cs.washington.edu/papers/task-data-effectiveness)), submitted to EuroVis 2018.
 
 
 ## Content
